@@ -62,7 +62,7 @@ function multiCurlGet($urls) {
 
 // Fetch tickers
 function fetchTickers() {
-    $url = './tickers/daytickers.php';
+    $url = 'https://testapi.webepex.com/ghostboard/scanners/tickers/daytickers.php';
     $data = multiCurlGet([$url]);
     $data = $data[0]; // Only one URL, so get the first response
 
@@ -130,7 +130,8 @@ function fetchDataForTickers($tickers) {
 }
 
 // Fetch tickers and data
-$tickers = fetchTickers();
+// $tickers = fetchTickers();
+$tickers = ["ACN","ADBE","ADI","AMD","APO","APPS","AVGO","BA","BBY","CRSP","CZR","DIS","ETSY","FCEL","FSLY","GOOG","GOOGL","GS","HD","INTU","JPM","LAZR","LCID","LOW","MAR","MDT","MGM","MRNA","MS","MSFT","NKE","NOW","NVDA","PFE","PLUG","PYPL","RBLX","SNOW","SPCE","TDOC","TGT","TWLO","UAL","WFC","WKHS","WYNN","XOM","ZM"];
 if (isset($tickers["error"])) {
     logMessage("Error fetching tickers");
     echo json_encode($tickers);
