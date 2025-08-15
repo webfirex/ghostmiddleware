@@ -130,8 +130,7 @@ function fetchDataForTickers($tickers) {
 }
 
 // Fetch tickers and data
-// $tickers = fetchTickers();
-$tickers = ["ACN","ADBE","ADI","AMD","APO","APPS","AVGO","BA","BBY","CRSP","CZR","DIS","ETSY","FCEL","FSLY","GOOG","GOOGL","GS","HD","INTU","JPM","LAZR","LCID","LOW","MAR","MDT","MGM","MRNA","MS","MSFT","NKE","NOW","NVDA","PFE","PLUG","PYPL","RBLX","SNOW","SPCE","TDOC","TGT","TWLO","UAL","WFC","WKHS","WYNN","XOM","ZM"];
+$tickers = fetchTickers();
 if (isset($tickers["error"])) {
     logMessage("Error fetching tickers");
     echo json_encode($tickers);
@@ -154,7 +153,7 @@ if (empty($allData)) {
     file_put_contents('intraday.json', json_encode($allData, JSON_PRETTY_PRINT));
     logMessage("Data has been stored in intraday.json.");
 }
-
+echo "Writing to: " . realpath('intraday.json');
 echo json_encode(["success" => "Data has been stored in intraday.json."]);
 
 ?>
