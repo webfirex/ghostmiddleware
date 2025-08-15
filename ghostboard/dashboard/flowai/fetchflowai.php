@@ -37,7 +37,7 @@ if (empty($marketData) || !is_array($marketData) || count($marketData['result'])
 }
 
 // Convert the result to JSON and save to a file
-$outputFile = 'alldata.json';
+$outputFile = './alldata.json';
 if (file_put_contents($outputFile, json_encode($marketData, JSON_PRETTY_PRINT)) === false) {
     die(json_encode(["error" => "Failed to write to output file."]));
 }
