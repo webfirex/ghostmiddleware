@@ -62,7 +62,7 @@ function multiCurlGet($urls) {
 
 // Fetch tickers
 function fetchTickers() {
-    $url = 'https://testapi.webepex.com/ghostboard/scanners/tickers/daytickers.php';
+    $url = 'https://ghostboard.nyc3.cdn.digitaloceanspaces.com/ghostboard/scanner-results/insideday.json';
     $data = multiCurlGet([$url]);
     $data = $data[0]; // Only one URL, so get the first response
 
