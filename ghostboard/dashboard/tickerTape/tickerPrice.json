@@ -1,0 +1,72 @@
+[
+    {
+        "symbol": "COIN",
+        "price": 258.97,
+        "volume": 5866233
+    },
+    {
+        "symbol": "META",
+        "price": 670.16,
+        "volume": 6355887
+    },
+    {
+        "symbol": "AMD",
+        "price": 117.3935,
+        "volume": 19653248
+    },
+    {
+        "symbol": "NFLX",
+        "price": 1222.78,
+        "volume": 1382267
+    },
+    {
+        "symbol": "SPY",
+        "price": 596.5,
+        "volume": 28423436
+    },
+    {
+        "symbol": "QQQ",
+        "price": 528.24,
+        "volume": 23118155
+    },
+    {
+        "symbol": "HOOD",
+        "price": 72.34,
+        "volume": 28143603
+    },
+    {
+        "symbol": "NVDA",
+        "price": 141.735,
+        "volume": 134803103
+    },
+    {
+        "symbol": "GOOGL",
+        "price": 167.8663,
+        "volume": 25905233
+    },
+    {
+        "symbol": "SNAP",
+        "price": 8.425,
+        "volume": 13871630
+    },
+    {
+        "symbol": "DIS",
+        "price": 114.15,
+        "volume": 3935404
+    },
+    {
+        "symbol": "UPS",
+        "price": 98.09,
+        "volume": 1664085
+    },
+    {
+        "symbol": "SNOW",
+        "price": 209.315,
+        "volume": 1933360
+    },
+    {
+        "symbol": "AAPL",
+        "price": 203.145,
+        "volume": 21379472
+    }
+]

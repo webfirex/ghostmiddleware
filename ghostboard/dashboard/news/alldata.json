@@ -1,0 +1,501 @@
+[
+    {
+        "removed": false,
+        "id": 47113002,
+        "createdTime": "2025-08-14T04:57:11.560577Z",
+        "tickerMetadata": [
+            {
+                "ticker": "ZK",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "Zeekr's Q2 Deliveries Rose 9.3% YoY And 14.8% QoQ To 130,866 Units, With Zeekr At 49,337 And Lynk & Co At 81,529",
+        "topics": [
+            "News",
+            "Earnings"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112990,
+        "createdTime": "2025-08-14T04:53:22.899523Z",
+        "tickerMetadata": [
+            {
+                "ticker": "ZK",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "ZEEKR Intelligent Tech Q2 Adj. EPS $(0.20) Up From $(0.75) YoY, Sales $3.83B Up From $2.76B YoY",
+        "topics": [
+            "News",
+            "Earnings"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112865,
+        "createdTime": "2025-08-14T04:45:47.014107Z",
+        "tickerMetadata": [
+            {
+                "ticker": "TSLA",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "Elon Musk-MAGA Reunion On The Cards? JD Vance Says They Would Let Tesla CEO Back In",
+        "topics": [
+            "Politics"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112619,
+        "createdTime": "2025-08-14T04:27:23.250901Z",
+        "tickerMetadata": [
+            {
+                "ticker": "GOOG",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "GOOGL",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "NVDA",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "AMZN",
+                "primary": false,
+                "sentiment": 0
+            }
+        ],
+        "title": "Perplexity CEO Responds After User Says AI Tool Finished 2-Hour, 100-Question Exam In 13 Minutes With Near-Perfect Score",
+        "topics": [
+            "Tech",
+            "News"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112380,
+        "createdTime": "2025-08-14T04:13:59.141250Z",
+        "tickerMetadata": [
+            {
+                "ticker": "GRYP",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "BAC",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "JPM",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "COF",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "$BTC",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "DJT",
+                "primary": false,
+                "sentiment": 0
+            }
+        ],
+        "title": "Eric Trump Says The Trumps Didn't Have A 'Choice' But To Embrace Crypto After They Were Debanked",
+        "topics": [
+            "News",
+            "Markets",
+            "Politics",
+            "Cryptocurrency"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112314,
+        "createdTime": "2025-08-14T03:50:17.948973Z",
+        "tickerMetadata": [
+            {
+                "ticker": "NVDA",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "AAPL",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "HNHPF",
+                "primary": false,
+                "sentiment": 0
+            }
+        ],
+        "title": "Apple Supplier Foxconn Profit Set For 11% Jump As AI Server Boom Powers Record Revenue: Report",
+        "topics": [
+            "Tech",
+            "Earnings"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112265,
+        "createdTime": "2025-08-14T03:41:47.470634Z",
+        "tickerMetadata": [
+            {
+                "ticker": "IVP",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "Inspire Veterinary Shares Surge 65% On Q2 Report, Acquisition Deal",
+        "topics": [
+            "Equities",
+            "News",
+            "Markets"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112235,
+        "createdTime": "2025-08-14T03:26:54.275441Z",
+        "tickerMetadata": [
+            {
+                "ticker": "AAPL",
+                "primary": false,
+                "sentiment": 0
+            }
+        ],
+        "title": "Elon Musk's Bid To Dismiss OpenAI's Harassment Lawsuit Denied By Court As xAI CEO Threatens Apple With Antitrust Complaint",
+        "topics": [
+            "News",
+            "Legal"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112133,
+        "createdTime": "2025-08-14T03:13:11.209591Z",
+        "tickerMetadata": [
+            {
+                "ticker": "BLSH",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "MSTR",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "ARKF",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "ARKW",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "CRL",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "ARKK",
+                "primary": false,
+                "sentiment": 0
+            }
+        ],
+        "title": "Peter Thiel-Backed Bullish Shoots Up 11% After-Hours Following Blockbuster IPO",
+        "topics": [
+            "News",
+            "IPOs",
+            "Markets",
+            "Cryptocurrency"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47112011,
+        "createdTime": "2025-08-14T02:41:40.382464Z",
+        "tickerMetadata": [
+            {
+                "ticker": "BLSH",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "CSCO",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "AMD",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "UNH",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "BSLK",
+                "primary": false,
+                "sentiment": 0
+            }
+        ],
+        "title": "Bullish, Cisco, Bolt, Unitedhealth And AMD: Why These 5 Stocks Are On Investors' Radars Today",
+        "topics": [
+            "Equities",
+            "News",
+            "Markets"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47111980,
+        "createdTime": "2025-08-14T02:26:02.397160Z",
+        "tickerMetadata": [
+            {
+                "ticker": "BTC",
+                "primary": true,
+                "sentiment": 0
+            },
+            {
+                "ticker": "$XRP",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "$ETH",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "$DOGE",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "$BTC",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "$SOL",
+                "primary": false,
+                "sentiment": 0
+            }
+        ],
+        "title": "Bitcoin Hits All-Time High; Ethereum, Dogecoin Spike: Analyst Says 'Parabolic Phase' Imminent For BTC",
+        "topics": [
+            "News",
+            "Trading Ideas",
+            "Markets",
+            "Movers",
+            "Cryptocurrency"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47111947,
+        "createdTime": "2025-08-14T02:18:44.777530Z",
+        "tickerMetadata": [
+            {
+                "ticker": "META",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "WhatsApp And Telegram Users In Russia Face New Restrictions On Voice Calls As Trump-Putin Alaska Meet Looms",
+        "topics": [
+            "News"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47111677,
+        "createdTime": "2025-08-14T01:46:42.929382Z",
+        "tickerMetadata": [
+            {
+                "ticker": "BLSH",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "SHOP",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "ARKF",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "ARKW",
+                "primary": false,
+                "sentiment": 0
+            },
+            {
+                "ticker": "ARKK",
+                "primary": false,
+                "sentiment": 0
+            }
+        ],
+        "title": "Cathie Wood Pounces On Peter Thiel-Backed Bullish Stock After Wild IPO Surge: Ark Buys Stock Worth $172.22 Million",
+        "topics": [
+            "Equities",
+            "News",
+            "Markets",
+            "ETFs"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47111206,
+        "createdTime": "2025-08-14T00:43:59.642056Z",
+        "tickerMetadata": [
+            {
+                "ticker": "$BTC",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "Bitcoin Sets New All-Time High At $124,000 As Record-Breaking Surge Continues",
+        "topics": [
+            "News",
+            "Trading Ideas",
+            "Markets",
+            "Movers",
+            "Cryptocurrency"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47110768,
+        "createdTime": "2025-08-13T23:45:27.056430Z",
+        "tickerMetadata": [
+            {
+                "ticker": "WM",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "Here's How Much $100 Invested In Waste Management 5 Years Ago Would Be Worth Today",
+        "topics": [
+            "News",
+            "Trading Ideas"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47110580,
+        "createdTime": "2025-08-13T23:30:21.204733Z",
+        "tickerMetadata": [
+            {
+                "ticker": "ACN",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "$100 Invested In Accenture 20 Years Ago Would Be Worth This Much Today",
+        "topics": [
+            "News",
+            "Trading Ideas"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47110552,
+        "createdTime": "2025-08-13T23:23:31.529963Z",
+        "tickerMetadata": [
+            {
+                "ticker": "TSLA",
+                "primary": true,
+                "sentiment": 0
+            },
+            {
+                "ticker": "F",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "Tesla CEO Elon Musk Praises Ford's Automotive Accomplishments: 'Basically Invented Mass Manufacturing'",
+        "topics": [
+            "Long Ideas",
+            "Education",
+            "News",
+            "Management"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47110487,
+        "createdTime": "2025-08-13T23:15:23.184986Z",
+        "tickerMetadata": [
+            {
+                "ticker": "TXN",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "$1000 Invested In Texas Instruments 10 Years Ago Would Be Worth This Much Today",
+        "topics": [
+            "News",
+            "Trading Ideas"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47110404,
+        "createdTime": "2025-08-13T23:09:50.516415Z",
+        "tickerMetadata": [
+            {
+                "ticker": "COHR",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "Coherent Q4 FY2025 Earnings Transcript",
+        "topics": [
+            "Trading Ideas",
+            "Earnings"
+        ]
+    },
+    {
+        "removed": false,
+        "id": 47110331,
+        "createdTime": "2025-08-13T23:00:23.751073Z",
+        "tickerMetadata": [
+            {
+                "ticker": "HWM",
+                "primary": true,
+                "sentiment": 0
+            }
+        ],
+        "title": "$1000 Invested In Howmet Aerospace 5 Years Ago Would Be Worth This Much Today",
+        "topics": [
+            "News",
+            "Trading Ideas"
+        ]
+    }
+]

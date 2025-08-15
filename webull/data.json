@@ -1,0 +1,19 @@
+{
+    "balance": "54,013.87",
+    "pnl": "0.00 --",
+    "mvalue": "0.00",
+    "risklvl": "SAFE",
+    "cad": "+0.25",
+    "usd": "+5.06",
+    "positions": [
+        {
+            "img": "https:\/\/i.ibb.co\/Mk6mgpdq\/SWWSD.png",
+            "name": "LLY US$670",
+            "details": "25 Aug 15 Call 100",
+            "mktval": "4,121.50",
+            "qty": "18",
+            "pnl1": "+2,123.87",
+            "pnl2": "+106.30%"
+        }
+    ]
+}

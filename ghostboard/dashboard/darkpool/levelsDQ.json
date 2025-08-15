@@ -1,0 +1,2248 @@
+{
+    "response": {
+        "priceInCentsToDarkPoolLevelDataSumModelMap": {
+            "56335": {
+                "notionalValueInCentsSum": 957695,
+                "sizeSum": 17,
+                "tradeCountSum": 1
+            },
+            "57440": {
+                "notionalValueInCentsSum": 2872000,
+                "sizeSum": 50,
+                "tradeCountSum": 2
+            },
+            "57495": {
+                "notionalValueInCentsSum": 57495,
+                "sizeSum": 1,
+                "tradeCountSum": 1
+            },
+            "52410": {
+                "notionalValueInCentsSum": 4192800,
+                "sizeSum": 80,
+                "tradeCountSum": 2
+            },
+            "52477": {
+                "notionalValueInCentsSum": 4198160,
+                "sizeSum": 80,
+                "tradeCountSum": 2
+            },
+            "60747": {
+                "notionalValueInCentsSum": 1214940,
+                "sizeSum": 20,
+                "tradeCountSum": 1
+            },
+            "47547": {
+                "notionalValueInCentsSum": 332829,
+                "sizeSum": 7,
+                "tradeCountSum": 1
+            },
+            "48654": {
+                "notionalValueInCentsSum": 5838480,
+                "sizeSum": 120,
+                "tradeCountSum": 1
+            },
+            "52760": {
+                "notionalValueInCentsSum": 1055200,
+                "sizeSum": 20,
+                "tradeCountSum": 1
+            },
+            "57895": {
+                "notionalValueInCentsSum": 48863380,
+                "sizeSum": 844,
+                "tradeCountSum": 3
+            },
+            "57896": {
+                "notionalValueInCentsSum": 74685840,
+                "sizeSum": 1290,
+                "tradeCountSum": 10
+            },
+            "57897": {
+                "notionalValueInCentsSum": 13895280,
+                "sizeSum": 240,
+                "tradeCountSum": 11
+            },
+            "57898": {
+                "notionalValueInCentsSum": 14474500,
+                "sizeSum": 250,
+                "tradeCountSum": 14
+            },
+            "57899": {
+                "notionalValueInCentsSum": 54482959,
+                "sizeSum": 941,
+                "tradeCountSum": 32
+            },
+            "57900": {
+                "notionalValueInCentsSum": 70638000,
+                "sizeSum": 1220,
+                "tradeCountSum": 91
+            },
+            "57901": {
+                "notionalValueInCentsSum": 193099835,
+                "sizeSum": 3335,
+                "tradeCountSum": 18
+            },
+            "57902": {
+                "notionalValueInCentsSum": 376073490,
+                "sizeSum": 6495,
+                "tradeCountSum": 40
+            },
+            "57903": {
+                "notionalValueInCentsSum": 241629219,
+                "sizeSum": 4173,
+                "tradeCountSum": 41
+            },
+            "57904": {
+                "notionalValueInCentsSum": 525710416,
+                "sizeSum": 9079,
+                "tradeCountSum": 40
+            },
+            "57905": {
+                "notionalValueInCentsSum": 96990875,
+                "sizeSum": 1675,
+                "tradeCountSum": 40
+            },
+            "57906": {
+                "notionalValueInCentsSum": 313503084,
+                "sizeSum": 5414,
+                "tradeCountSum": 56
+            },
+            "57907": {
+                "notionalValueInCentsSum": 187387052,
+                "sizeSum": 3236,
+                "tradeCountSum": 42
+            },
+            "57908": {
+                "notionalValueInCentsSum": 377386436,
+                "sizeSum": 6517,
+                "tradeCountSum": 66
+            },
+            "57909": {
+                "notionalValueInCentsSum": 349770360,
+                "sizeSum": 6040,
+                "tradeCountSum": 81
+            },
+            "57910": {
+                "notionalValueInCentsSum": 262274390,
+                "sizeSum": 4529,
+                "tradeCountSum": 74
+            },
+            "57911": {
+                "notionalValueInCentsSum": 193943939,
+                "sizeSum": 3349,
+                "tradeCountSum": 42
+            },
+            "57912": {
+                "notionalValueInCentsSum": 672068760,
+                "sizeSum": 11605,
+                "tradeCountSum": 109
+            },
+            "57913": {
+                "notionalValueInCentsSum": 514557005,
+                "sizeSum": 8885,
+                "tradeCountSum": 100
+            },
+            "57914": {
+                "notionalValueInCentsSum": 259165150,
+                "sizeSum": 4475,
+                "tradeCountSum": 71
+            },
+            "57915": {
+                "notionalValueInCentsSum": 256737195,
+                "sizeSum": 4433,
+                "tradeCountSum": 48
+            },
+            "57916": {
+                "notionalValueInCentsSum": 301336948,
+                "sizeSum": 5203,
+                "tradeCountSum": 72
+            },
+            "57917": {
+                "notionalValueInCentsSum": 420419503,
+                "sizeSum": 7259,
+                "tradeCountSum": 99
+            },
+            "57918": {
+                "notionalValueInCentsSum": 462996492,
+                "sizeSum": 7994,
+                "tradeCountSum": 81
+            },
+            "57919": {
+                "notionalValueInCentsSum": 274130627,
+                "sizeSum": 4733,
+                "tradeCountSum": 84
+            },
+            "57920": {
+                "notionalValueInCentsSum": 935350080,
+                "sizeSum": 16149,
+                "tradeCountSum": 176
+            },
+            "57921": {
+                "notionalValueInCentsSum": 749961108,
+                "sizeSum": 12948,
+                "tradeCountSum": 217
+            },
+            "57922": {
+                "notionalValueInCentsSum": 849020676,
+                "sizeSum": 14658,
+                "tradeCountSum": 227
+            },
+            "57923": {
+                "notionalValueInCentsSum": 1258898482,
+                "sizeSum": 21734,
+                "tradeCountSum": 190
+            },
+            "57924": {
+                "notionalValueInCentsSum": 763670016,
+                "sizeSum": 13184,
+                "tradeCountSum": 130
+            },
+            "57925": {
+                "notionalValueInCentsSum": 1002971375,
+                "sizeSum": 17315,
+                "tradeCountSum": 158
+            },
+            "57926": {
+                "notionalValueInCentsSum": 566747984,
+                "sizeSum": 9784,
+                "tradeCountSum": 149
+            },
+            "57927": {
+                "notionalValueInCentsSum": 494233164,
+                "sizeSum": 8532,
+                "tradeCountSum": 147
+            },
+            "57928": {
+                "notionalValueInCentsSum": 738176504,
+                "sizeSum": 12743,
+                "tradeCountSum": 232
+            },
+            "57929": {
+                "notionalValueInCentsSum": 1183547399,
+                "sizeSum": 20431,
+                "tradeCountSum": 247
+            },
+            "57930": {
+                "notionalValueInCentsSum": 1048359210,
+                "sizeSum": 18097,
+                "tradeCountSum": 287
+            },
+            "57931": {
+                "notionalValueInCentsSum": 1022713874,
+                "sizeSum": 17654,
+                "tradeCountSum": 214
+            },
+            "57932": {
+                "notionalValueInCentsSum": 795522224,
+                "sizeSum": 13732,
+                "tradeCountSum": 200
+            },
+            "57933": {
+                "notionalValueInCentsSum": 824850054,
+                "sizeSum": 14238,
+                "tradeCountSum": 269
+            },
+            "57934": {
+                "notionalValueInCentsSum": 1611608012,
+                "sizeSum": 27818,
+                "tradeCountSum": 274
+            },
+            "57935": {
+                "notionalValueInCentsSum": 1056908205,
+                "sizeSum": 18243,
+                "tradeCountSum": 285
+            },
+            "57936": {
+                "notionalValueInCentsSum": 1505293152,
+                "sizeSum": 25982,
+                "tradeCountSum": 308
+            },
+            "57937": {
+                "notionalValueInCentsSum": 1187476752,
+                "sizeSum": 20496,
+                "tradeCountSum": 289
+            },
+            "57938": {
+                "notionalValueInCentsSum": 871677210,
+                "sizeSum": 15045,
+                "tradeCountSum": 359
+            },
+            "57939": {
+                "notionalValueInCentsSum": 1705724160,
+                "sizeSum": 29440,
+                "tradeCountSum": 362
+            },
+            "57940": {
+                "notionalValueInCentsSum": 1788665740,
+                "sizeSum": 30871,
+                "tradeCountSum": 438
+            },
+            "57941": {
+                "notionalValueInCentsSum": 1510811575,
+                "sizeSum": 26075,
+                "tradeCountSum": 458
+            },
+            "57942": {
+                "notionalValueInCentsSum": 1897136964,
+                "sizeSum": 32742,
+                "tradeCountSum": 558
+            },
+            "57943": {
+                "notionalValueInCentsSum": 2183060468,
+                "sizeSum": 37676,
+                "tradeCountSum": 524
+            },
+            "57944": {
+                "notionalValueInCentsSum": 1574802032,
+                "sizeSum": 27178,
+                "tradeCountSum": 497
+            },
+            "57945": {
+                "notionalValueInCentsSum": 2771857020,
+                "sizeSum": 47836,
+                "tradeCountSum": 496
+            },
+            "57946": {
+                "notionalValueInCentsSum": 1611014692,
+                "sizeSum": 27802,
+                "tradeCountSum": 468
+            },
+            "57947": {
+                "notionalValueInCentsSum": 1879337104,
+                "sizeSum": 32432,
+                "tradeCountSum": 540
+            },
+            "57948": {
+                "notionalValueInCentsSum": 2370536784,
+                "sizeSum": 40908,
+                "tradeCountSum": 563
+            },
+            "57949": {
+                "notionalValueInCentsSum": 2373648989,
+                "sizeSum": 40961,
+                "tradeCountSum": 623
+            },
+            "57950": {
+                "notionalValueInCentsSum": 3132487250,
+                "sizeSum": 54055,
+                "tradeCountSum": 644
+            },
+            "57951": {
+                "notionalValueInCentsSum": 2589830190,
+                "sizeSum": 44690,
+                "tradeCountSum": 588
+            },
+            "57952": {
+                "notionalValueInCentsSum": 2476926432,
+                "sizeSum": 42741,
+                "tradeCountSum": 606
+            },
+            "57953": {
+                "notionalValueInCentsSum": 1906248029,
+                "sizeSum": 32893,
+                "tradeCountSum": 531
+            },
+            "57954": {
+                "notionalValueInCentsSum": 1649776518,
+                "sizeSum": 28467,
+                "tradeCountSum": 492
+            },
+            "57955": {
+                "notionalValueInCentsSum": 1414797460,
+                "sizeSum": 24412,
+                "tradeCountSum": 540
+            },
+            "57956": {
+                "notionalValueInCentsSum": 1773801336,
+                "sizeSum": 30606,
+                "tradeCountSum": 563
+            },
+            "57957": {
+                "notionalValueInCentsSum": 2098333185,
+                "sizeSum": 36205,
+                "tradeCountSum": 524
+            },
+            "57958": {
+                "notionalValueInCentsSum": 1650817714,
+                "sizeSum": 28483,
+                "tradeCountSum": 472
+            },
+            "57959": {
+                "notionalValueInCentsSum": 2543588674,
+                "sizeSum": 43886,
+                "tradeCountSum": 581
+            },
+            "57960": {
+                "notionalValueInCentsSum": 2384532360,
+                "sizeSum": 41141,
+                "tradeCountSum": 587
+            },
+            "57961": {
+                "notionalValueInCentsSum": 1683419284,
+                "sizeSum": 29044,
+                "tradeCountSum": 708
+            },
+            "57962": {
+                "notionalValueInCentsSum": 2329029084,
+                "sizeSum": 40182,
+                "tradeCountSum": 603
+            },
+            "57963": {
+                "notionalValueInCentsSum": 1387924035,
+                "sizeSum": 23945,
+                "tradeCountSum": 454
+            },
+            "57964": {
+                "notionalValueInCentsSum": 2122120004,
+                "sizeSum": 36611,
+                "tradeCountSum": 476
+            },
+            "57965": {
+                "notionalValueInCentsSum": 1997763725,
+                "sizeSum": 34465,
+                "tradeCountSum": 540
+            },
+            "57966": {
+                "notionalValueInCentsSum": 2206765620,
+                "sizeSum": 38070,
+                "tradeCountSum": 544
+            },
+            "57967": {
+                "notionalValueInCentsSum": 1572238941,
+                "sizeSum": 27123,
+                "tradeCountSum": 526
+            },
+            "57968": {
+                "notionalValueInCentsSum": 1853468832,
+                "sizeSum": 31974,
+                "tradeCountSum": 468
+            },
+            "57969": {
+                "notionalValueInCentsSum": 2368033650,
+                "sizeSum": 40850,
+                "tradeCountSum": 606
+            },
+            "57970": {
+                "notionalValueInCentsSum": 1819214540,
+                "sizeSum": 31382,
+                "tradeCountSum": 542
+            },
+            "57971": {
+                "notionalValueInCentsSum": 1713622760,
+                "sizeSum": 29560,
+                "tradeCountSum": 489
+            },
+            "57972": {
+                "notionalValueInCentsSum": 1915278936,
+                "sizeSum": 33038,
+                "tradeCountSum": 547
+            },
+            "57973": {
+                "notionalValueInCentsSum": 3208341766,
+                "sizeSum": 55342,
+                "tradeCountSum": 626
+            },
+            "57974": {
+                "notionalValueInCentsSum": 2132573590,
+                "sizeSum": 36785,
+                "tradeCountSum": 590
+            },
+            "57975": {
+                "notionalValueInCentsSum": 2374829925,
+                "sizeSum": 40963,
+                "tradeCountSum": 547
+            },
+            "57976": {
+                "notionalValueInCentsSum": 2169172040,
+                "sizeSum": 37415,
+                "tradeCountSum": 559
+            },
+            "57977": {
+                "notionalValueInCentsSum": 2271712791,
+                "sizeSum": 39183,
+                "tradeCountSum": 487
+            },
+            "57978": {
+                "notionalValueInCentsSum": 1398719250,
+                "sizeSum": 24125,
+                "tradeCountSum": 496
+            },
+            "57979": {
+                "notionalValueInCentsSum": 1512556152,
+                "sizeSum": 26088,
+                "tradeCountSum": 477
+            },
+            "57980": {
+                "notionalValueInCentsSum": 2375266660,
+                "sizeSum": 40967,
+                "tradeCountSum": 596
+            },
+            "57981": {
+                "notionalValueInCentsSum": 1580446098,
+                "sizeSum": 27258,
+                "tradeCountSum": 527
+            },
+            "57982": {
+                "notionalValueInCentsSum": 2320265694,
+                "sizeSum": 40017,
+                "tradeCountSum": 645
+            },
+            "57983": {
+                "notionalValueInCentsSum": 2259423561,
+                "sizeSum": 38967,
+                "tradeCountSum": 679
+            },
+            "57984": {
+                "notionalValueInCentsSum": 3469878528,
+                "sizeSum": 59842,
+                "tradeCountSum": 740
+            },
+            "57985": {
+                "notionalValueInCentsSum": 2989474660,
+                "sizeSum": 51556,
+                "tradeCountSum": 807
+            },
+            "57986": {
+                "notionalValueInCentsSum": 2573128750,
+                "sizeSum": 44375,
+                "tradeCountSum": 824
+            },
+            "57987": {
+                "notionalValueInCentsSum": 3060089964,
+                "sizeSum": 52772,
+                "tradeCountSum": 729
+            },
+            "57988": {
+                "notionalValueInCentsSum": 3651736312,
+                "sizeSum": 62974,
+                "tradeCountSum": 943
+            },
+            "57989": {
+                "notionalValueInCentsSum": 4359033130,
+                "sizeSum": 75170,
+                "tradeCountSum": 954
+            },
+            "57990": {
+                "notionalValueInCentsSum": 4753962210,
+                "sizeSum": 81979,
+                "tradeCountSum": 1156
+            },
+            "57991": {
+                "notionalValueInCentsSum": 3307922622,
+                "sizeSum": 57042,
+                "tradeCountSum": 1072
+            },
+            "57992": {
+                "notionalValueInCentsSum": 3703543096,
+                "sizeSum": 63863,
+                "tradeCountSum": 1023
+            },
+            "57993": {
+                "notionalValueInCentsSum": 4011433803,
+                "sizeSum": 69171,
+                "tradeCountSum": 1060
+            },
+            "57994": {
+                "notionalValueInCentsSum": 4284654714,
+                "sizeSum": 73881,
+                "tradeCountSum": 1158
+            },
+            "57995": {
+                "notionalValueInCentsSum": 4773162485,
+                "sizeSum": 82303,
+                "tradeCountSum": 1033
+            },
+            "57996": {
+                "notionalValueInCentsSum": 4496255892,
+                "sizeSum": 77527,
+                "tradeCountSum": 997
+            },
+            "57997": {
+                "notionalValueInCentsSum": 3157588668,
+                "sizeSum": 54444,
+                "tradeCountSum": 1045
+            },
+            "57998": {
+                "notionalValueInCentsSum": 4519320156,
+                "sizeSum": 77922,
+                "tradeCountSum": 1099
+            },
+            "57999": {
+                "notionalValueInCentsSum": 4275396285,
+                "sizeSum": 73715,
+                "tradeCountSum": 1142
+            },
+            "58000": {
+                "notionalValueInCentsSum": 5562548000,
+                "sizeSum": 95906,
+                "tradeCountSum": 1328
+            },
+            "58001": {
+                "notionalValueInCentsSum": 4161919756,
+                "sizeSum": 71756,
+                "tradeCountSum": 1157
+            },
+            "58002": {
+                "notionalValueInCentsSum": 4731397146,
+                "sizeSum": 81573,
+                "tradeCountSum": 1099
+            },
+            "58003": {
+                "notionalValueInCentsSum": 4259102287,
+                "sizeSum": 73429,
+                "tradeCountSum": 1177
+            },
+            "58004": {
+                "notionalValueInCentsSum": 4512363176,
+                "sizeSum": 77794,
+                "tradeCountSum": 1107
+            },
+            "58005": {
+                "notionalValueInCentsSum": 5199220170,
+                "sizeSum": 89634,
+                "tradeCountSum": 1343
+            },
+            "58006": {
+                "notionalValueInCentsSum": 4660956118,
+                "sizeSum": 80353,
+                "tradeCountSum": 1132
+            },
+            "58007": {
+                "notionalValueInCentsSum": 4847761004,
+                "sizeSum": 83572,
+                "tradeCountSum": 1163
+            },
+            "58008": {
+                "notionalValueInCentsSum": 3124832952,
+                "sizeSum": 53869,
+                "tradeCountSum": 1008
+            },
+            "58009": {
+                "notionalValueInCentsSum": 4070085467,
+                "sizeSum": 70163,
+                "tradeCountSum": 964
+            },
+            "58010": {
+                "notionalValueInCentsSum": 4061280100,
+                "sizeSum": 70010,
+                "tradeCountSum": 848
+            },
+            "58011": {
+                "notionalValueInCentsSum": 5656884654,
+                "sizeSum": 97514,
+                "tradeCountSum": 918
+            },
+            "58012": {
+                "notionalValueInCentsSum": 4447838052,
+                "sizeSum": 76671,
+                "tradeCountSum": 1008
+            },
+            "58013": {
+                "notionalValueInCentsSum": 4707348859,
+                "sizeSum": 81143,
+                "tradeCountSum": 1115
+            },
+            "58014": {
+                "notionalValueInCentsSum": 5234487192,
+                "sizeSum": 90228,
+                "tradeCountSum": 1022
+            },
+            "58015": {
+                "notionalValueInCentsSum": 3803405385,
+                "sizeSum": 65559,
+                "tradeCountSum": 835
+            },
+            "58016": {
+                "notionalValueInCentsSum": 3946712448,
+                "sizeSum": 68028,
+                "tradeCountSum": 974
+            },
+            "58017": {
+                "notionalValueInCentsSum": 39655837857,
+                "sizeSum": 683521,
+                "tradeCountSum": 825
+            },
+            "58018": {
+                "notionalValueInCentsSum": 4156351502,
+                "sizeSum": 71639,
+                "tradeCountSum": 908
+            },
+            "58019": {
+                "notionalValueInCentsSum": 4266601222,
+                "sizeSum": 73538,
+                "tradeCountSum": 1056
+            },
+            "58020": {
+                "notionalValueInCentsSum": 3198236460,
+                "sizeSum": 55123,
+                "tradeCountSum": 945
+            },
+            "58021": {
+                "notionalValueInCentsSum": 3168642852,
+                "sizeSum": 54612,
+                "tradeCountSum": 839
+            },
+            "58022": {
+                "notionalValueInCentsSum": 3776245826,
+                "sizeSum": 65083,
+                "tradeCountSum": 862
+            },
+            "58023": {
+                "notionalValueInCentsSum": 3251782989,
+                "sizeSum": 56043,
+                "tradeCountSum": 910
+            },
+            "58024": {
+                "notionalValueInCentsSum": 2817935560,
+                "sizeSum": 48565,
+                "tradeCountSum": 833
+            },
+            "58025": {
+                "notionalValueInCentsSum": 3429103425,
+                "sizeSum": 59097,
+                "tradeCountSum": 765
+            },
+            "58026": {
+                "notionalValueInCentsSum": 2884298382,
+                "sizeSum": 49707,
+                "tradeCountSum": 629
+            },
+            "58027": {
+                "notionalValueInCentsSum": 3026166077,
+                "sizeSum": 52151,
+                "tradeCountSum": 648
+            },
+            "52908": {
+                "notionalValueInCentsSum": 52908,
+                "sizeSum": 1,
+                "tradeCountSum": 1
+            },
+            "58028": {
+                "notionalValueInCentsSum": 1965118220,
+                "sizeSum": 33865,
+                "tradeCountSum": 570
+            },
+            "58029": {
+                "notionalValueInCentsSum": 2322726783,
+                "sizeSum": 40027,
+                "tradeCountSum": 678
+            },
+            "58030": {
+                "notionalValueInCentsSum": 2334953110,
+                "sizeSum": 40237,
+                "tradeCountSum": 715
+            },
+            "58031": {
+                "notionalValueInCentsSum": 3517374972,
+                "sizeSum": 60612,
+                "tradeCountSum": 684
+            },
+            "58032": {
+                "notionalValueInCentsSum": 1939139280,
+                "sizeSum": 33415,
+                "tradeCountSum": 598
+            },
+            "58033": {
+                "notionalValueInCentsSum": 2716872928,
+                "sizeSum": 46816,
+                "tradeCountSum": 770
+            },
+            "58034": {
+                "notionalValueInCentsSum": 14741274374,
+                "sizeSum": 254011,
+                "tradeCountSum": 699
+            },
+            "58035": {
+                "notionalValueInCentsSum": 2443273500,
+                "sizeSum": 42100,
+                "tradeCountSum": 648
+            },
+            "58036": {
+                "notionalValueInCentsSum": 2006594700,
+                "sizeSum": 34575,
+                "tradeCountSum": 546
+            },
+            "58037": {
+                "notionalValueInCentsSum": 1534846502,
+                "sizeSum": 26446,
+                "tradeCountSum": 507
+            },
+            "58038": {
+                "notionalValueInCentsSum": 1381942818,
+                "sizeSum": 23811,
+                "tradeCountSum": 476
+            },
+            "58039": {
+                "notionalValueInCentsSum": 2092596145,
+                "sizeSum": 36055,
+                "tradeCountSum": 563
+            },
+            "58040": {
+                "notionalValueInCentsSum": 1888621600,
+                "sizeSum": 32540,
+                "tradeCountSum": 588
+            },
+            "58041": {
+                "notionalValueInCentsSum": 27523970856,
+                "sizeSum": 474216,
+                "tradeCountSum": 660
+            },
+            "58042": {
+                "notionalValueInCentsSum": 118615385746,
+                "sizeSum": 2043613,
+                "tradeCountSum": 647
+            },
+            "58043": {
+                "notionalValueInCentsSum": 2899363936,
+                "sizeSum": 49952,
+                "tradeCountSum": 648
+            },
+            "58044": {
+                "notionalValueInCentsSum": 2725107756,
+                "sizeSum": 46949,
+                "tradeCountSum": 660
+            },
+            "58045": {
+                "notionalValueInCentsSum": 2766424700,
+                "sizeSum": 47660,
+                "tradeCountSum": 651
+            },
+            "58046": {
+                "notionalValueInCentsSum": 3313613956,
+                "sizeSum": 57086,
+                "tradeCountSum": 617
+            },
+            "58047": {
+                "notionalValueInCentsSum": 2148551658,
+                "sizeSum": 37014,
+                "tradeCountSum": 506
+            },
+            "58048": {
+                "notionalValueInCentsSum": 3323770432,
+                "sizeSum": 57259,
+                "tradeCountSum": 526
+            },
+            "58049": {
+                "notionalValueInCentsSum": 2179043362,
+                "sizeSum": 37538,
+                "tradeCountSum": 532
+            },
+            "58050": {
+                "notionalValueInCentsSum": 2337963750,
+                "sizeSum": 40275,
+                "tradeCountSum": 520
+            },
+            "58051": {
+                "notionalValueInCentsSum": 1527089606,
+                "sizeSum": 26306,
+                "tradeCountSum": 406
+            },
+            "58052": {
+                "notionalValueInCentsSum": 2263621636,
+                "sizeSum": 38993,
+                "tradeCountSum": 477
+            },
+            "58053": {
+                "notionalValueInCentsSum": 3462803397,
+                "sizeSum": 59649,
+                "tradeCountSum": 518
+            },
+            "58054": {
+                "notionalValueInCentsSum": 2754372030,
+                "sizeSum": 47445,
+                "tradeCountSum": 534
+            },
+            "58055": {
+                "notionalValueInCentsSum": 2474884650,
+                "sizeSum": 42630,
+                "tradeCountSum": 640
+            },
+            "58056": {
+                "notionalValueInCentsSum": 3212586816,
+                "sizeSum": 55336,
+                "tradeCountSum": 604
+            },
+            "58057": {
+                "notionalValueInCentsSum": 2155250011,
+                "sizeSum": 37123,
+                "tradeCountSum": 556
+            },
+            "58058": {
+                "notionalValueInCentsSum": 3457295842,
+                "sizeSum": 59549,
+                "tradeCountSum": 612
+            },
+            "58059": {
+                "notionalValueInCentsSum": 2454153930,
+                "sizeSum": 42270,
+                "tradeCountSum": 559
+            },
+            "58060": {
+                "notionalValueInCentsSum": 2494083420,
+                "sizeSum": 42957,
+                "tradeCountSum": 593
+            },
+            "58061": {
+                "notionalValueInCentsSum": 2416614942,
+                "sizeSum": 41622,
+                "tradeCountSum": 541
+            },
+            "58062": {
+                "notionalValueInCentsSum": 2458867638,
+                "sizeSum": 42349,
+                "tradeCountSum": 637
+            },
+            "58063": {
+                "notionalValueInCentsSum": 2389524702,
+                "sizeSum": 41154,
+                "tradeCountSum": 681
+            },
+            "58064": {
+                "notionalValueInCentsSum": 3158217088,
+                "sizeSum": 54392,
+                "tradeCountSum": 675
+            },
+            "58065": {
+                "notionalValueInCentsSum": 3450802950,
+                "sizeSum": 59430,
+                "tradeCountSum": 601
+            },
+            "58066": {
+                "notionalValueInCentsSum": 1852595730,
+                "sizeSum": 31905,
+                "tradeCountSum": 529
+            },
+            "58067": {
+                "notionalValueInCentsSum": 1670761791,
+                "sizeSum": 28773,
+                "tradeCountSum": 641
+            },
+            "58068": {
+                "notionalValueInCentsSum": 1625729796,
+                "sizeSum": 27997,
+                "tradeCountSum": 617
+            },
+            "58069": {
+                "notionalValueInCentsSum": 1452247621,
+                "sizeSum": 25009,
+                "tradeCountSum": 519
+            },
+            "58070": {
+                "notionalValueInCentsSum": 1808415940,
+                "sizeSum": 31142,
+                "tradeCountSum": 530
+            },
+            "58071": {
+                "notionalValueInCentsSum": 1772268849,
+                "sizeSum": 30519,
+                "tradeCountSum": 496
+            },
+            "58072": {
+                "notionalValueInCentsSum": 1544947488,
+                "sizeSum": 26604,
+                "tradeCountSum": 445
+            },
+            "58073": {
+                "notionalValueInCentsSum": 1287362264,
+                "sizeSum": 22168,
+                "tradeCountSum": 425
+            },
+            "58074": {
+                "notionalValueInCentsSum": 1109155326,
+                "sizeSum": 19099,
+                "tradeCountSum": 374
+            },
+            "58075": {
+                "notionalValueInCentsSum": 1417726900,
+                "sizeSum": 24412,
+                "tradeCountSum": 391
+            },
+            "58076": {
+                "notionalValueInCentsSum": 1616313156,
+                "sizeSum": 27831,
+                "tradeCountSum": 415
+            },
+            "58077": {
+                "notionalValueInCentsSum": 1206201213,
+                "sizeSum": 20769,
+                "tradeCountSum": 381
+            },
+            "58078": {
+                "notionalValueInCentsSum": 1005736726,
+                "sizeSum": 17317,
+                "tradeCountSum": 390
+            },
+            "58079": {
+                "notionalValueInCentsSum": 1381931726,
+                "sizeSum": 23794,
+                "tradeCountSum": 341
+            },
+            "58080": {
+                "notionalValueInCentsSum": 847096800,
+                "sizeSum": 14585,
+                "tradeCountSum": 272
+            },
+            "58081": {
+                "notionalValueInCentsSum": 987202757,
+                "sizeSum": 16997,
+                "tradeCountSum": 264
+            },
+            "58082": {
+                "notionalValueInCentsSum": 745772880,
+                "sizeSum": 12840,
+                "tradeCountSum": 202
+            },
+            "58083": {
+                "notionalValueInCentsSum": 1221427407,
+                "sizeSum": 21029,
+                "tradeCountSum": 306
+            },
+            "58084": {
+                "notionalValueInCentsSum": 804114896,
+                "sizeSum": 13844,
+                "tradeCountSum": 264
+            },
+            "58085": {
+                "notionalValueInCentsSum": 765153705,
+                "sizeSum": 13173,
+                "tradeCountSum": 216
+            },
+            "58086": {
+                "notionalValueInCentsSum": 556638138,
+                "sizeSum": 9583,
+                "tradeCountSum": 172
+            },
+            "58087": {
+                "notionalValueInCentsSum": 1057067226,
+                "sizeSum": 18198,
+                "tradeCountSum": 249
+            },
+            "58088": {
+                "notionalValueInCentsSum": 939282960,
+                "sizeSum": 16170,
+                "tradeCountSum": 193
+            },
+            "58089": {
+                "notionalValueInCentsSum": 863841519,
+                "sizeSum": 14871,
+                "tradeCountSum": 188
+            },
+            "58090": {
+                "notionalValueInCentsSum": 866818980,
+                "sizeSum": 14922,
+                "tradeCountSum": 230
+            },
+            "58091": {
+                "notionalValueInCentsSum": 756925730,
+                "sizeSum": 13030,
+                "tradeCountSum": 190
+            },
+            "58092": {
+                "notionalValueInCentsSum": 638198712,
+                "sizeSum": 10986,
+                "tradeCountSum": 206
+            },
+            "58093": {
+                "notionalValueInCentsSum": 812779163,
+                "sizeSum": 13991,
+                "tradeCountSum": 223
+            },
+            "58094": {
+                "notionalValueInCentsSum": 706074476,
+                "sizeSum": 12154,
+                "tradeCountSum": 180
+            },
+            "58095": {
+                "notionalValueInCentsSum": 536100660,
+                "sizeSum": 9228,
+                "tradeCountSum": 140
+            },
+            "58096": {
+                "notionalValueInCentsSum": 416954992,
+                "sizeSum": 7177,
+                "tradeCountSum": 131
+            },
+            "58097": {
+                "notionalValueInCentsSum": 647549162,
+                "sizeSum": 11146,
+                "tradeCountSum": 117
+            },
+            "58098": {
+                "notionalValueInCentsSum": 419758050,
+                "sizeSum": 7225,
+                "tradeCountSum": 101
+            },
+            "58099": {
+                "notionalValueInCentsSum": 436207292,
+                "sizeSum": 7508,
+                "tradeCountSum": 103
+            },
+            "58100": {
+                "notionalValueInCentsSum": 514126900,
+                "sizeSum": 8849,
+                "tradeCountSum": 177
+            },
+            "58101": {
+                "notionalValueInCentsSum": 297709524,
+                "sizeSum": 5124,
+                "tradeCountSum": 81
+            },
+            "58102": {
+                "notionalValueInCentsSum": 341407352,
+                "sizeSum": 5876,
+                "tradeCountSum": 62
+            },
+            "58103": {
+                "notionalValueInCentsSum": 90292062,
+                "sizeSum": 1554,
+                "tradeCountSum": 42
+            },
+            "58104": {
+                "notionalValueInCentsSum": 78324192,
+                "sizeSum": 1348,
+                "tradeCountSum": 38
+            },
+            "58105": {
+                "notionalValueInCentsSum": 120916505,
+                "sizeSum": 2081,
+                "tradeCountSum": 29
+            },
+            "58106": {
+                "notionalValueInCentsSum": 29634060,
+                "sizeSum": 510,
+                "tradeCountSum": 15
+            },
+            "58107": {
+                "notionalValueInCentsSum": 14294322,
+                "sizeSum": 246,
+                "tradeCountSum": 10
+            },
+            "58108": {
+                "notionalValueInCentsSum": 143352436,
+                "sizeSum": 2467,
+                "tradeCountSum": 21
+            },
+            "58109": {
+                "notionalValueInCentsSum": 114939602,
+                "sizeSum": 1978,
+                "tradeCountSum": 28
+            },
+            "58110": {
+                "notionalValueInCentsSum": 147134520,
+                "sizeSum": 2532,
+                "tradeCountSum": 31
+            },
+            "58111": {
+                "notionalValueInCentsSum": 229596561,
+                "sizeSum": 3951,
+                "tradeCountSum": 24
+            },
+            "58112": {
+                "notionalValueInCentsSum": 128253184,
+                "sizeSum": 2207,
+                "tradeCountSum": 27
+            },
+            "58113": {
+                "notionalValueInCentsSum": 160798671,
+                "sizeSum": 2767,
+                "tradeCountSum": 39
+            },
+            "58114": {
+                "notionalValueInCentsSum": 258491072,
+                "sizeSum": 4448,
+                "tradeCountSum": 41
+            },
+            "58115": {
+                "notionalValueInCentsSum": 112568755,
+                "sizeSum": 1937,
+                "tradeCountSum": 38
+            },
+            "58116": {
+                "notionalValueInCentsSum": 190678596,
+                "sizeSum": 3281,
+                "tradeCountSum": 39
+            },
+            "58117": {
+                "notionalValueInCentsSum": 99205719,
+                "sizeSum": 1707,
+                "tradeCountSum": 57
+            },
+            "58118": {
+                "notionalValueInCentsSum": 73635506,
+                "sizeSum": 1267,
+                "tradeCountSum": 36
+            },
+            "58119": {
+                "notionalValueInCentsSum": 178076616,
+                "sizeSum": 3064,
+                "tradeCountSum": 38
+            },
+            "58120": {
+                "notionalValueInCentsSum": 122168240,
+                "sizeSum": 2102,
+                "tradeCountSum": 68
+            },
+            "58121": {
+                "notionalValueInCentsSum": 373427425,
+                "sizeSum": 6425,
+                "tradeCountSum": 93
+            },
+            "58122": {
+                "notionalValueInCentsSum": 443819592,
+                "sizeSum": 7636,
+                "tradeCountSum": 125
+            },
+            "58123": {
+                "notionalValueInCentsSum": 475388017,
+                "sizeSum": 8179,
+                "tradeCountSum": 185
+            },
+            "58124": {
+                "notionalValueInCentsSum": 507073776,
+                "sizeSum": 8724,
+                "tradeCountSum": 164
+            },
+            "58125": {
+                "notionalValueInCentsSum": 422278125,
+                "sizeSum": 7265,
+                "tradeCountSum": 141
+            },
+            "58126": {
+                "notionalValueInCentsSum": 238607230,
+                "sizeSum": 4105,
+                "tradeCountSum": 116
+            },
+            "58127": {
+                "notionalValueInCentsSum": 278021441,
+                "sizeSum": 4783,
+                "tradeCountSum": 114
+            },
+            "58128": {
+                "notionalValueInCentsSum": 536521440,
+                "sizeSum": 9230,
+                "tradeCountSum": 131
+            },
+            "58129": {
+                "notionalValueInCentsSum": 308606861,
+                "sizeSum": 5309,
+                "tradeCountSum": 112
+            },
+            "58130": {
+                "notionalValueInCentsSum": 372322650,
+                "sizeSum": 6405,
+                "tradeCountSum": 144
+            },
+            "58131": {
+                "notionalValueInCentsSum": 300769794,
+                "sizeSum": 5174,
+                "tradeCountSum": 118
+            },
+            "58132": {
+                "notionalValueInCentsSum": 197067480,
+                "sizeSum": 3390,
+                "tradeCountSum": 80
+            },
+            "58133": {
+                "notionalValueInCentsSum": 368098156,
+                "sizeSum": 6332,
+                "tradeCountSum": 125
+            },
+            "58134": {
+                "notionalValueInCentsSum": 177366834,
+                "sizeSum": 3051,
+                "tradeCountSum": 104
+            },
+            "58135": {
+                "notionalValueInCentsSum": 381540005,
+                "sizeSum": 6563,
+                "tradeCountSum": 127
+            },
+            "58136": {
+                "notionalValueInCentsSum": 209522144,
+                "sizeSum": 3604,
+                "tradeCountSum": 105
+            },
+            "58137": {
+                "notionalValueInCentsSum": 529162974,
+                "sizeSum": 9102,
+                "tradeCountSum": 133
+            },
+            "58138": {
+                "notionalValueInCentsSum": 856314602,
+                "sizeSum": 14729,
+                "tradeCountSum": 157
+            },
+            "58139": {
+                "notionalValueInCentsSum": 216393358,
+                "sizeSum": 3722,
+                "tradeCountSum": 85
+            },
+            "58140": {
+                "notionalValueInCentsSum": 122849820,
+                "sizeSum": 2113,
+                "tradeCountSum": 183
+            },
+            "58141": {
+                "notionalValueInCentsSum": 166050696,
+                "sizeSum": 2856,
+                "tradeCountSum": 170
+            },
+            "58142": {
+                "notionalValueInCentsSum": 125761146,
+                "sizeSum": 2163,
+                "tradeCountSum": 248
+            },
+            "58143": {
+                "notionalValueInCentsSum": 312634911,
+                "sizeSum": 5377,
+                "tradeCountSum": 232
+            },
+            "58144": {
+                "notionalValueInCentsSum": 394797760,
+                "sizeSum": 6790,
+                "tradeCountSum": 462
+            },
+            "58145": {
+                "notionalValueInCentsSum": 297993125,
+                "sizeSum": 5125,
+                "tradeCountSum": 391
+            },
+            "58146": {
+                "notionalValueInCentsSum": 224908728,
+                "sizeSum": 3868,
+                "tradeCountSum": 330
+            },
+            "58147": {
+                "notionalValueInCentsSum": 438951703,
+                "sizeSum": 7549,
+                "tradeCountSum": 383
+            },
+            "58148": {
+                "notionalValueInCentsSum": 391626780,
+                "sizeSum": 6735,
+                "tradeCountSum": 313
+            },
+            "58149": {
+                "notionalValueInCentsSum": 472344327,
+                "sizeSum": 8123,
+                "tradeCountSum": 308
+            },
+            "58150": {
+                "notionalValueInCentsSum": 578243600,
+                "sizeSum": 9944,
+                "tradeCountSum": 370
+            },
+            "58151": {
+                "notionalValueInCentsSum": 976994951,
+                "sizeSum": 16801,
+                "tradeCountSum": 264
+            },
+            "58152": {
+                "notionalValueInCentsSum": 1135650408,
+                "sizeSum": 19529,
+                "tradeCountSum": 279
+            },
+            "58153": {
+                "notionalValueInCentsSum": 522679164,
+                "sizeSum": 8988,
+                "tradeCountSum": 300
+            },
+            "58154": {
+                "notionalValueInCentsSum": 1305789916,
+                "sizeSum": 22454,
+                "tradeCountSum": 312
+            },
+            "58155": {
+                "notionalValueInCentsSum": 885933270,
+                "sizeSum": 15234,
+                "tradeCountSum": 397
+            },
+            "58156": {
+                "notionalValueInCentsSum": 877922976,
+                "sizeSum": 15096,
+                "tradeCountSum": 449
+            },
+            "58157": {
+                "notionalValueInCentsSum": 927894935,
+                "sizeSum": 15955,
+                "tradeCountSum": 562
+            },
+            "58158": {
+                "notionalValueInCentsSum": 1172407122,
+                "sizeSum": 20159,
+                "tradeCountSum": 439
+            },
+            "58159": {
+                "notionalValueInCentsSum": 1047501749,
+                "sizeSum": 18011,
+                "tradeCountSum": 407
+            },
+            "58160": {
+                "notionalValueInCentsSum": 1419220320,
+                "sizeSum": 24402,
+                "tradeCountSum": 583
+            },
+            "58161": {
+                "notionalValueInCentsSum": 1229756184,
+                "sizeSum": 21144,
+                "tradeCountSum": 516
+            },
+            "58162": {
+                "notionalValueInCentsSum": 669619106,
+                "sizeSum": 11513,
+                "tradeCountSum": 451
+            },
+            "58163": {
+                "notionalValueInCentsSum": 974753717,
+                "sizeSum": 16759,
+                "tradeCountSum": 412
+            },
+            "58164": {
+                "notionalValueInCentsSum": 799987656,
+                "sizeSum": 13754,
+                "tradeCountSum": 409
+            },
+            "58165": {
+                "notionalValueInCentsSum": 2338116670,
+                "sizeSum": 40198,
+                "tradeCountSum": 430
+            },
+            "58166": {
+                "notionalValueInCentsSum": 1762487966,
+                "sizeSum": 30301,
+                "tradeCountSum": 595
+            },
+            "58167": {
+                "notionalValueInCentsSum": 1967440608,
+                "sizeSum": 33824,
+                "tradeCountSum": 520
+            },
+            "58168": {
+                "notionalValueInCentsSum": 1882258312,
+                "sizeSum": 32359,
+                "tradeCountSum": 392
+            },
+            "58169": {
+                "notionalValueInCentsSum": 1282742788,
+                "sizeSum": 22052,
+                "tradeCountSum": 360
+            },
+            "58170": {
+                "notionalValueInCentsSum": 897853950,
+                "sizeSum": 15435,
+                "tradeCountSum": 367
+            },
+            "58171": {
+                "notionalValueInCentsSum": 1052604245,
+                "sizeSum": 18095,
+                "tradeCountSum": 500
+            },
+            "58172": {
+                "notionalValueInCentsSum": 839305616,
+                "sizeSum": 14428,
+                "tradeCountSum": 448
+            },
+            "58173": {
+                "notionalValueInCentsSum": 715237035,
+                "sizeSum": 12295,
+                "tradeCountSum": 464
+            },
+            "58174": {
+                "notionalValueInCentsSum": 1095765464,
+                "sizeSum": 18836,
+                "tradeCountSum": 446
+            },
+            "58175": {
+                "notionalValueInCentsSum": 885888900,
+                "sizeSum": 15228,
+                "tradeCountSum": 432
+            },
+            "58176": {
+                "notionalValueInCentsSum": 872407296,
+                "sizeSum": 14996,
+                "tradeCountSum": 484
+            },
+            "58177": {
+                "notionalValueInCentsSum": 685092352,
+                "sizeSum": 11776,
+                "tradeCountSum": 295
+            },
+            "58178": {
+                "notionalValueInCentsSum": 628438756,
+                "sizeSum": 10802,
+                "tradeCountSum": 185
+            },
+            "58179": {
+                "notionalValueInCentsSum": 748298298,
+                "sizeSum": 12862,
+                "tradeCountSum": 152
+            },
+            "58180": {
+                "notionalValueInCentsSum": 814869080,
+                "sizeSum": 14006,
+                "tradeCountSum": 169
+            },
+            "58181": {
+                "notionalValueInCentsSum": 686419438,
+                "sizeSum": 11798,
+                "tradeCountSum": 212
+            },
+            "58182": {
+                "notionalValueInCentsSum": 648554754,
+                "sizeSum": 11147,
+                "tradeCountSum": 161
+            },
+            "58183": {
+                "notionalValueInCentsSum": 949662926,
+                "sizeSum": 16322,
+                "tradeCountSum": 193
+            },
+            "58184": {
+                "notionalValueInCentsSum": 930827632,
+                "sizeSum": 15998,
+                "tradeCountSum": 135
+            },
+            "58185": {
+                "notionalValueInCentsSum": 674131410,
+                "sizeSum": 11586,
+                "tradeCountSum": 185
+            },
+            "58186": {
+                "notionalValueInCentsSum": 879306832,
+                "sizeSum": 15112,
+                "tradeCountSum": 164
+            },
+            "58187": {
+                "notionalValueInCentsSum": 636914902,
+                "sizeSum": 10946,
+                "tradeCountSum": 147
+            },
+            "58188": {
+                "notionalValueInCentsSum": 297515244,
+                "sizeSum": 5113,
+                "tradeCountSum": 87
+            },
+            "58189": {
+                "notionalValueInCentsSum": 314977057,
+                "sizeSum": 5413,
+                "tradeCountSum": 93
+            },
+            "58190": {
+                "notionalValueInCentsSum": 249576910,
+                "sizeSum": 4289,
+                "tradeCountSum": 85
+            },
+            "58191": {
+                "notionalValueInCentsSum": 76812120,
+                "sizeSum": 1320,
+                "tradeCountSum": 50
+            },
+            "58192": {
+                "notionalValueInCentsSum": 291134576,
+                "sizeSum": 5003,
+                "tradeCountSum": 67
+            },
+            "58193": {
+                "notionalValueInCentsSum": 390242258,
+                "sizeSum": 6706,
+                "tradeCountSum": 74
+            },
+            "58194": {
+                "notionalValueInCentsSum": 152235504,
+                "sizeSum": 2616,
+                "tradeCountSum": 85
+            },
+            "58195": {
+                "notionalValueInCentsSum": 456365190,
+                "sizeSum": 7842,
+                "tradeCountSum": 126
+            },
+            "58196": {
+                "notionalValueInCentsSum": 279166212,
+                "sizeSum": 4797,
+                "tradeCountSum": 92
+            },
+            "58197": {
+                "notionalValueInCentsSum": 285165300,
+                "sizeSum": 4900,
+                "tradeCountSum": 65
+            },
+            "58198": {
+                "notionalValueInCentsSum": 676086166,
+                "sizeSum": 11617,
+                "tradeCountSum": 100
+            },
+            "58199": {
+                "notionalValueInCentsSum": 287968652,
+                "sizeSum": 4948,
+                "tradeCountSum": 83
+            },
+            "58200": {
+                "notionalValueInCentsSum": 289312200,
+                "sizeSum": 4971,
+                "tradeCountSum": 112
+            },
+            "58201": {
+                "notionalValueInCentsSum": 321211319,
+                "sizeSum": 5519,
+                "tradeCountSum": 72
+            },
+            "58202": {
+                "notionalValueInCentsSum": 134446620,
+                "sizeSum": 2310,
+                "tradeCountSum": 55
+            },
+            "58203": {
+                "notionalValueInCentsSum": 796682664,
+                "sizeSum": 13688,
+                "tradeCountSum": 86
+            },
+            "58204": {
+                "notionalValueInCentsSum": 59368080,
+                "sizeSum": 1020,
+                "tradeCountSum": 35
+            },
+            "58205": {
+                "notionalValueInCentsSum": 336192080,
+                "sizeSum": 5776,
+                "tradeCountSum": 56
+            },
+            "58206": {
+                "notionalValueInCentsSum": 254185602,
+                "sizeSum": 4367,
+                "tradeCountSum": 59
+            },
+            "58207": {
+                "notionalValueInCentsSum": 553548570,
+                "sizeSum": 9510,
+                "tradeCountSum": 72
+            },
+            "58208": {
+                "notionalValueInCentsSum": 277011872,
+                "sizeSum": 4759,
+                "tradeCountSum": 85
+            },
+            "58209": {
+                "notionalValueInCentsSum": 310021134,
+                "sizeSum": 5326,
+                "tradeCountSum": 67
+            },
+            "58210": {
+                "notionalValueInCentsSum": 1024146740,
+                "sizeSum": 17594,
+                "tradeCountSum": 100
+            },
+            "58211": {
+                "notionalValueInCentsSum": 198033822,
+                "sizeSum": 3402,
+                "tradeCountSum": 42
+            },
+            "58212": {
+                "notionalValueInCentsSum": 458594136,
+                "sizeSum": 7878,
+                "tradeCountSum": 53
+            },
+            "58213": {
+                "notionalValueInCentsSum": 178946762,
+                "sizeSum": 3074,
+                "tradeCountSum": 70
+            },
+            "58214": {
+                "notionalValueInCentsSum": 139015032,
+                "sizeSum": 2388,
+                "tradeCountSum": 70
+            },
+            "58215": {
+                "notionalValueInCentsSum": 270525105,
+                "sizeSum": 4647,
+                "tradeCountSum": 97
+            },
+            "58216": {
+                "notionalValueInCentsSum": 368041552,
+                "sizeSum": 6322,
+                "tradeCountSum": 86
+            },
+            "58217": {
+                "notionalValueInCentsSum": 242066286,
+                "sizeSum": 4158,
+                "tradeCountSum": 98
+            },
+            "58218": {
+                "notionalValueInCentsSum": 920193708,
+                "sizeSum": 15806,
+                "tradeCountSum": 111
+            },
+            "58219": {
+                "notionalValueInCentsSum": 507262147,
+                "sizeSum": 8713,
+                "tradeCountSum": 79
+            },
+            "58220": {
+                "notionalValueInCentsSum": 354559800,
+                "sizeSum": 6090,
+                "tradeCountSum": 100
+            },
+            "58221": {
+                "notionalValueInCentsSum": 208372959,
+                "sizeSum": 3579,
+                "tradeCountSum": 76
+            },
+            "58222": {
+                "notionalValueInCentsSum": 289479784,
+                "sizeSum": 4972,
+                "tradeCountSum": 93
+            },
+            "58223": {
+                "notionalValueInCentsSum": 445522396,
+                "sizeSum": 7652,
+                "tradeCountSum": 117
+            },
+            "58224": {
+                "notionalValueInCentsSum": 260843520,
+                "sizeSum": 4480,
+                "tradeCountSum": 79
+            },
+            "58225": {
+                "notionalValueInCentsSum": 479424650,
+                "sizeSum": 8234,
+                "tradeCountSum": 82
+            },
+            "58226": {
+                "notionalValueInCentsSum": 880260668,
+                "sizeSum": 15118,
+                "tradeCountSum": 106
+            },
+            "58227": {
+                "notionalValueInCentsSum": 204842586,
+                "sizeSum": 3518,
+                "tradeCountSum": 101
+            },
+            "58228": {
+                "notionalValueInCentsSum": 252069012,
+                "sizeSum": 4329,
+                "tradeCountSum": 87
+            },
+            "58229": {
+                "notionalValueInCentsSum": 391939399,
+                "sizeSum": 6731,
+                "tradeCountSum": 72
+            },
+            "58230": {
+                "notionalValueInCentsSum": 160947720,
+                "sizeSum": 2764,
+                "tradeCountSum": 78
+            },
+            "58231": {
+                "notionalValueInCentsSum": 77330768,
+                "sizeSum": 1328,
+                "tradeCountSum": 66
+            },
+            "58232": {
+                "notionalValueInCentsSum": 209460504,
+                "sizeSum": 3597,
+                "tradeCountSum": 88
+            },
+            "58233": {
+                "notionalValueInCentsSum": 144534306,
+                "sizeSum": 2482,
+                "tradeCountSum": 53
+            },
+            "58234": {
+                "notionalValueInCentsSum": 149661380,
+                "sizeSum": 2570,
+                "tradeCountSum": 65
+            },
+            "58235": {
+                "notionalValueInCentsSum": 169580320,
+                "sizeSum": 2912,
+                "tradeCountSum": 74
+            },
+            "58236": {
+                "notionalValueInCentsSum": 395888328,
+                "sizeSum": 6798,
+                "tradeCountSum": 87
+            },
+            "58237": {
+                "notionalValueInCentsSum": 180301752,
+                "sizeSum": 3096,
+                "tradeCountSum": 63
+            },
+            "58238": {
+                "notionalValueInCentsSum": 289675812,
+                "sizeSum": 4974,
+                "tradeCountSum": 102
+            },
+            "58239": {
+                "notionalValueInCentsSum": 501787224,
+                "sizeSum": 8616,
+                "tradeCountSum": 137
+            },
+            "58240": {
+                "notionalValueInCentsSum": 768302080,
+                "sizeSum": 13192,
+                "tradeCountSum": 158
+            },
+            "58241": {
+                "notionalValueInCentsSum": 665578148,
+                "sizeSum": 11428,
+                "tradeCountSum": 123
+            },
+            "58242": {
+                "notionalValueInCentsSum": 352131132,
+                "sizeSum": 6046,
+                "tradeCountSum": 102
+            },
+            "58243": {
+                "notionalValueInCentsSum": 331926857,
+                "sizeSum": 5699,
+                "tradeCountSum": 131
+            },
+            "58244": {
+                "notionalValueInCentsSum": 617269912,
+                "sizeSum": 10598,
+                "tradeCountSum": 113
+            },
+            "58245": {
+                "notionalValueInCentsSum": 430547040,
+                "sizeSum": 7392,
+                "tradeCountSum": 112
+            },
+            "58246": {
+                "notionalValueInCentsSum": 489499384,
+                "sizeSum": 8404,
+                "tradeCountSum": 121
+            },
+            "58247": {
+                "notionalValueInCentsSum": 738979689,
+                "sizeSum": 12687,
+                "tradeCountSum": 146
+            },
+            "58248": {
+                "notionalValueInCentsSum": 450140544,
+                "sizeSum": 7728,
+                "tradeCountSum": 166
+            },
+            "58249": {
+                "notionalValueInCentsSum": 401859851,
+                "sizeSum": 6899,
+                "tradeCountSum": 149
+            },
+            "58250": {
+                "notionalValueInCentsSum": 1075877500,
+                "sizeSum": 18470,
+                "tradeCountSum": 144
+            },
+            "58251": {
+                "notionalValueInCentsSum": 549481683,
+                "sizeSum": 9433,
+                "tradeCountSum": 145
+            },
+            "58252": {
+                "notionalValueInCentsSum": 279609600,
+                "sizeSum": 4800,
+                "tradeCountSum": 147
+            },
+            "58253": {
+                "notionalValueInCentsSum": 482218334,
+                "sizeSum": 8278,
+                "tradeCountSum": 154
+            },
+            "58254": {
+                "notionalValueInCentsSum": 378184968,
+                "sizeSum": 6492,
+                "tradeCountSum": 147
+            },
+            "58255": {
+                "notionalValueInCentsSum": 404522720,
+                "sizeSum": 6944,
+                "tradeCountSum": 133
+            },
+            "58256": {
+                "notionalValueInCentsSum": 316213568,
+                "sizeSum": 5428,
+                "tradeCountSum": 159
+            },
+            "58257": {
+                "notionalValueInCentsSum": 407799000,
+                "sizeSum": 7000,
+                "tradeCountSum": 178
+            },
+            "58258": {
+                "notionalValueInCentsSum": 492920938,
+                "sizeSum": 8461,
+                "tradeCountSum": 175
+            },
+            "58259": {
+                "notionalValueInCentsSum": 566860070,
+                "sizeSum": 9730,
+                "tradeCountSum": 203
+            },
+            "58260": {
+                "notionalValueInCentsSum": 644180820,
+                "sizeSum": 11057,
+                "tradeCountSum": 199
+            },
+            "58261": {
+                "notionalValueInCentsSum": 1401293572,
+                "sizeSum": 24052,
+                "tradeCountSum": 211
+            },
+            "58262": {
+                "notionalValueInCentsSum": 1047375974,
+                "sizeSum": 17977,
+                "tradeCountSum": 170
+            },
+            "58263": {
+                "notionalValueInCentsSum": 408248841,
+                "sizeSum": 7007,
+                "tradeCountSum": 230
+            },
+            "58264": {
+                "notionalValueInCentsSum": 1503968632,
+                "sizeSum": 25813,
+                "tradeCountSum": 213
+            },
+            "58265": {
+                "notionalValueInCentsSum": 852475215,
+                "sizeSum": 14631,
+                "tradeCountSum": 257
+            },
+            "58266": {
+                "notionalValueInCentsSum": 1071628272,
+                "sizeSum": 18392,
+                "tradeCountSum": 299
+            },
+            "58267": {
+                "notionalValueInCentsSum": 578358242,
+                "sizeSum": 9926,
+                "tradeCountSum": 265
+            },
+            "58268": {
+                "notionalValueInCentsSum": 576969736,
+                "sizeSum": 9902,
+                "tradeCountSum": 224
+            },
+            "58269": {
+                "notionalValueInCentsSum": 550350705,
+                "sizeSum": 9445,
+                "tradeCountSum": 235
+            },
+            "58270": {
+                "notionalValueInCentsSum": 631471990,
+                "sizeSum": 10837,
+                "tradeCountSum": 183
+            },
+            "58271": {
+                "notionalValueInCentsSum": 325210451,
+                "sizeSum": 5581,
+                "tradeCountSum": 181
+            },
+            "58272": {
+                "notionalValueInCentsSum": 443158560,
+                "sizeSum": 7605,
+                "tradeCountSum": 239
+            },
+            "58273": {
+                "notionalValueInCentsSum": 672470420,
+                "sizeSum": 11540,
+                "tradeCountSum": 223
+            },
+            "58274": {
+                "notionalValueInCentsSum": 1046601040,
+                "sizeSum": 17960,
+                "tradeCountSum": 255
+            },
+            "58275": {
+                "notionalValueInCentsSum": 1391956650,
+                "sizeSum": 23886,
+                "tradeCountSum": 334
+            },
+            "58276": {
+                "notionalValueInCentsSum": 598960728,
+                "sizeSum": 10278,
+                "tradeCountSum": 290
+            },
+            "58277": {
+                "notionalValueInCentsSum": 679334989,
+                "sizeSum": 11657,
+                "tradeCountSum": 267
+            },
+            "58278": {
+                "notionalValueInCentsSum": 871897158,
+                "sizeSum": 14961,
+                "tradeCountSum": 1911
+            },
+            "58279": {
+                "notionalValueInCentsSum": 600331979,
+                "sizeSum": 10301,
+                "tradeCountSum": 237
+            },
+            "58280": {
+                "notionalValueInCentsSum": 687995400,
+                "sizeSum": 11805,
+                "tradeCountSum": 300
+            },
+            "58281": {
+                "notionalValueInCentsSum": 407092785,
+                "sizeSum": 6985,
+                "tradeCountSum": 178
+            },
+            "58282": {
+                "notionalValueInCentsSum": 396725574,
+                "sizeSum": 6807,
+                "tradeCountSum": 154
+            },
+            "58283": {
+                "notionalValueInCentsSum": 596701354,
+                "sizeSum": 10238,
+                "tradeCountSum": 219
+            },
+            "58284": {
+                "notionalValueInCentsSum": 746851176,
+                "sizeSum": 12814,
+                "tradeCountSum": 184
+            },
+            "58285": {
+                "notionalValueInCentsSum": 510110320,
+                "sizeSum": 8752,
+                "tradeCountSum": 192
+            },
+            "58286": {
+                "notionalValueInCentsSum": 849285306,
+                "sizeSum": 14571,
+                "tradeCountSum": 231
+            },
+            "58287": {
+                "notionalValueInCentsSum": 737330550,
+                "sizeSum": 12650,
+                "tradeCountSum": 225
+            },
+            "58288": {
+                "notionalValueInCentsSum": 718341312,
+                "sizeSum": 12324,
+                "tradeCountSum": 246
+            },
+            "58289": {
+                "notionalValueInCentsSum": 990330110,
+                "sizeSum": 16990,
+                "tradeCountSum": 220
+            },
+            "58290": {
+                "notionalValueInCentsSum": 819032790,
+                "sizeSum": 14051,
+                "tradeCountSum": 347
+            },
+            "58291": {
+                "notionalValueInCentsSum": 736506785,
+                "sizeSum": 12635,
+                "tradeCountSum": 351
+            },
+            "58292": {
+                "notionalValueInCentsSum": 701719096,
+                "sizeSum": 12038,
+                "tradeCountSum": 343
+            },
+            "58293": {
+                "notionalValueInCentsSum": 962300844,
+                "sizeSum": 16508,
+                "tradeCountSum": 285
+            },
+            "58294": {
+                "notionalValueInCentsSum": 719406254,
+                "sizeSum": 12341,
+                "tradeCountSum": 264
+            },
+            "58295": {
+                "notionalValueInCentsSum": 481341815,
+                "sizeSum": 8257,
+                "tradeCountSum": 252
+            },
+            "58296": {
+                "notionalValueInCentsSum": 804951168,
+                "sizeSum": 13808,
+                "tradeCountSum": 332
+            },
+            "58297": {
+                "notionalValueInCentsSum": 1370154391,
+                "sizeSum": 23503,
+                "tradeCountSum": 379
+            },
+            "58298": {
+                "notionalValueInCentsSum": 934458642,
+                "sizeSum": 16029,
+                "tradeCountSum": 371
+            },
+            "58299": {
+                "notionalValueInCentsSum": 885445212,
+                "sizeSum": 15188,
+                "tradeCountSum": 309
+            },
+            "58300": {
+                "notionalValueInCentsSum": 911170700,
+                "sizeSum": 15629,
+                "tradeCountSum": 377
+            },
+            "58301": {
+                "notionalValueInCentsSum": 620264339,
+                "sizeSum": 10639,
+                "tradeCountSum": 264
+            },
+            "58302": {
+                "notionalValueInCentsSum": 361705608,
+                "sizeSum": 6204,
+                "tradeCountSum": 199
+            },
+            "58303": {
+                "notionalValueInCentsSum": 674274195,
+                "sizeSum": 11565,
+                "tradeCountSum": 196
+            },
+            "58304": {
+                "notionalValueInCentsSum": 683964224,
+                "sizeSum": 11731,
+                "tradeCountSum": 234
+            },
+            "58305": {
+                "notionalValueInCentsSum": 773707350,
+                "sizeSum": 13270,
+                "tradeCountSum": 163
+            },
+            "58306": {
+                "notionalValueInCentsSum": 391874626,
+                "sizeSum": 6721,
+                "tradeCountSum": 135
+            },
+            "58307": {
+                "notionalValueInCentsSum": 212587322,
+                "sizeSum": 3646,
+                "tradeCountSum": 88
+            },
+            "58308": {
+                "notionalValueInCentsSum": 566986992,
+                "sizeSum": 9724,
+                "tradeCountSum": 150
+            },
+            "58309": {
+                "notionalValueInCentsSum": 466821854,
+                "sizeSum": 8006,
+                "tradeCountSum": 120
+            },
+            "58310": {
+                "notionalValueInCentsSum": 474643400,
+                "sizeSum": 8140,
+                "tradeCountSum": 162
+            },
+            "58311": {
+                "notionalValueInCentsSum": 898280955,
+                "sizeSum": 15405,
+                "tradeCountSum": 182
+            },
+            "58312": {
+                "notionalValueInCentsSum": 874505064,
+                "sizeSum": 14997,
+                "tradeCountSum": 207
+            },
+            "58313": {
+                "notionalValueInCentsSum": 616018532,
+                "sizeSum": 10564,
+                "tradeCountSum": 230
+            },
+            "58314": {
+                "notionalValueInCentsSum": 911097936,
+                "sizeSum": 15624,
+                "tradeCountSum": 208
+            },
+            "58315": {
+                "notionalValueInCentsSum": 637324635,
+                "sizeSum": 10929,
+                "tradeCountSum": 161
+            },
+            "58316": {
+                "notionalValueInCentsSum": 1216879972,
+                "sizeSum": 20867,
+                "tradeCountSum": 205
+            },
+            "58317": {
+                "notionalValueInCentsSum": 496452621,
+                "sizeSum": 8513,
+                "tradeCountSum": 214
+            },
+            "58318": {
+                "notionalValueInCentsSum": 660043124,
+                "sizeSum": 11318,
+                "tradeCountSum": 179
+            },
+            "58319": {
+                "notionalValueInCentsSum": 196360073,
+                "sizeSum": 3367,
+                "tradeCountSum": 105
+            },
+            "58320": {
+                "notionalValueInCentsSum": 278652960,
+                "sizeSum": 4778,
+                "tradeCountSum": 82
+            },
+            "58321": {
+                "notionalValueInCentsSum": 184002755,
+                "sizeSum": 3155,
+                "tradeCountSum": 43
+            },
+            "58322": {
+                "notionalValueInCentsSum": 51673292,
+                "sizeSum": 886,
+                "tradeCountSum": 19
+            },
+            "58323": {
+                "notionalValueInCentsSum": 37793304,
+                "sizeSum": 648,
+                "tradeCountSum": 15
+            },
+            "58324": {
+                "notionalValueInCentsSum": 110232360,
+                "sizeSum": 1890,
+                "tradeCountSum": 24
+            },
+            "58325": {
+                "notionalValueInCentsSum": 91161975,
+                "sizeSum": 1563,
+                "tradeCountSum": 21
+            },
+            "58326": {
+                "notionalValueInCentsSum": 631203972,
+                "sizeSum": 10822,
+                "tradeCountSum": 36
+            },
+            "58327": {
+                "notionalValueInCentsSum": 333980402,
+                "sizeSum": 5726,
+                "tradeCountSum": 36
+            },
+            "58328": {
+                "notionalValueInCentsSum": 116656000,
+                "sizeSum": 2000,
+                "tradeCountSum": 37
+            },
+            "58329": {
+                "notionalValueInCentsSum": 119982753,
+                "sizeSum": 2057,
+                "tradeCountSum": 31
+            },
+            "58330": {
+                "notionalValueInCentsSum": 92569710,
+                "sizeSum": 1587,
+                "tradeCountSum": 26
+            },
+            "58331": {
+                "notionalValueInCentsSum": 8982974,
+                "sizeSum": 154,
+                "tradeCountSum": 9
+            },
+            "58332": {
+                "notionalValueInCentsSum": 30857628,
+                "sizeSum": 529,
+                "tradeCountSum": 7
+            }
+        },
+        "stockPriceInCents": 58041
+    },
+    "errors": []
+}

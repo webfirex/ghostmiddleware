@@ -1,0 +1,28 @@
+{
+    "11-2024": [
+        {
+            "id": "recap2",
+            "title": "Flow Recap 4",
+            "subHead": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores totam quos repellat, provident ullam porro voluptas facilis eveniet odio quo laborum eaque, labore vitae consectetur, culpa officia! Vel, molestiae distinctio.",
+            "dLink": "https:\/\/www.flame.edu.in\/pdfs\/fil\/presentations\/FIL_Stock%20Market.pdf",
+            "img": "https:\/\/i.ibb.co\/8DqFy2L\/Screenshot-2024-11-05-at-1-16-59-AM.png",
+            "tags": [
+                "tag 1",
+                "tag 2",
+                "tag 3"
+            ]
+        },
+        {
+            "id": "recap4",
+            "title": "Flow Recap 4",
+            "subHead": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores totam quos repellat, provident ullam porro voluptas facilis eveniet odio quo laborum eaque, labore vitae consectetur, culpa officia! Vel, molestiae distinctio.",
+            "dLink": "https:\/\/www.flame.edu.in\/pdfs\/fil\/presentations\/FIL_Stock%20Market.pdf",
+            "img": "https:\/\/i.ibb.co\/8DqFy2L\/Screenshot-2024-11-05-at-1-16-59-AM.png",
+            "tags": [
+                "tag 1",
+                "tag 2",
+                "tag 3"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4321 @@
+{
+    "response": {
+        "tradeTimeToDarkFlowDataSumModelMap": {
+            "1755086400000": {
+                "notionalValueInCentsSum": 1707657649,
+                "sizeSum": 29362,
+                "stockPriceInCents": 58166,
+                "tradeCountSum": 805
+            },
+            "1755086460000": {
+                "notionalValueInCentsSum": 159018874,
+                "sizeSum": 2736,
+                "stockPriceInCents": 58163,
+                "tradeCountSum": 179
+            },
+            "1755086520000": {
+                "notionalValueInCentsSum": 29240692,
+                "sizeSum": 503,
+                "stockPriceInCents": 58168,
+                "tradeCountSum": 109
+            },
+            "1755086580000": {
+                "notionalValueInCentsSum": 32857387,
+                "sizeSum": 566,
+                "stockPriceInCents": 58171,
+                "tradeCountSum": 17
+            },
+            "1755086640000": {
+                "notionalValueInCentsSum": 20593591,
+                "sizeSum": 354,
+                "stockPriceInCents": 58173,
+                "tradeCountSum": 5
+            },
+            "1755086700000": {
+                "notionalValueInCentsSum": 21987938,
+                "sizeSum": 378,
+                "stockPriceInCents": 58175,
+                "tradeCountSum": 19
+            },
+            "1755086760000": {
+                "notionalValueInCentsSum": 3373895,
+                "sizeSum": 58,
+                "stockPriceInCents": 58172,
+                "tradeCountSum": 11
+            },
+            "1755086820000": {
+                "notionalValueInCentsSum": 6515717,
+                "sizeSum": 112,
+                "stockPriceInCents": 58174,
+                "tradeCountSum": 11
+            },
+            "1755086880000": {
+                "notionalValueInCentsSum": 2559467,
+                "sizeSum": 44,
+                "stockPriceInCents": 58169,
+                "tradeCountSum": 15
+            },
+            "1755086940000": {
+                "notionalValueInCentsSum": 1454122,
+                "sizeSum": 25,
+                "stockPriceInCents": 58167,
+                "tradeCountSum": 9
+            },
+            "1755087000000": {
+                "notionalValueInCentsSum": 13146108,
+                "sizeSum": 226,
+                "stockPriceInCents": 58167,
+                "tradeCountSum": 12
+            },
+            "1755087060000": {
+                "notionalValueInCentsSum": 1512387,
+                "sizeSum": 26,
+                "stockPriceInCents": 58159,
+                "tradeCountSum": 7
+            },
+            "1755087120000": {
+                "notionalValueInCentsSum": 17852217,
+                "sizeSum": 307,
+                "stockPriceInCents": 58154,
+                "tradeCountSum": 9
+            },
+            "1755087180000": {
+                "notionalValueInCentsSum": 2035432,
+                "sizeSum": 35,
+                "stockPriceInCents": 58159,
+                "tradeCountSum": 11
+            },
+            "1755087240000": {
+                "notionalValueInCentsSum": 309201031,
+                "sizeSum": 5317,
+                "stockPriceInCents": 58157,
+                "tradeCountSum": 15
+            },
+            "1755087300000": {
+                "notionalValueInCentsSum": 146092940,
+                "sizeSum": 2512,
+                "stockPriceInCents": 58162,
+                "tradeCountSum": 8
+            },
+            "1755087360000": {
+                "notionalValueInCentsSum": 2791914,
+                "sizeSum": 48,
+                "stockPriceInCents": 58173,
+                "tradeCountSum": 8
+            },
+            "1755087420000": {
+                "notionalValueInCentsSum": 3955473,
+                "sizeSum": 68,
+                "stockPriceInCents": 58169,
+                "tradeCountSum": 8
+            },
+            "1755087480000": {
+                "notionalValueInCentsSum": 2152113,
+                "sizeSum": 37,
+                "stockPriceInCents": 58170,
+                "tradeCountSum": 8
+            },
+            "1755087540000": {
+                "notionalValueInCentsSum": 14542071,
+                "sizeSum": 250,
+                "stockPriceInCents": 58169,
+                "tradeCountSum": 7
+            },
+            "1755087600000": {
+                "notionalValueInCentsSum": 7794540,
+                "sizeSum": 134,
+                "stockPriceInCents": 58172,
+                "tradeCountSum": 6
+            },
+            "1755087660000": {
+                "notionalValueInCentsSum": 18963389,
+                "sizeSum": 326,
+                "stockPriceInCents": 58174,
+                "tradeCountSum": 12
+            },
+            "1755087720000": {
+                "notionalValueInCentsSum": 3955664,
+                "sizeSum": 68,
+                "stockPriceInCents": 58171,
+                "tradeCountSum": 9
+            },
+            "1755087780000": {
+                "notionalValueInCentsSum": 1221482,
+                "sizeSum": 21,
+                "stockPriceInCents": 58163,
+                "tradeCountSum": 12
+            },
+            "1755087840000": {
+                "notionalValueInCentsSum": 3199116,
+                "sizeSum": 55,
+                "stockPriceInCents": 58165,
+                "tradeCountSum": 5
+            },
+            "1755087900000": {
+                "notionalValueInCentsSum": 65146972,
+                "sizeSum": 1120,
+                "stockPriceInCents": 58172,
+                "tradeCountSum": 9
+            },
+            "1755087960000": {
+                "notionalValueInCentsSum": 46658123,
+                "sizeSum": 802,
+                "stockPriceInCents": 58185,
+                "tradeCountSum": 22
+            },
+            "1755088020000": {
+                "notionalValueInCentsSum": 92970202,
+                "sizeSum": 1598,
+                "stockPriceInCents": 58183,
+                "tradeCountSum": 13
+            },
+            "1755088080000": {
+                "notionalValueInCentsSum": 523647,
+                "sizeSum": 9,
+                "stockPriceInCents": 58184,
+                "tradeCountSum": 6
+            },
+            "1755088140000": {
+                "notionalValueInCentsSum": 29674741,
+                "sizeSum": 510,
+                "stockPriceInCents": 58188,
+                "tradeCountSum": 14
+            },
+            "1755088200000": {
+                "notionalValueInCentsSum": 4712736,
+                "sizeSum": 81,
+                "stockPriceInCents": 58183,
+                "tradeCountSum": 13
+            },
+            "1755088260000": {
+                "notionalValueInCentsSum": 1687329,
+                "sizeSum": 29,
+                "stockPriceInCents": 58190,
+                "tradeCountSum": 13
+            },
+            "1755088320000": {
+                "notionalValueInCentsSum": 1512943,
+                "sizeSum": 26,
+                "stockPriceInCents": 58191,
+                "tradeCountSum": 7
+            },
+            "1755088380000": {
+                "notionalValueInCentsSum": 46499175,
+                "sizeSum": 799,
+                "stockPriceInCents": 58200,
+                "tradeCountSum": 27
+            },
+            "1755088440000": {
+                "notionalValueInCentsSum": 113844268,
+                "sizeSum": 1956,
+                "stockPriceInCents": 58208,
+                "tradeCountSum": 24
+            },
+            "1755088500000": {
+                "notionalValueInCentsSum": 136079720,
+                "sizeSum": 2338,
+                "stockPriceInCents": 58205,
+                "tradeCountSum": 15
+            },
+            "1755088560000": {
+                "notionalValueInCentsSum": 40165306,
+                "sizeSum": 690,
+                "stockPriceInCents": 58211,
+                "tradeCountSum": 9
+            },
+            "1755088620000": {
+                "notionalValueInCentsSum": 60081195,
+                "sizeSum": 1032,
+                "stockPriceInCents": 58213,
+                "tradeCountSum": 15
+            },
+            "1755088680000": {
+                "notionalValueInCentsSum": 7742005,
+                "sizeSum": 133,
+                "stockPriceInCents": 58212,
+                "tradeCountSum": 12
+            },
+            "1755088740000": {
+                "notionalValueInCentsSum": 27883185,
+                "sizeSum": 479,
+                "stockPriceInCents": 58210,
+                "tradeCountSum": 15
+            },
+            "1755088800000": {
+                "notionalValueInCentsSum": 15309392,
+                "sizeSum": 263,
+                "stockPriceInCents": 58217,
+                "tradeCountSum": 18
+            },
+            "1755088860000": {
+                "notionalValueInCentsSum": 43778049,
+                "sizeSum": 752,
+                "stockPriceInCents": 58215,
+                "tradeCountSum": 13
+            },
+            "1755088920000": {
+                "notionalValueInCentsSum": 103331689,
+                "sizeSum": 1775,
+                "stockPriceInCents": 58217,
+                "tradeCountSum": 10
+            },
+            "1755088980000": {
+                "notionalValueInCentsSum": 57703161,
+                "sizeSum": 991,
+                "stockPriceInCents": 58228,
+                "tradeCountSum": 21
+            },
+            "1755089040000": {
+                "notionalValueInCentsSum": 62068949,
+                "sizeSum": 1066,
+                "stockPriceInCents": 58225,
+                "tradeCountSum": 10
+            },
+            "1755089100000": {
+                "notionalValueInCentsSum": 50770282,
+                "sizeSum": 872,
+                "stockPriceInCents": 58222,
+                "tradeCountSum": 19
+            },
+            "1755089160000": {
+                "notionalValueInCentsSum": 102358327,
+                "sizeSum": 1758,
+                "stockPriceInCents": 58230,
+                "tradeCountSum": 9
+            },
+            "1755089220000": {
+                "notionalValueInCentsSum": 211015125,
+                "sizeSum": 3624,
+                "stockPriceInCents": 58229,
+                "tradeCountSum": 30
+            },
+            "1755089280000": {
+                "notionalValueInCentsSum": 23233475,
+                "sizeSum": 399,
+                "stockPriceInCents": 58234,
+                "tradeCountSum": 23
+            },
+            "1755089340000": {
+                "notionalValueInCentsSum": 77272127,
+                "sizeSum": 1327,
+                "stockPriceInCents": 58236,
+                "tradeCountSum": 13
+            },
+            "1755089400000": {
+                "notionalValueInCentsSum": 17178452,
+                "sizeSum": 295,
+                "stockPriceInCents": 58232,
+                "tradeCountSum": 12
+            },
+            "1755089460000": {
+                "notionalValueInCentsSum": 5008083,
+                "sizeSum": 86,
+                "stockPriceInCents": 58232,
+                "tradeCountSum": 13
+            },
+            "1755089520000": {
+                "notionalValueInCentsSum": 4017958,
+                "sizeSum": 69,
+                "stockPriceInCents": 58231,
+                "tradeCountSum": 14
+            },
+            "1755089580000": {
+                "notionalValueInCentsSum": 64706838,
+                "sizeSum": 1111,
+                "stockPriceInCents": 58246,
+                "tradeCountSum": 16
+            },
+            "1755089640000": {
+                "notionalValueInCentsSum": 39024387,
+                "sizeSum": 670,
+                "stockPriceInCents": 58239,
+                "tradeCountSum": 10
+            },
+            "1755089700000": {
+                "notionalValueInCentsSum": 25915113,
+                "sizeSum": 445,
+                "stockPriceInCents": 58235,
+                "tradeCountSum": 22
+            },
+            "1755089760000": {
+                "notionalValueInCentsSum": 36220399,
+                "sizeSum": 622,
+                "stockPriceInCents": 58233,
+                "tradeCountSum": 12
+            },
+            "1755089820000": {
+                "notionalValueInCentsSum": 18924970,
+                "sizeSum": 325,
+                "stockPriceInCents": 58232,
+                "tradeCountSum": 20
+            },
+            "1755089880000": {
+                "notionalValueInCentsSum": 207311141,
+                "sizeSum": 3561,
+                "stockPriceInCents": 58216,
+                "tradeCountSum": 16
+            },
+            "1755089940000": {
+                "notionalValueInCentsSum": 16241830,
+                "sizeSum": 279,
+                "stockPriceInCents": 58216,
+                "tradeCountSum": 13
+            },
+            "1755090000000": {
+                "notionalValueInCentsSum": 170270180,
+                "sizeSum": 2925,
+                "stockPriceInCents": 58223,
+                "tradeCountSum": 7
+            },
+            "1755090060000": {
+                "notionalValueInCentsSum": 272147862,
+                "sizeSum": 4674,
+                "stockPriceInCents": 58226,
+                "tradeCountSum": 19
+            },
+            "1755090120000": {
+                "notionalValueInCentsSum": 5414878,
+                "sizeSum": 93,
+                "stockPriceInCents": 58227,
+                "tradeCountSum": 14
+            },
+            "1755090180000": {
+                "notionalValueInCentsSum": 15662847,
+                "sizeSum": 269,
+                "stockPriceInCents": 58228,
+                "tradeCountSum": 17
+            },
+            "1755090240000": {
+                "notionalValueInCentsSum": 21603111,
+                "sizeSum": 371,
+                "stockPriceInCents": 58237,
+                "tradeCountSum": 19
+            },
+            "1755090300000": {
+                "notionalValueInCentsSum": 9492115,
+                "sizeSum": 163,
+                "stockPriceInCents": 58232,
+                "tradeCountSum": 15
+            },
+            "1755090360000": {
+                "notionalValueInCentsSum": 53040898,
+                "sizeSum": 911,
+                "stockPriceInCents": 58228,
+                "tradeCountSum": 17
+            },
+            "1755090420000": {
+                "notionalValueInCentsSum": 28996163,
+                "sizeSum": 498,
+                "stockPriceInCents": 58231,
+                "tradeCountSum": 16
+            },
+            "1755090480000": {
+                "notionalValueInCentsSum": 19216513,
+                "sizeSum": 330,
+                "stockPriceInCents": 58234,
+                "tradeCountSum": 17
+            },
+            "1755090540000": {
+                "notionalValueInCentsSum": 14326199,
+                "sizeSum": 246,
+                "stockPriceInCents": 58239,
+                "tradeCountSum": 17
+            },
+            "1755090600000": {
+                "notionalValueInCentsSum": 38436216,
+                "sizeSum": 660,
+                "stockPriceInCents": 58243,
+                "tradeCountSum": 19
+            },
+            "1755090660000": {
+                "notionalValueInCentsSum": 78914933,
+                "sizeSum": 1355,
+                "stockPriceInCents": 58242,
+                "tradeCountSum": 23
+            },
+            "1755090720000": {
+                "notionalValueInCentsSum": 31860462,
+                "sizeSum": 547,
+                "stockPriceInCents": 58247,
+                "tradeCountSum": 21
+            },
+            "1755090780000": {
+                "notionalValueInCentsSum": 77642379,
+                "sizeSum": 1333,
+                "stockPriceInCents": 58246,
+                "tradeCountSum": 19
+            },
+            "1755090840000": {
+                "notionalValueInCentsSum": 71181440,
+                "sizeSum": 1222,
+                "stockPriceInCents": 58250,
+                "tradeCountSum": 26
+            },
+            "1755090900000": {
+                "notionalValueInCentsSum": 73557666,
+                "sizeSum": 1263,
+                "stockPriceInCents": 58232,
+                "tradeCountSum": 17
+            },
+            "1755090960000": {
+                "notionalValueInCentsSum": 3144794,
+                "sizeSum": 54,
+                "stockPriceInCents": 58239,
+                "tradeCountSum": 18
+            },
+            "1755091020000": {
+                "notionalValueInCentsSum": 15200174,
+                "sizeSum": 261,
+                "stockPriceInCents": 58239,
+                "tradeCountSum": 19
+            },
+            "1755091080000": {
+                "notionalValueInCentsSum": 45021639,
+                "sizeSum": 773,
+                "stockPriceInCents": 58242,
+                "tradeCountSum": 15
+            },
+            "1755091140000": {
+                "notionalValueInCentsSum": 202712257,
+                "sizeSum": 3480,
+                "stockPriceInCents": 58252,
+                "tradeCountSum": 23
+            },
+            "1755091200000": {
+                "notionalValueInCentsSum": 58952544,
+                "sizeSum": 1012,
+                "stockPriceInCents": 58253,
+                "tradeCountSum": 33
+            },
+            "1755091260000": {
+                "notionalValueInCentsSum": 24582694,
+                "sizeSum": 422,
+                "stockPriceInCents": 58251,
+                "tradeCountSum": 24
+            },
+            "1755091320000": {
+                "notionalValueInCentsSum": 15728724,
+                "sizeSum": 270,
+                "stockPriceInCents": 58255,
+                "tradeCountSum": 20
+            },
+            "1755091380000": {
+                "notionalValueInCentsSum": 44506010,
+                "sizeSum": 764,
+                "stockPriceInCents": 58254,
+                "tradeCountSum": 25
+            },
+            "1755091440000": {
+                "notionalValueInCentsSum": 10019149,
+                "sizeSum": 172,
+                "stockPriceInCents": 58252,
+                "tradeCountSum": 34
+            },
+            "1755091500000": {
+                "notionalValueInCentsSum": 44220343,
+                "sizeSum": 759,
+                "stockPriceInCents": 58266,
+                "tradeCountSum": 27
+            },
+            "1755091560000": {
+                "notionalValueInCentsSum": 39853442,
+                "sizeSum": 684,
+                "stockPriceInCents": 58270,
+                "tradeCountSum": 24
+            },
+            "1755091620000": {
+                "notionalValueInCentsSum": 78554333,
+                "sizeSum": 1348,
+                "stockPriceInCents": 58274,
+                "tradeCountSum": 34
+            },
+            "1755091680000": {
+                "notionalValueInCentsSum": 5186095,
+                "sizeSum": 89,
+                "stockPriceInCents": 58272,
+                "tradeCountSum": 20
+            },
+            "1755091740000": {
+                "notionalValueInCentsSum": 77386411,
+                "sizeSum": 1328,
+                "stockPriceInCents": 58276,
+                "tradeCountSum": 31
+            },
+            "1755091800000": {
+                "notionalValueInCentsSum": 2898899282,
+                "sizeSum": 49755,
+                "stockPriceInCents": 58243,
+                "tradeCountSum": 3007
+            },
+            "1755091860000": {
+                "notionalValueInCentsSum": 3310962604,
+                "sizeSum": 56830,
+                "stockPriceInCents": 58284,
+                "tradeCountSum": 738
+            },
+            "1755091920000": {
+                "notionalValueInCentsSum": 2748766573,
+                "sizeSum": 47148,
+                "stockPriceInCents": 58311,
+                "tradeCountSum": 753
+            },
+            "1755091980000": {
+                "notionalValueInCentsSum": 2948527395,
+                "sizeSum": 50567,
+                "stockPriceInCents": 58308,
+                "tradeCountSum": 754
+            },
+            "1755092040000": {
+                "notionalValueInCentsSum": 3104620049,
+                "sizeSum": 53235,
+                "stockPriceInCents": 58308,
+                "tradeCountSum": 685
+            },
+            "1755092100000": {
+                "notionalValueInCentsSum": 1680103904,
+                "sizeSum": 28818,
+                "stockPriceInCents": 58307,
+                "tradeCountSum": 625
+            },
+            "1755092160000": {
+                "notionalValueInCentsSum": 1953995403,
+                "sizeSum": 33520,
+                "stockPriceInCents": 58300,
+                "tradeCountSum": 651
+            },
+            "1755092220000": {
+                "notionalValueInCentsSum": 2023146447,
+                "sizeSum": 34711,
+                "stockPriceInCents": 58290,
+                "tradeCountSum": 575
+            },
+            "1755092280000": {
+                "notionalValueInCentsSum": 2879169995,
+                "sizeSum": 49372,
+                "stockPriceInCents": 58317,
+                "tradeCountSum": 645
+            },
+            "1755092340000": {
+                "notionalValueInCentsSum": 2107570536,
+                "sizeSum": 36157,
+                "stockPriceInCents": 58292,
+                "tradeCountSum": 598
+            },
+            "1755092400000": {
+                "notionalValueInCentsSum": 1673797141,
+                "sizeSum": 28713,
+                "stockPriceInCents": 58292,
+                "tradeCountSum": 551
+            },
+            "1755092460000": {
+                "notionalValueInCentsSum": 1131234673,
+                "sizeSum": 19405,
+                "stockPriceInCents": 58303,
+                "tradeCountSum": 535
+            },
+            "1755092520000": {
+                "notionalValueInCentsSum": 1739322288,
+                "sizeSum": 29845,
+                "stockPriceInCents": 58262,
+                "tradeCountSum": 595
+            },
+            "1755092580000": {
+                "notionalValueInCentsSum": 3012092382,
+                "sizeSum": 51701,
+                "stockPriceInCents": 58278,
+                "tradeCountSum": 658
+            },
+            "1755092640000": {
+                "notionalValueInCentsSum": 1827637474,
+                "sizeSum": 31361,
+                "stockPriceInCents": 58278,
+                "tradeCountSum": 574
+            },
+            "1755092700000": {
+                "notionalValueInCentsSum": 1788596596,
+                "sizeSum": 30701,
+                "stockPriceInCents": 58247,
+                "tradeCountSum": 681
+            },
+            "1755092760000": {
+                "notionalValueInCentsSum": 2201610628,
+                "sizeSum": 37798,
+                "stockPriceInCents": 58253,
+                "tradeCountSum": 544
+            },
+            "1755092820000": {
+                "notionalValueInCentsSum": 4143731121,
+                "sizeSum": 71133,
+                "stockPriceInCents": 58274,
+                "tradeCountSum": 762
+            },
+            "1755092880000": {
+                "notionalValueInCentsSum": 1660516230,
+                "sizeSum": 28496,
+                "stockPriceInCents": 58264,
+                "tradeCountSum": 544
+            },
+            "1755092940000": {
+                "notionalValueInCentsSum": 887801925,
+                "sizeSum": 15238,
+                "stockPriceInCents": 58267,
+                "tradeCountSum": 543
+            },
+            "1755093000000": {
+                "notionalValueInCentsSum": 2185628347,
+                "sizeSum": 37501,
+                "stockPriceInCents": 58307,
+                "tradeCountSum": 730
+            },
+            "1755093060000": {
+                "notionalValueInCentsSum": 2659017915,
+                "sizeSum": 45611,
+                "stockPriceInCents": 58304,
+                "tradeCountSum": 698
+            },
+            "1755093120000": {
+                "notionalValueInCentsSum": 1005168739,
+                "sizeSum": 17242,
+                "stockPriceInCents": 58299,
+                "tradeCountSum": 551
+            },
+            "1755093180000": {
+                "notionalValueInCentsSum": 930687158,
+                "sizeSum": 15965,
+                "stockPriceInCents": 58303,
+                "tradeCountSum": 485
+            },
+            "1755093240000": {
+                "notionalValueInCentsSum": 1025017941,
+                "sizeSum": 17582,
+                "stockPriceInCents": 58296,
+                "tradeCountSum": 529
+            },
+            "1755093300000": {
+                "notionalValueInCentsSum": 4471596432,
+                "sizeSum": 76789,
+                "stockPriceInCents": 58207,
+                "tradeCountSum": 905
+            },
+            "1755093360000": {
+                "notionalValueInCentsSum": 4127603526,
+                "sizeSum": 70909,
+                "stockPriceInCents": 58191,
+                "tradeCountSum": 722
+            },
+            "1755093420000": {
+                "notionalValueInCentsSum": 2232215720,
+                "sizeSum": 38343,
+                "stockPriceInCents": 58244,
+                "tradeCountSum": 650
+            },
+            "1755093480000": {
+                "notionalValueInCentsSum": 2104572687,
+                "sizeSum": 36147,
+                "stockPriceInCents": 58218,
+                "tradeCountSum": 504
+            },
+            "1755093540000": {
+                "notionalValueInCentsSum": 1003295673,
+                "sizeSum": 17234,
+                "stockPriceInCents": 58209,
+                "tradeCountSum": 438
+            },
+            "1755093600000": {
+                "notionalValueInCentsSum": 3310595565,
+                "sizeSum": 56900,
+                "stockPriceInCents": 58178,
+                "tradeCountSum": 743
+            },
+            "1755093660000": {
+                "notionalValueInCentsSum": 3521115142,
+                "sizeSum": 60524,
+                "stockPriceInCents": 58167,
+                "tradeCountSum": 725
+            },
+            "1755093720000": {
+                "notionalValueInCentsSum": 3116978568,
+                "sizeSum": 53586,
+                "stockPriceInCents": 58157,
+                "tradeCountSum": 778
+            },
+            "1755093780000": {
+                "notionalValueInCentsSum": 2452424035,
+                "sizeSum": 42160,
+                "stockPriceInCents": 58171,
+                "tradeCountSum": 701
+            },
+            "1755093840000": {
+                "notionalValueInCentsSum": 2462150639,
+                "sizeSum": 42337,
+                "stockPriceInCents": 58149,
+                "tradeCountSum": 685
+            },
+            "1755093900000": {
+                "notionalValueInCentsSum": 3364667134,
+                "sizeSum": 57848,
+                "stockPriceInCents": 58177,
+                "tradeCountSum": 767
+            },
+            "1755093960000": {
+                "notionalValueInCentsSum": 2591344417,
+                "sizeSum": 44532,
+                "stockPriceInCents": 58194,
+                "tradeCountSum": 713
+            },
+            "1755094020000": {
+                "notionalValueInCentsSum": 2059820091,
+                "sizeSum": 35410,
+                "stockPriceInCents": 58168,
+                "tradeCountSum": 658
+            },
+            "1755094080000": {
+                "notionalValueInCentsSum": 1941030256,
+                "sizeSum": 33371,
+                "stockPriceInCents": 58179,
+                "tradeCountSum": 1814
+            },
+            "1755094140000": {
+                "notionalValueInCentsSum": 1495866513,
+                "sizeSum": 25712,
+                "stockPriceInCents": 58183,
+                "tradeCountSum": 481
+            },
+            "1755094200000": {
+                "notionalValueInCentsSum": 1788877991,
+                "sizeSum": 30758,
+                "stockPriceInCents": 58137,
+                "tradeCountSum": 549
+            },
+            "1755094260000": {
+                "notionalValueInCentsSum": 2085890610,
+                "sizeSum": 35885,
+                "stockPriceInCents": 58121,
+                "tradeCountSum": 648
+            },
+            "1755094320000": {
+                "notionalValueInCentsSum": 1777124249,
+                "sizeSum": 30573,
+                "stockPriceInCents": 58142,
+                "tradeCountSum": 651
+            },
+            "1755094380000": {
+                "notionalValueInCentsSum": 1113976298,
+                "sizeSum": 19164,
+                "stockPriceInCents": 58131,
+                "tradeCountSum": 528
+            },
+            "1755094440000": {
+                "notionalValueInCentsSum": 2130532338,
+                "sizeSum": 36644,
+                "stockPriceInCents": 58158,
+                "tradeCountSum": 571
+            },
+            "1755094500000": {
+                "notionalValueInCentsSum": 1560547005,
+                "sizeSum": 26836,
+                "stockPriceInCents": 58144,
+                "tradeCountSum": 1836
+            },
+            "1755094560000": {
+                "notionalValueInCentsSum": 955511768,
+                "sizeSum": 16432,
+                "stockPriceInCents": 58167,
+                "tradeCountSum": 1414
+            },
+            "1755094620000": {
+                "notionalValueInCentsSum": 3734814992,
+                "sizeSum": 64212,
+                "stockPriceInCents": 58158,
+                "tradeCountSum": 472
+            },
+            "1755094680000": {
+                "notionalValueInCentsSum": 1244516727,
+                "sizeSum": 21396,
+                "stockPriceInCents": 58159,
+                "tradeCountSum": 369
+            },
+            "1755094740000": {
+                "notionalValueInCentsSum": 633021859,
+                "sizeSum": 10885,
+                "stockPriceInCents": 58155,
+                "tradeCountSum": 402
+            },
+            "1755094800000": {
+                "notionalValueInCentsSum": 1426408263,
+                "sizeSum": 24521,
+                "stockPriceInCents": 58179,
+                "tradeCountSum": 480
+            },
+            "1755094860000": {
+                "notionalValueInCentsSum": 1098884191,
+                "sizeSum": 18893,
+                "stockPriceInCents": 58162,
+                "tradeCountSum": 1453
+            },
+            "1755094920000": {
+                "notionalValueInCentsSum": 1014319876,
+                "sizeSum": 17439,
+                "stockPriceInCents": 58157,
+                "tradeCountSum": 804
+            },
+            "1755094980000": {
+                "notionalValueInCentsSum": 1274230102,
+                "sizeSum": 21912,
+                "stockPriceInCents": 58133,
+                "tradeCountSum": 413
+            },
+            "1755095040000": {
+                "notionalValueInCentsSum": 2624909025,
+                "sizeSum": 45169,
+                "stockPriceInCents": 58101,
+                "tradeCountSum": 592
+            },
+            "1755095100000": {
+                "notionalValueInCentsSum": 2380723220,
+                "sizeSum": 40977,
+                "stockPriceInCents": 58097,
+                "tradeCountSum": 575
+            },
+            "1755095160000": {
+                "notionalValueInCentsSum": 2490657157,
+                "sizeSum": 42881,
+                "stockPriceInCents": 58074,
+                "tradeCountSum": 706
+            },
+            "1755095220000": {
+                "notionalValueInCentsSum": 2233724506,
+                "sizeSum": 38452,
+                "stockPriceInCents": 58099,
+                "tradeCountSum": 623
+            },
+            "1755095280000": {
+                "notionalValueInCentsSum": 3627049010,
+                "sizeSum": 62465,
+                "stockPriceInCents": 58055,
+                "tradeCountSum": 755
+            },
+            "1755095340000": {
+                "notionalValueInCentsSum": 4301730590,
+                "sizeSum": 74096,
+                "stockPriceInCents": 58065,
+                "tradeCountSum": 735
+            },
+            "1755095400000": {
+                "notionalValueInCentsSum": 2915919032,
+                "sizeSum": 50215,
+                "stockPriceInCents": 58081,
+                "tradeCountSum": 683
+            },
+            "1755095460000": {
+                "notionalValueInCentsSum": 2368599848,
+                "sizeSum": 40788,
+                "stockPriceInCents": 58069,
+                "tradeCountSum": 639
+            },
+            "1755095520000": {
+                "notionalValueInCentsSum": 2789447636,
+                "sizeSum": 48045,
+                "stockPriceInCents": 58054,
+                "tradeCountSum": 648
+            },
+            "1755095580000": {
+                "notionalValueInCentsSum": 1363385439,
+                "sizeSum": 23480,
+                "stockPriceInCents": 58064,
+                "tradeCountSum": 513
+            },
+            "1755095640000": {
+                "notionalValueInCentsSum": 3097795798,
+                "sizeSum": 53359,
+                "stockPriceInCents": 58057,
+                "tradeCountSum": 635
+            },
+            "1755095700000": {
+                "notionalValueInCentsSum": 3541777471,
+                "sizeSum": 61008,
+                "stockPriceInCents": 58069,
+                "tradeCountSum": 695
+            },
+            "1755095760000": {
+                "notionalValueInCentsSum": 2125251548,
+                "sizeSum": 36598,
+                "stockPriceInCents": 58071,
+                "tradeCountSum": 480
+            },
+            "1755095820000": {
+                "notionalValueInCentsSum": 2290105689,
+                "sizeSum": 39430,
+                "stockPriceInCents": 58078,
+                "tradeCountSum": 634
+            },
+            "1755095880000": {
+                "notionalValueInCentsSum": 2685142876,
+                "sizeSum": 46231,
+                "stockPriceInCents": 58083,
+                "tradeCountSum": 623
+            },
+            "1755095940000": {
+                "notionalValueInCentsSum": 1147947722,
+                "sizeSum": 19768,
+                "stockPriceInCents": 58072,
+                "tradeCountSum": 503
+            },
+            "1755096000000": {
+                "notionalValueInCentsSum": 1344975773,
+                "sizeSum": 23163,
+                "stockPriceInCents": 58066,
+                "tradeCountSum": 558
+            },
+            "1755096060000": {
+                "notionalValueInCentsSum": 1310088759,
+                "sizeSum": 22564,
+                "stockPriceInCents": 58061,
+                "tradeCountSum": 543
+            },
+            "1755096120000": {
+                "notionalValueInCentsSum": 2012341677,
+                "sizeSum": 34661,
+                "stockPriceInCents": 58061,
+                "tradeCountSum": 503
+            },
+            "1755096180000": {
+                "notionalValueInCentsSum": 1710574709,
+                "sizeSum": 29453,
+                "stockPriceInCents": 58085,
+                "tradeCountSum": 497
+            },
+            "1755096240000": {
+                "notionalValueInCentsSum": 2143431762,
+                "sizeSum": 36898,
+                "stockPriceInCents": 58091,
+                "tradeCountSum": 542
+            },
+            "1755096300000": {
+                "notionalValueInCentsSum": 1838230163,
+                "sizeSum": 31650,
+                "stockPriceInCents": 58067,
+                "tradeCountSum": 527
+            },
+            "1755096360000": {
+                "notionalValueInCentsSum": 2275364157,
+                "sizeSum": 39199,
+                "stockPriceInCents": 58030,
+                "tradeCountSum": 487
+            },
+            "1755096420000": {
+                "notionalValueInCentsSum": 3204561250,
+                "sizeSum": 55230,
+                "stockPriceInCents": 58013,
+                "tradeCountSum": 694
+            },
+            "1755096480000": {
+                "notionalValueInCentsSum": 4404849726,
+                "sizeSum": 75918,
+                "stockPriceInCents": 58039,
+                "tradeCountSum": 714
+            },
+            "1755096540000": {
+                "notionalValueInCentsSum": 2511370696,
+                "sizeSum": 43258,
+                "stockPriceInCents": 58069,
+                "tradeCountSum": 596
+            },
+            "1755096600000": {
+                "notionalValueInCentsSum": 1529083427,
+                "sizeSum": 26335,
+                "stockPriceInCents": 58053,
+                "tradeCountSum": 500
+            },
+            "1755096660000": {
+                "notionalValueInCentsSum": 1050089081,
+                "sizeSum": 18091,
+                "stockPriceInCents": 58037,
+                "tradeCountSum": 454
+            },
+            "1755096720000": {
+                "notionalValueInCentsSum": 2049007456,
+                "sizeSum": 35296,
+                "stockPriceInCents": 58050,
+                "tradeCountSum": 564
+            },
+            "1755096780000": {
+                "notionalValueInCentsSum": 1232098305,
+                "sizeSum": 21224,
+                "stockPriceInCents": 58059,
+                "tradeCountSum": 389
+            },
+            "1755096840000": {
+                "notionalValueInCentsSum": 1148926980,
+                "sizeSum": 19788,
+                "stockPriceInCents": 58063,
+                "tradeCountSum": 342
+            },
+            "1755096900000": {
+                "notionalValueInCentsSum": 1627359794,
+                "sizeSum": 28021,
+                "stockPriceInCents": 58067,
+                "tradeCountSum": 512
+            },
+            "1755096960000": {
+                "notionalValueInCentsSum": 824133112,
+                "sizeSum": 14192,
+                "stockPriceInCents": 58069,
+                "tradeCountSum": 438
+            },
+            "1755097020000": {
+                "notionalValueInCentsSum": 1581919786,
+                "sizeSum": 27235,
+                "stockPriceInCents": 58072,
+                "tradeCountSum": 494
+            },
+            "1755097080000": {
+                "notionalValueInCentsSum": 1023296999,
+                "sizeSum": 17621,
+                "stockPriceInCents": 58075,
+                "tradeCountSum": 410
+            },
+            "1755097140000": {
+                "notionalValueInCentsSum": 1210469129,
+                "sizeSum": 20845,
+                "stockPriceInCents": 58070,
+                "tradeCountSum": 325
+            },
+            "1755097200000": {
+                "notionalValueInCentsSum": 3480494393,
+                "sizeSum": 59943,
+                "stockPriceInCents": 58051,
+                "tradeCountSum": 516
+            },
+            "1755097260000": {
+                "notionalValueInCentsSum": 1496773989,
+                "sizeSum": 25778,
+                "stockPriceInCents": 58056,
+                "tradeCountSum": 343
+            },
+            "1755097320000": {
+                "notionalValueInCentsSum": 2849898164,
+                "sizeSum": 49092,
+                "stockPriceInCents": 58039,
+                "tradeCountSum": 382
+            },
+            "1755097380000": {
+                "notionalValueInCentsSum": 1863643455,
+                "sizeSum": 32113,
+                "stockPriceInCents": 58016,
+                "tradeCountSum": 411
+            },
+            "1755097440000": {
+                "notionalValueInCentsSum": 2808323002,
+                "sizeSum": 48412,
+                "stockPriceInCents": 58012,
+                "tradeCountSum": 575
+            },
+            "1755097500000": {
+                "notionalValueInCentsSum": 2937438574,
+                "sizeSum": 50638,
+                "stockPriceInCents": 58007,
+                "tradeCountSum": 598
+            },
+            "1755097560000": {
+                "notionalValueInCentsSum": 2412940539,
+                "sizeSum": 41597,
+                "stockPriceInCents": 57988,
+                "tradeCountSum": 378
+            },
+            "1755097620000": {
+                "notionalValueInCentsSum": 1917989887,
+                "sizeSum": 33072,
+                "stockPriceInCents": 57988,
+                "tradeCountSum": 421
+            },
+            "1755097680000": {
+                "notionalValueInCentsSum": 1164364199,
+                "sizeSum": 20079,
+                "stockPriceInCents": 57980,
+                "tradeCountSum": 286
+            },
+            "1755097740000": {
+                "notionalValueInCentsSum": 1361114395,
+                "sizeSum": 23476,
+                "stockPriceInCents": 57965,
+                "tradeCountSum": 439
+            },
+            "1755097800000": {
+                "notionalValueInCentsSum": 8187774121,
+                "sizeSum": 141156,
+                "stockPriceInCents": 57975,
+                "tradeCountSum": 511
+            },
+            "1755097860000": {
+                "notionalValueInCentsSum": 2397036404,
+                "sizeSum": 41340,
+                "stockPriceInCents": 57961,
+                "tradeCountSum": 495
+            },
+            "1755097920000": {
+                "notionalValueInCentsSum": 8388839736,
+                "sizeSum": 144636,
+                "stockPriceInCents": 57948,
+                "tradeCountSum": 640
+            },
+            "1755097980000": {
+                "notionalValueInCentsSum": 3407115713,
+                "sizeSum": 58794,
+                "stockPriceInCents": 57963,
+                "tradeCountSum": 494
+            },
+            "1755098040000": {
+                "notionalValueInCentsSum": 2779614012,
+                "sizeSum": 47961,
+                "stockPriceInCents": 57952,
+                "tradeCountSum": 597
+            },
+            "1755098100000": {
+                "notionalValueInCentsSum": 2643691712,
+                "sizeSum": 45627,
+                "stockPriceInCents": 57928,
+                "tradeCountSum": 562
+            },
+            "1755098160000": {
+                "notionalValueInCentsSum": 2671527069,
+                "sizeSum": 46126,
+                "stockPriceInCents": 57922,
+                "tradeCountSum": 562
+            },
+            "1755098220000": {
+                "notionalValueInCentsSum": 2569228495,
+                "sizeSum": 44352,
+                "stockPriceInCents": 57938,
+                "tradeCountSum": 556
+            },
+            "1755098280000": {
+                "notionalValueInCentsSum": 7994355986,
+                "sizeSum": 137834,
+                "stockPriceInCents": 57950,
+                "tradeCountSum": 517
+            },
+            "1755098340000": {
+                "notionalValueInCentsSum": 1918240314,
+                "sizeSum": 33089,
+                "stockPriceInCents": 57985,
+                "tradeCountSum": 846
+            },
+            "1755098400000": {
+                "notionalValueInCentsSum": 2024789965,
+                "sizeSum": 34919,
+                "stockPriceInCents": 57985,
+                "tradeCountSum": 494
+            },
+            "1755098460000": {
+                "notionalValueInCentsSum": 1950545777,
+                "sizeSum": 33630,
+                "stockPriceInCents": 58008,
+                "tradeCountSum": 428
+            },
+            "1755098520000": {
+                "notionalValueInCentsSum": 1909736635,
+                "sizeSum": 32916,
+                "stockPriceInCents": 58029,
+                "tradeCountSum": 382
+            },
+            "1755098580000": {
+                "notionalValueInCentsSum": 1473045253,
+                "sizeSum": 25383,
+                "stockPriceInCents": 58035,
+                "tradeCountSum": 451
+            },
+            "1755098640000": {
+                "notionalValueInCentsSum": 1798253279,
+                "sizeSum": 30987,
+                "stockPriceInCents": 58028,
+                "tradeCountSum": 479
+            },
+            "1755098700000": {
+                "notionalValueInCentsSum": 2107263793,
+                "sizeSum": 36312,
+                "stockPriceInCents": 58040,
+                "tradeCountSum": 609
+            },
+            "1755098760000": {
+                "notionalValueInCentsSum": 1969576552,
+                "sizeSum": 33940,
+                "stockPriceInCents": 58022,
+                "tradeCountSum": 526
+            },
+            "1755098820000": {
+                "notionalValueInCentsSum": 1447904183,
+                "sizeSum": 24958,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 484
+            },
+            "1755098880000": {
+                "notionalValueInCentsSum": 2125717016,
+                "sizeSum": 36656,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 508
+            },
+            "1755098940000": {
+                "notionalValueInCentsSum": 1007970627,
+                "sizeSum": 17379,
+                "stockPriceInCents": 57988,
+                "tradeCountSum": 434
+            },
+            "1755099000000": {
+                "notionalValueInCentsSum": 1642628252,
+                "sizeSum": 28327,
+                "stockPriceInCents": 57991,
+                "tradeCountSum": 557
+            },
+            "1755099060000": {
+                "notionalValueInCentsSum": 1027587065,
+                "sizeSum": 17717,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 376
+            },
+            "1755099120000": {
+                "notionalValueInCentsSum": 1027222169,
+                "sizeSum": 17706,
+                "stockPriceInCents": 58037,
+                "tradeCountSum": 338
+            },
+            "1755099180000": {
+                "notionalValueInCentsSum": 925317325,
+                "sizeSum": 15946,
+                "stockPriceInCents": 58031,
+                "tradeCountSum": 263
+            },
+            "1755099240000": {
+                "notionalValueInCentsSum": 654749899,
+                "sizeSum": 11283,
+                "stockPriceInCents": 58020,
+                "tradeCountSum": 237
+            },
+            "1755099300000": {
+                "notionalValueInCentsSum": 794269478,
+                "sizeSum": 13690,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 256
+            },
+            "1755099360000": {
+                "notionalValueInCentsSum": 922759722,
+                "sizeSum": 15909,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 300
+            },
+            "1755099420000": {
+                "notionalValueInCentsSum": 810164314,
+                "sizeSum": 13970,
+                "stockPriceInCents": 57990,
+                "tradeCountSum": 261
+            },
+            "1755099480000": {
+                "notionalValueInCentsSum": 752093547,
+                "sizeSum": 12969,
+                "stockPriceInCents": 57995,
+                "tradeCountSum": 209
+            },
+            "1755099540000": {
+                "notionalValueInCentsSum": 571811412,
+                "sizeSum": 9860,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 246
+            },
+            "1755099600000": {
+                "notionalValueInCentsSum": 727878999,
+                "sizeSum": 12548,
+                "stockPriceInCents": 58022,
+                "tradeCountSum": 281
+            },
+            "1755099660000": {
+                "notionalValueInCentsSum": 810992542,
+                "sizeSum": 13976,
+                "stockPriceInCents": 58039,
+                "tradeCountSum": 277
+            },
+            "1755099720000": {
+                "notionalValueInCentsSum": 1261816995,
+                "sizeSum": 21740,
+                "stockPriceInCents": 58049,
+                "tradeCountSum": 313
+            },
+            "1755099780000": {
+                "notionalValueInCentsSum": 1264082847,
+                "sizeSum": 21774,
+                "stockPriceInCents": 58064,
+                "tradeCountSum": 384
+            },
+            "1755099840000": {
+                "notionalValueInCentsSum": 1148573961,
+                "sizeSum": 19782,
+                "stockPriceInCents": 58057,
+                "tradeCountSum": 325
+            },
+            "1755099900000": {
+                "notionalValueInCentsSum": 1240883413,
+                "sizeSum": 21376,
+                "stockPriceInCents": 58046,
+                "tradeCountSum": 303
+            },
+            "1755099960000": {
+                "notionalValueInCentsSum": 1074125015,
+                "sizeSum": 18506,
+                "stockPriceInCents": 58041,
+                "tradeCountSum": 339
+            },
+            "1755100020000": {
+                "notionalValueInCentsSum": 562168724,
+                "sizeSum": 9686,
+                "stockPriceInCents": 58040,
+                "tradeCountSum": 257
+            },
+            "1755100080000": {
+                "notionalValueInCentsSum": 594658156,
+                "sizeSum": 10246,
+                "stockPriceInCents": 58040,
+                "tradeCountSum": 194
+            },
+            "1755100140000": {
+                "notionalValueInCentsSum": 558555328,
+                "sizeSum": 9623,
+                "stockPriceInCents": 58048,
+                "tradeCountSum": 209
+            },
+            "1755100200000": {
+                "notionalValueInCentsSum": 602125539,
+                "sizeSum": 10374,
+                "stockPriceInCents": 58029,
+                "tradeCountSum": 257
+            },
+            "1755100260000": {
+                "notionalValueInCentsSum": 1055266648,
+                "sizeSum": 18187,
+                "stockPriceInCents": 58009,
+                "tradeCountSum": 322
+            },
+            "1755100320000": {
+                "notionalValueInCentsSum": 1646095571,
+                "sizeSum": 28374,
+                "stockPriceInCents": 58008,
+                "tradeCountSum": 224
+            },
+            "1755100380000": {
+                "notionalValueInCentsSum": 1751685393,
+                "sizeSum": 30202,
+                "stockPriceInCents": 57984,
+                "tradeCountSum": 403
+            },
+            "1755100440000": {
+                "notionalValueInCentsSum": 1355473589,
+                "sizeSum": 23377,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 316
+            },
+            "1755100500000": {
+                "notionalValueInCentsSum": 917343868,
+                "sizeSum": 15818,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 270
+            },
+            "1755100560000": {
+                "notionalValueInCentsSum": 653029025,
+                "sizeSum": 11260,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 248
+            },
+            "1755100620000": {
+                "notionalValueInCentsSum": 641259514,
+                "sizeSum": 11059,
+                "stockPriceInCents": 57982,
+                "tradeCountSum": 256
+            },
+            "1755100680000": {
+                "notionalValueInCentsSum": 817438096,
+                "sizeSum": 14097,
+                "stockPriceInCents": 57990,
+                "tradeCountSum": 248
+            },
+            "1755100740000": {
+                "notionalValueInCentsSum": 831948700,
+                "sizeSum": 14348,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 258
+            },
+            "1755100800000": {
+                "notionalValueInCentsSum": 1625015808,
+                "sizeSum": 28024,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 308
+            },
+            "1755100860000": {
+                "notionalValueInCentsSum": 1036319086,
+                "sizeSum": 17869,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 304
+            },
+            "1755100920000": {
+                "notionalValueInCentsSum": 829982108,
+                "sizeSum": 14310,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 237
+            },
+            "1755100980000": {
+                "notionalValueInCentsSum": 1365589630,
+                "sizeSum": 23539,
+                "stockPriceInCents": 58019,
+                "tradeCountSum": 256
+            },
+            "1755101040000": {
+                "notionalValueInCentsSum": 567618018,
+                "sizeSum": 9784,
+                "stockPriceInCents": 58016,
+                "tradeCountSum": 251
+            },
+            "1755101100000": {
+                "notionalValueInCentsSum": 1551580554,
+                "sizeSum": 26751,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 299
+            },
+            "1755101160000": {
+                "notionalValueInCentsSum": 1226570005,
+                "sizeSum": 21147,
+                "stockPriceInCents": 58007,
+                "tradeCountSum": 237
+            },
+            "1755101220000": {
+                "notionalValueInCentsSum": 1455765229,
+                "sizeSum": 25097,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 247
+            },
+            "1755101280000": {
+                "notionalValueInCentsSum": 851376481,
+                "sizeSum": 14679,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 236
+            },
+            "1755101340000": {
+                "notionalValueInCentsSum": 1973135149,
+                "sizeSum": 34023,
+                "stockPriceInCents": 58009,
+                "tradeCountSum": 295
+            },
+            "1755101400000": {
+                "notionalValueInCentsSum": 978263828,
+                "sizeSum": 16866,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 264
+            },
+            "1755101460000": {
+                "notionalValueInCentsSum": 691767771,
+                "sizeSum": 11926,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 230
+            },
+            "1755101520000": {
+                "notionalValueInCentsSum": 615181771,
+                "sizeSum": 10606,
+                "stockPriceInCents": 58014,
+                "tradeCountSum": 218
+            },
+            "1755101580000": {
+                "notionalValueInCentsSum": 611809553,
+                "sizeSum": 10547,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 195
+            },
+            "1755101640000": {
+                "notionalValueInCentsSum": 525034703,
+                "sizeSum": 9052,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 203
+            },
+            "1755101700000": {
+                "notionalValueInCentsSum": 1111067016,
+                "sizeSum": 19152,
+                "stockPriceInCents": 58016,
+                "tradeCountSum": 248
+            },
+            "1755101760000": {
+                "notionalValueInCentsSum": 843286216,
+                "sizeSum": 14536,
+                "stockPriceInCents": 58008,
+                "tradeCountSum": 230
+            },
+            "1755101820000": {
+                "notionalValueInCentsSum": 518681640,
+                "sizeSum": 8940,
+                "stockPriceInCents": 58017,
+                "tradeCountSum": 211
+            },
+            "1755101880000": {
+                "notionalValueInCentsSum": 853755485,
+                "sizeSum": 14719,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 236
+            },
+            "1755101940000": {
+                "notionalValueInCentsSum": 896132607,
+                "sizeSum": 15454,
+                "stockPriceInCents": 57980,
+                "tradeCountSum": 287
+            },
+            "1755102000000": {
+                "notionalValueInCentsSum": 950512073,
+                "sizeSum": 16393,
+                "stockPriceInCents": 57975,
+                "tradeCountSum": 279
+            },
+            "1755102060000": {
+                "notionalValueInCentsSum": 925149265,
+                "sizeSum": 15959,
+                "stockPriceInCents": 57962,
+                "tradeCountSum": 268
+            },
+            "1755102120000": {
+                "notionalValueInCentsSum": 2623124080,
+                "sizeSum": 45263,
+                "stockPriceInCents": 57947,
+                "tradeCountSum": 398
+            },
+            "1755102180000": {
+                "notionalValueInCentsSum": 998398775,
+                "sizeSum": 17224,
+                "stockPriceInCents": 57978,
+                "tradeCountSum": 259
+            },
+            "1755102240000": {
+                "notionalValueInCentsSum": 663963691,
+                "sizeSum": 11451,
+                "stockPriceInCents": 57983,
+                "tradeCountSum": 247
+            },
+            "1755102300000": {
+                "notionalValueInCentsSum": 986811023,
+                "sizeSum": 17016,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 294
+            },
+            "1755102360000": {
+                "notionalValueInCentsSum": 876650864,
+                "sizeSum": 15116,
+                "stockPriceInCents": 57991,
+                "tradeCountSum": 237
+            },
+            "1755102420000": {
+                "notionalValueInCentsSum": 441841621,
+                "sizeSum": 7619,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 191
+            },
+            "1755102480000": {
+                "notionalValueInCentsSum": 1182290311,
+                "sizeSum": 20385,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 243
+            },
+            "1755102540000": {
+                "notionalValueInCentsSum": 546628994,
+                "sizeSum": 9427,
+                "stockPriceInCents": 57978,
+                "tradeCountSum": 237
+            },
+            "1755102600000": {
+                "notionalValueInCentsSum": 967772465,
+                "sizeSum": 16697,
+                "stockPriceInCents": 57962,
+                "tradeCountSum": 323
+            },
+            "1755102660000": {
+                "notionalValueInCentsSum": 529950174,
+                "sizeSum": 9142,
+                "stockPriceInCents": 57972,
+                "tradeCountSum": 258
+            },
+            "1755102720000": {
+                "notionalValueInCentsSum": 532256447,
+                "sizeSum": 9181,
+                "stockPriceInCents": 57980,
+                "tradeCountSum": 220
+            },
+            "1755102780000": {
+                "notionalValueInCentsSum": 812030037,
+                "sizeSum": 14005,
+                "stockPriceInCents": 57979,
+                "tradeCountSum": 223
+            },
+            "1755102840000": {
+                "notionalValueInCentsSum": 239667598,
+                "sizeSum": 4134,
+                "stockPriceInCents": 57975,
+                "tradeCountSum": 157
+            },
+            "1755102900000": {
+                "notionalValueInCentsSum": 1436574540,
+                "sizeSum": 24776,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 288
+            },
+            "1755102960000": {
+                "notionalValueInCentsSum": 459759642,
+                "sizeSum": 7929,
+                "stockPriceInCents": 57986,
+                "tradeCountSum": 230
+            },
+            "1755103020000": {
+                "notionalValueInCentsSum": 379592369,
+                "sizeSum": 6547,
+                "stockPriceInCents": 57982,
+                "tradeCountSum": 208
+            },
+            "1755103080000": {
+                "notionalValueInCentsSum": 328782994,
+                "sizeSum": 5671,
+                "stockPriceInCents": 57973,
+                "tradeCountSum": 253
+            },
+            "1755103140000": {
+                "notionalValueInCentsSum": 874632583,
+                "sizeSum": 15086,
+                "stockPriceInCents": 57971,
+                "tradeCountSum": 272
+            },
+            "1755103200000": {
+                "notionalValueInCentsSum": 740506950,
+                "sizeSum": 12775,
+                "stockPriceInCents": 57964,
+                "tradeCountSum": 258
+            },
+            "1755103260000": {
+                "notionalValueInCentsSum": 443907647,
+                "sizeSum": 7658,
+                "stockPriceInCents": 57963,
+                "tradeCountSum": 196
+            },
+            "1755103320000": {
+                "notionalValueInCentsSum": 839391387,
+                "sizeSum": 14483,
+                "stockPriceInCents": 57954,
+                "tradeCountSum": 238
+            },
+            "1755103380000": {
+                "notionalValueInCentsSum": 1389955847,
+                "sizeSum": 23984,
+                "stockPriceInCents": 57965,
+                "tradeCountSum": 299
+            },
+            "1755103440000": {
+                "notionalValueInCentsSum": 637295771,
+                "sizeSum": 10995,
+                "stockPriceInCents": 57961,
+                "tradeCountSum": 226
+            },
+            "1755103500000": {
+                "notionalValueInCentsSum": 1133567963,
+                "sizeSum": 19562,
+                "stockPriceInCents": 57943,
+                "tradeCountSum": 272
+            },
+            "1755103560000": {
+                "notionalValueInCentsSum": 1211948782,
+                "sizeSum": 20912,
+                "stockPriceInCents": 57959,
+                "tradeCountSum": 263
+            },
+            "1755103620000": {
+                "notionalValueInCentsSum": 1113580431,
+                "sizeSum": 19215,
+                "stockPriceInCents": 57952,
+                "tradeCountSum": 205
+            },
+            "1755103680000": {
+                "notionalValueInCentsSum": 1211765730,
+                "sizeSum": 20915,
+                "stockPriceInCents": 57929,
+                "tradeCountSum": 301
+            },
+            "1755103740000": {
+                "notionalValueInCentsSum": 1305101585,
+                "sizeSum": 22527,
+                "stockPriceInCents": 57936,
+                "tradeCountSum": 288
+            },
+            "1755103800000": {
+                "notionalValueInCentsSum": 1927347543,
+                "sizeSum": 33280,
+                "stockPriceInCents": 57901,
+                "tradeCountSum": 423
+            },
+            "1755103860000": {
+                "notionalValueInCentsSum": 1709191719,
+                "sizeSum": 29507,
+                "stockPriceInCents": 57935,
+                "tradeCountSum": 320
+            },
+            "1755103920000": {
+                "notionalValueInCentsSum": 1278635347,
+                "sizeSum": 22069,
+                "stockPriceInCents": 57933,
+                "tradeCountSum": 192
+            },
+            "1755103980000": {
+                "notionalValueInCentsSum": 1156556802,
+                "sizeSum": 19965,
+                "stockPriceInCents": 57929,
+                "tradeCountSum": 210
+            },
+            "1755104040000": {
+                "notionalValueInCentsSum": 1242071084,
+                "sizeSum": 21435,
+                "stockPriceInCents": 57942,
+                "tradeCountSum": 218
+            },
+            "1755104100000": {
+                "notionalValueInCentsSum": 1005072466,
+                "sizeSum": 17350,
+                "stockPriceInCents": 57925,
+                "tradeCountSum": 247
+            },
+            "1755104160000": {
+                "notionalValueInCentsSum": 984059409,
+                "sizeSum": 16989,
+                "stockPriceInCents": 57918,
+                "tradeCountSum": 255
+            },
+            "1755104220000": {
+                "notionalValueInCentsSum": 861787902,
+                "sizeSum": 14879,
+                "stockPriceInCents": 57923,
+                "tradeCountSum": 193
+            },
+            "1755104280000": {
+                "notionalValueInCentsSum": 1276628507,
+                "sizeSum": 22046,
+                "stockPriceInCents": 57902,
+                "tradeCountSum": 249
+            },
+            "1755104340000": {
+                "notionalValueInCentsSum": 1053409174,
+                "sizeSum": 18188,
+                "stockPriceInCents": 57925,
+                "tradeCountSum": 217
+            },
+            "1755104400000": {
+                "notionalValueInCentsSum": 3567760230,
+                "sizeSum": 61580,
+                "stockPriceInCents": 57950,
+                "tradeCountSum": 328
+            },
+            "1755104460000": {
+                "notionalValueInCentsSum": 1635052270,
+                "sizeSum": 28211,
+                "stockPriceInCents": 57967,
+                "tradeCountSum": 276
+            },
+            "1755104520000": {
+                "notionalValueInCentsSum": 876894789,
+                "sizeSum": 15131,
+                "stockPriceInCents": 57948,
+                "tradeCountSum": 296
+            },
+            "1755104580000": {
+                "notionalValueInCentsSum": 1737536172,
+                "sizeSum": 29968,
+                "stockPriceInCents": 57976,
+                "tradeCountSum": 384
+            },
+            "1755104640000": {
+                "notionalValueInCentsSum": 510634362,
+                "sizeSum": 8808,
+                "stockPriceInCents": 57976,
+                "tradeCountSum": 199
+            },
+            "1755104700000": {
+                "notionalValueInCentsSum": 549024850,
+                "sizeSum": 9472,
+                "stockPriceInCents": 57958,
+                "tradeCountSum": 263
+            },
+            "1755104760000": {
+                "notionalValueInCentsSum": 448027522,
+                "sizeSum": 7730,
+                "stockPriceInCents": 57960,
+                "tradeCountSum": 188
+            },
+            "1755104820000": {
+                "notionalValueInCentsSum": 1637483081,
+                "sizeSum": 28261,
+                "stockPriceInCents": 57940,
+                "tradeCountSum": 315
+            },
+            "1755104880000": {
+                "notionalValueInCentsSum": 491345821,
+                "sizeSum": 8480,
+                "stockPriceInCents": 57938,
+                "tradeCountSum": 250
+            },
+            "1755104940000": {
+                "notionalValueInCentsSum": 476105381,
+                "sizeSum": 8217,
+                "stockPriceInCents": 57938,
+                "tradeCountSum": 252
+            },
+            "1755105000000": {
+                "notionalValueInCentsSum": 728477486,
+                "sizeSum": 12574,
+                "stockPriceInCents": 57930,
+                "tradeCountSum": 252
+            },
+            "1755105060000": {
+                "notionalValueInCentsSum": 465509283,
+                "sizeSum": 8036,
+                "stockPriceInCents": 57928,
+                "tradeCountSum": 246
+            },
+            "1755105120000": {
+                "notionalValueInCentsSum": 312114076,
+                "sizeSum": 5387,
+                "stockPriceInCents": 57949,
+                "tradeCountSum": 255
+            },
+            "1755105180000": {
+                "notionalValueInCentsSum": 516029856,
+                "sizeSum": 8905,
+                "stockPriceInCents": 57937,
+                "tradeCountSum": 221
+            },
+            "1755105240000": {
+                "notionalValueInCentsSum": 542398836,
+                "sizeSum": 9361,
+                "stockPriceInCents": 57942,
+                "tradeCountSum": 210
+            },
+            "1755105300000": {
+                "notionalValueInCentsSum": 401893452,
+                "sizeSum": 6936,
+                "stockPriceInCents": 57946,
+                "tradeCountSum": 194
+            },
+            "1755105360000": {
+                "notionalValueInCentsSum": 241837722,
+                "sizeSum": 4174,
+                "stockPriceInCents": 57944,
+                "tradeCountSum": 206
+            },
+            "1755105420000": {
+                "notionalValueInCentsSum": 345488831,
+                "sizeSum": 5962,
+                "stockPriceInCents": 57952,
+                "tradeCountSum": 198
+            },
+            "1755105480000": {
+                "notionalValueInCentsSum": 575213276,
+                "sizeSum": 9924,
+                "stockPriceInCents": 57965,
+                "tradeCountSum": 263
+            },
+            "1755105540000": {
+                "notionalValueInCentsSum": 505825040,
+                "sizeSum": 8725,
+                "stockPriceInCents": 57983,
+                "tradeCountSum": 235
+            },
+            "1755105600000": {
+                "notionalValueInCentsSum": 1933758746,
+                "sizeSum": 33345,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 381
+            },
+            "1755105660000": {
+                "notionalValueInCentsSum": 1354115448,
+                "sizeSum": 23343,
+                "stockPriceInCents": 58014,
+                "tradeCountSum": 356
+            },
+            "1755105720000": {
+                "notionalValueInCentsSum": 1598232436,
+                "sizeSum": 27552,
+                "stockPriceInCents": 58012,
+                "tradeCountSum": 264
+            },
+            "1755105780000": {
+                "notionalValueInCentsSum": 471071781,
+                "sizeSum": 8121,
+                "stockPriceInCents": 58012,
+                "tradeCountSum": 197
+            },
+            "1755105840000": {
+                "notionalValueInCentsSum": 560790470,
+                "sizeSum": 9667,
+                "stockPriceInCents": 58024,
+                "tradeCountSum": 221
+            },
+            "1755105900000": {
+                "notionalValueInCentsSum": 1219367189,
+                "sizeSum": 21014,
+                "stockPriceInCents": 58019,
+                "tradeCountSum": 328
+            },
+            "1755105960000": {
+                "notionalValueInCentsSum": 533039705,
+                "sizeSum": 9187,
+                "stockPriceInCents": 58023,
+                "tradeCountSum": 233
+            },
+            "1755106020000": {
+                "notionalValueInCentsSum": 464463715,
+                "sizeSum": 8005,
+                "stockPriceInCents": 58031,
+                "tradeCountSum": 231
+            },
+            "1755106080000": {
+                "notionalValueInCentsSum": 730907761,
+                "sizeSum": 12596,
+                "stockPriceInCents": 58024,
+                "tradeCountSum": 243
+            },
+            "1755106140000": {
+                "notionalValueInCentsSum": 407496867,
+                "sizeSum": 7022,
+                "stockPriceInCents": 58034,
+                "tradeCountSum": 234
+            },
+            "1755106200000": {
+                "notionalValueInCentsSum": 766374551,
+                "sizeSum": 13206,
+                "stockPriceInCents": 58021,
+                "tradeCountSum": 537
+            },
+            "1755106260000": {
+                "notionalValueInCentsSum": 825352192,
+                "sizeSum": 14228,
+                "stockPriceInCents": 57995,
+                "tradeCountSum": 471
+            },
+            "1755106320000": {
+                "notionalValueInCentsSum": 1482540017,
+                "sizeSum": 25563,
+                "stockPriceInCents": 57983,
+                "tradeCountSum": 435
+            },
+            "1755106380000": {
+                "notionalValueInCentsSum": 1033613539,
+                "sizeSum": 17827,
+                "stockPriceInCents": 57959,
+                "tradeCountSum": 363
+            },
+            "1755106440000": {
+                "notionalValueInCentsSum": 1820258762,
+                "sizeSum": 31411,
+                "stockPriceInCents": 57938,
+                "tradeCountSum": 381
+            },
+            "1755106500000": {
+                "notionalValueInCentsSum": 484874989,
+                "sizeSum": 8367,
+                "stockPriceInCents": 57963,
+                "tradeCountSum": 319
+            },
+            "1755106560000": {
+                "notionalValueInCentsSum": 321093695,
+                "sizeSum": 5541,
+                "stockPriceInCents": 57942,
+                "tradeCountSum": 232
+            },
+            "1755106620000": {
+                "notionalValueInCentsSum": 386303741,
+                "sizeSum": 6666,
+                "stockPriceInCents": 57959,
+                "tradeCountSum": 241
+            },
+            "1755106680000": {
+                "notionalValueInCentsSum": 442750336,
+                "sizeSum": 7640,
+                "stockPriceInCents": 57947,
+                "tradeCountSum": 262
+            },
+            "1755106740000": {
+                "notionalValueInCentsSum": 421989623,
+                "sizeSum": 7281,
+                "stockPriceInCents": 57952,
+                "tradeCountSum": 229
+            },
+            "1755106800000": {
+                "notionalValueInCentsSum": 845991981,
+                "sizeSum": 14598,
+                "stockPriceInCents": 57949,
+                "tradeCountSum": 224
+            },
+            "1755106860000": {
+                "notionalValueInCentsSum": 415122701,
+                "sizeSum": 7163,
+                "stockPriceInCents": 57954,
+                "tradeCountSum": 166
+            },
+            "1755106920000": {
+                "notionalValueInCentsSum": 504372762,
+                "sizeSum": 8705,
+                "stockPriceInCents": 57936,
+                "tradeCountSum": 221
+            },
+            "1755106980000": {
+                "notionalValueInCentsSum": 313273722,
+                "sizeSum": 5407,
+                "stockPriceInCents": 57941,
+                "tradeCountSum": 182
+            },
+            "1755107040000": {
+                "notionalValueInCentsSum": 373368897,
+                "sizeSum": 6444,
+                "stockPriceInCents": 57940,
+                "tradeCountSum": 182
+            },
+            "1755107100000": {
+                "notionalValueInCentsSum": 561672351,
+                "sizeSum": 9693,
+                "stockPriceInCents": 57951,
+                "tradeCountSum": 205
+            },
+            "1755107160000": {
+                "notionalValueInCentsSum": 847240867,
+                "sizeSum": 14621,
+                "stockPriceInCents": 57950,
+                "tradeCountSum": 180
+            },
+            "1755107220000": {
+                "notionalValueInCentsSum": 544307744,
+                "sizeSum": 9394,
+                "stockPriceInCents": 57938,
+                "tradeCountSum": 205
+            },
+            "1755107280000": {
+                "notionalValueInCentsSum": 1059783291,
+                "sizeSum": 18289,
+                "stockPriceInCents": 57948,
+                "tradeCountSum": 192
+            },
+            "1755107340000": {
+                "notionalValueInCentsSum": 1394381817,
+                "sizeSum": 24059,
+                "stockPriceInCents": 57957,
+                "tradeCountSum": 241
+            },
+            "1755107400000": {
+                "notionalValueInCentsSum": 1689048958,
+                "sizeSum": 29138,
+                "stockPriceInCents": 57959,
+                "tradeCountSum": 287
+            },
+            "1755107460000": {
+                "notionalValueInCentsSum": 1230767918,
+                "sizeSum": 21231,
+                "stockPriceInCents": 57972,
+                "tradeCountSum": 265
+            },
+            "1755107520000": {
+                "notionalValueInCentsSum": 878242467,
+                "sizeSum": 15149,
+                "stockPriceInCents": 57974,
+                "tradeCountSum": 184
+            },
+            "1755107580000": {
+                "notionalValueInCentsSum": 668992980,
+                "sizeSum": 11538,
+                "stockPriceInCents": 57985,
+                "tradeCountSum": 180
+            },
+            "1755107640000": {
+                "notionalValueInCentsSum": 880778916,
+                "sizeSum": 15190,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 183
+            },
+            "1755107700000": {
+                "notionalValueInCentsSum": 819890239,
+                "sizeSum": 14139,
+                "stockPriceInCents": 57994,
+                "tradeCountSum": 230
+            },
+            "1755107760000": {
+                "notionalValueInCentsSum": 814907239,
+                "sizeSum": 14051,
+                "stockPriceInCents": 58008,
+                "tradeCountSum": 168
+            },
+            "1755107820000": {
+                "notionalValueInCentsSum": 2345473103,
+                "sizeSum": 40426,
+                "stockPriceInCents": 58022,
+                "tradeCountSum": 317
+            },
+            "1755107880000": {
+                "notionalValueInCentsSum": 686566052,
+                "sizeSum": 11832,
+                "stockPriceInCents": 58030,
+                "tradeCountSum": 215
+            },
+            "1755107940000": {
+                "notionalValueInCentsSum": 523993538,
+                "sizeSum": 9030,
+                "stockPriceInCents": 58023,
+                "tradeCountSum": 156
+            },
+            "1755108000000": {
+                "notionalValueInCentsSum": 2252467300,
+                "sizeSum": 38826,
+                "stockPriceInCents": 58020,
+                "tradeCountSum": 309
+            },
+            "1755108060000": {
+                "notionalValueInCentsSum": 412666663,
+                "sizeSum": 7113,
+                "stockPriceInCents": 58018,
+                "tradeCountSum": 153
+            },
+            "1755108120000": {
+                "notionalValueInCentsSum": 569195146,
+                "sizeSum": 9812,
+                "stockPriceInCents": 58009,
+                "tradeCountSum": 159
+            },
+            "1755108180000": {
+                "notionalValueInCentsSum": 1667932866,
+                "sizeSum": 28754,
+                "stockPriceInCents": 58013,
+                "tradeCountSum": 303
+            },
+            "1755108240000": {
+                "notionalValueInCentsSum": 889089503,
+                "sizeSum": 15324,
+                "stockPriceInCents": 58025,
+                "tradeCountSum": 318
+            },
+            "1755108300000": {
+                "notionalValueInCentsSum": 471819218,
+                "sizeSum": 8132,
+                "stockPriceInCents": 58016,
+                "tradeCountSum": 200
+            },
+            "1755108360000": {
+                "notionalValueInCentsSum": 881230424,
+                "sizeSum": 15188,
+                "stockPriceInCents": 58021,
+                "tradeCountSum": 154
+            },
+            "1755108420000": {
+                "notionalValueInCentsSum": 823366028,
+                "sizeSum": 14191,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 234
+            },
+            "1755108480000": {
+                "notionalValueInCentsSum": 483687866,
+                "sizeSum": 8338,
+                "stockPriceInCents": 58011,
+                "tradeCountSum": 190
+            },
+            "1755108540000": {
+                "notionalValueInCentsSum": 514627999,
+                "sizeSum": 8871,
+                "stockPriceInCents": 58012,
+                "tradeCountSum": 143
+            },
+            "1755108600000": {
+                "notionalValueInCentsSum": 638715822,
+                "sizeSum": 11010,
+                "stockPriceInCents": 58015,
+                "tradeCountSum": 178
+            },
+            "1755108660000": {
+                "notionalValueInCentsSum": 451363301,
+                "sizeSum": 7781,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 168
+            },
+            "1755108720000": {
+                "notionalValueInCentsSum": 649661729,
+                "sizeSum": 11198,
+                "stockPriceInCents": 58017,
+                "tradeCountSum": 154
+            },
+            "1755108780000": {
+                "notionalValueInCentsSum": 1623208629,
+                "sizeSum": 27973,
+                "stockPriceInCents": 58032,
+                "tradeCountSum": 321
+            },
+            "1755108840000": {
+                "notionalValueInCentsSum": 1141437780,
+                "sizeSum": 19663,
+                "stockPriceInCents": 58052,
+                "tradeCountSum": 296
+            },
+            "1755108900000": {
+                "notionalValueInCentsSum": 1913874076,
+                "sizeSum": 32974,
+                "stockPriceInCents": 58033,
+                "tradeCountSum": 346
+            },
+            "1755108960000": {
+                "notionalValueInCentsSum": 813189350,
+                "sizeSum": 14012,
+                "stockPriceInCents": 58034,
+                "tradeCountSum": 217
+            },
+            "1755109020000": {
+                "notionalValueInCentsSum": 1122867480,
+                "sizeSum": 19351,
+                "stockPriceInCents": 58030,
+                "tradeCountSum": 215
+            },
+            "1755109080000": {
+                "notionalValueInCentsSum": 865968318,
+                "sizeSum": 14924,
+                "stockPriceInCents": 58025,
+                "tradeCountSum": 185
+            },
+            "1755109140000": {
+                "notionalValueInCentsSum": 571596435,
+                "sizeSum": 9851,
+                "stockPriceInCents": 58016,
+                "tradeCountSum": 179
+            },
+            "1755109200000": {
+                "notionalValueInCentsSum": 1263391324,
+                "sizeSum": 21777,
+                "stockPriceInCents": 58013,
+                "tradeCountSum": 258
+            },
+            "1755109260000": {
+                "notionalValueInCentsSum": 770885812,
+                "sizeSum": 13288,
+                "stockPriceInCents": 58013,
+                "tradeCountSum": 182
+            },
+            "1755109320000": {
+                "notionalValueInCentsSum": 1499670227,
+                "sizeSum": 25855,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 295
+            },
+            "1755109380000": {
+                "notionalValueInCentsSum": 1026298664,
+                "sizeSum": 17690,
+                "stockPriceInCents": 58013,
+                "tradeCountSum": 234
+            },
+            "1755109440000": {
+                "notionalValueInCentsSum": 1128248389,
+                "sizeSum": 19451,
+                "stockPriceInCents": 58010,
+                "tradeCountSum": 273
+            },
+            "1755109500000": {
+                "notionalValueInCentsSum": 1288182508,
+                "sizeSum": 22208,
+                "stockPriceInCents": 58016,
+                "tradeCountSum": 289
+            },
+            "1755109560000": {
+                "notionalValueInCentsSum": 619281003,
+                "sizeSum": 10675,
+                "stockPriceInCents": 58007,
+                "tradeCountSum": 173
+            },
+            "1755109620000": {
+                "notionalValueInCentsSum": 1135397681,
+                "sizeSum": 19576,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 249
+            },
+            "1755109680000": {
+                "notionalValueInCentsSum": 510904438,
+                "sizeSum": 8809,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 167
+            },
+            "1755109740000": {
+                "notionalValueInCentsSum": 579254543,
+                "sizeSum": 9988,
+                "stockPriceInCents": 57990,
+                "tradeCountSum": 159
+            },
+            "1755109800000": {
+                "notionalValueInCentsSum": 1006983812,
+                "sizeSum": 17363,
+                "stockPriceInCents": 57997,
+                "tradeCountSum": 234
+            },
+            "1755109860000": {
+                "notionalValueInCentsSum": 887974813,
+                "sizeSum": 15309,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 179
+            },
+            "1755109920000": {
+                "notionalValueInCentsSum": 794584798,
+                "sizeSum": 13698,
+                "stockPriceInCents": 58011,
+                "tradeCountSum": 203
+            },
+            "1755109980000": {
+                "notionalValueInCentsSum": 718547842,
+                "sizeSum": 12386,
+                "stockPriceInCents": 58013,
+                "tradeCountSum": 178
+            },
+            "1755110040000": {
+                "notionalValueInCentsSum": 652610603,
+                "sizeSum": 11250,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 189
+            },
+            "1755110100000": {
+                "notionalValueInCentsSum": 409672723,
+                "sizeSum": 7063,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 183
+            },
+            "1755110160000": {
+                "notionalValueInCentsSum": 857294226,
+                "sizeSum": 14783,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 257
+            },
+            "1755110220000": {
+                "notionalValueInCentsSum": 3373646717,
+                "sizeSum": 58227,
+                "stockPriceInCents": 57912,
+                "tradeCountSum": 694
+            },
+            "1755110280000": {
+                "notionalValueInCentsSum": 2136319019,
+                "sizeSum": 36864,
+                "stockPriceInCents": 57956,
+                "tradeCountSum": 442
+            },
+            "1755110340000": {
+                "notionalValueInCentsSum": 943251496,
+                "sizeSum": 16275,
+                "stockPriceInCents": 57967,
+                "tradeCountSum": 268
+            },
+            "1755110400000": {
+                "notionalValueInCentsSum": 1159915905,
+                "sizeSum": 20015,
+                "stockPriceInCents": 57963,
+                "tradeCountSum": 316
+            },
+            "1755110460000": {
+                "notionalValueInCentsSum": 1808957986,
+                "sizeSum": 31206,
+                "stockPriceInCents": 57966,
+                "tradeCountSum": 299
+            },
+            "1755110520000": {
+                "notionalValueInCentsSum": 1178182391,
+                "sizeSum": 20320,
+                "stockPriceInCents": 57990,
+                "tradeCountSum": 320
+            },
+            "1755110580000": {
+                "notionalValueInCentsSum": 1217099799,
+                "sizeSum": 20989,
+                "stockPriceInCents": 57985,
+                "tradeCountSum": 267
+            },
+            "1755110640000": {
+                "notionalValueInCentsSum": 1396012493,
+                "sizeSum": 24072,
+                "stockPriceInCents": 57994,
+                "tradeCountSum": 288
+            },
+            "1755110700000": {
+                "notionalValueInCentsSum": 1239541984,
+                "sizeSum": 21373,
+                "stockPriceInCents": 57997,
+                "tradeCountSum": 236
+            },
+            "1755110760000": {
+                "notionalValueInCentsSum": 1194068007,
+                "sizeSum": 20588,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 230
+            },
+            "1755110820000": {
+                "notionalValueInCentsSum": 467163080,
+                "sizeSum": 8055,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 208
+            },
+            "1755110880000": {
+                "notionalValueInCentsSum": 845094750,
+                "sizeSum": 14572,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 238
+            },
+            "1755110940000": {
+                "notionalValueInCentsSum": 927452405,
+                "sizeSum": 15992,
+                "stockPriceInCents": 57995,
+                "tradeCountSum": 277
+            },
+            "1755111000000": {
+                "notionalValueInCentsSum": 806940484,
+                "sizeSum": 13915,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 224
+            },
+            "1755111060000": {
+                "notionalValueInCentsSum": 713291920,
+                "sizeSum": 12300,
+                "stockPriceInCents": 57986,
+                "tradeCountSum": 203
+            },
+            "1755111120000": {
+                "notionalValueInCentsSum": 570701624,
+                "sizeSum": 9840,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 193
+            },
+            "1755111180000": {
+                "notionalValueInCentsSum": 790341875,
+                "sizeSum": 13626,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 172
+            },
+            "1755111240000": {
+                "notionalValueInCentsSum": 610797095,
+                "sizeSum": 10530,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 172
+            },
+            "1755111300000": {
+                "notionalValueInCentsSum": 1662084382,
+                "sizeSum": 28654,
+                "stockPriceInCents": 58009,
+                "tradeCountSum": 238
+            },
+            "1755111360000": {
+                "notionalValueInCentsSum": 1400114529,
+                "sizeSum": 24134,
+                "stockPriceInCents": 58030,
+                "tradeCountSum": 306
+            },
+            "1755111420000": {
+                "notionalValueInCentsSum": 1163815256,
+                "sizeSum": 20054,
+                "stockPriceInCents": 58041,
+                "tradeCountSum": 227
+            },
+            "1755111480000": {
+                "notionalValueInCentsSum": 1565682858,
+                "sizeSum": 26983,
+                "stockPriceInCents": 58015,
+                "tradeCountSum": 311
+            },
+            "1755111540000": {
+                "notionalValueInCentsSum": 1162401277,
+                "sizeSum": 20036,
+                "stockPriceInCents": 58009,
+                "tradeCountSum": 178
+            },
+            "1755111600000": {
+                "notionalValueInCentsSum": 1427325661,
+                "sizeSum": 24605,
+                "stockPriceInCents": 58010,
+                "tradeCountSum": 248
+            },
+            "1755111660000": {
+                "notionalValueInCentsSum": 856839440,
+                "sizeSum": 14770,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 230
+            },
+            "1755111720000": {
+                "notionalValueInCentsSum": 1275777008,
+                "sizeSum": 22000,
+                "stockPriceInCents": 57995,
+                "tradeCountSum": 262
+            },
+            "1755111780000": {
+                "notionalValueInCentsSum": 1102295989,
+                "sizeSum": 19004,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 171
+            },
+            "1755111840000": {
+                "notionalValueInCentsSum": 493817236,
+                "sizeSum": 8513,
+                "stockPriceInCents": 58009,
+                "tradeCountSum": 171
+            },
+            "1755111900000": {
+                "notionalValueInCentsSum": 994092577,
+                "sizeSum": 17137,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 189
+            },
+            "1755111960000": {
+                "notionalValueInCentsSum": 889299175,
+                "sizeSum": 15333,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 182
+            },
+            "1755112020000": {
+                "notionalValueInCentsSum": 585057094,
+                "sizeSum": 10088,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 179
+            },
+            "1755112080000": {
+                "notionalValueInCentsSum": 470203777,
+                "sizeSum": 8108,
+                "stockPriceInCents": 57991,
+                "tradeCountSum": 135
+            },
+            "1755112140000": {
+                "notionalValueInCentsSum": 794206785,
+                "sizeSum": 13696,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 185
+            },
+            "1755112200000": {
+                "notionalValueInCentsSum": 797713009,
+                "sizeSum": 13754,
+                "stockPriceInCents": 58008,
+                "tradeCountSum": 218
+            },
+            "1755112260000": {
+                "notionalValueInCentsSum": 861604653,
+                "sizeSum": 14856,
+                "stockPriceInCents": 57998,
+                "tradeCountSum": 209
+            },
+            "1755112320000": {
+                "notionalValueInCentsSum": 827078290,
+                "sizeSum": 14260,
+                "stockPriceInCents": 58011,
+                "tradeCountSum": 190
+            },
+            "1755112380000": {
+                "notionalValueInCentsSum": 1199377257,
+                "sizeSum": 20674,
+                "stockPriceInCents": 58011,
+                "tradeCountSum": 230
+            },
+            "1755112440000": {
+                "notionalValueInCentsSum": 425175683,
+                "sizeSum": 7329,
+                "stockPriceInCents": 58023,
+                "tradeCountSum": 164
+            },
+            "1755112500000": {
+                "notionalValueInCentsSum": 1141770494,
+                "sizeSum": 19679,
+                "stockPriceInCents": 58019,
+                "tradeCountSum": 271
+            },
+            "1755112560000": {
+                "notionalValueInCentsSum": 1014316200,
+                "sizeSum": 17482,
+                "stockPriceInCents": 58026,
+                "tradeCountSum": 227
+            },
+            "1755112620000": {
+                "notionalValueInCentsSum": 1136881606,
+                "sizeSum": 19593,
+                "stockPriceInCents": 58026,
+                "tradeCountSum": 200
+            },
+            "1755112680000": {
+                "notionalValueInCentsSum": 1724387662,
+                "sizeSum": 29718,
+                "stockPriceInCents": 58024,
+                "tradeCountSum": 244
+            },
+            "1755112740000": {
+                "notionalValueInCentsSum": 847952238,
+                "sizeSum": 14615,
+                "stockPriceInCents": 58021,
+                "tradeCountSum": 180
+            },
+            "1755112800000": {
+                "notionalValueInCentsSum": 922180446,
+                "sizeSum": 15892,
+                "stockPriceInCents": 58034,
+                "tradeCountSum": 199
+            },
+            "1755112860000": {
+                "notionalValueInCentsSum": 1726354493,
+                "sizeSum": 29742,
+                "stockPriceInCents": 58047,
+                "tradeCountSum": 249
+            },
+            "1755112920000": {
+                "notionalValueInCentsSum": 1938095931,
+                "sizeSum": 33387,
+                "stockPriceInCents": 58056,
+                "tradeCountSum": 240
+            },
+            "1755112980000": {
+                "notionalValueInCentsSum": 738540115,
+                "sizeSum": 12722,
+                "stockPriceInCents": 58048,
+                "tradeCountSum": 213
+            },
+            "1755113040000": {
+                "notionalValueInCentsSum": 2292050294,
+                "sizeSum": 39488,
+                "stockPriceInCents": 58028,
+                "tradeCountSum": 195
+            },
+            "1755113100000": {
+                "notionalValueInCentsSum": 1056744354,
+                "sizeSum": 18212,
+                "stockPriceInCents": 58027,
+                "tradeCountSum": 232
+            },
+            "1755113160000": {
+                "notionalValueInCentsSum": 1338404569,
+                "sizeSum": 23069,
+                "stockPriceInCents": 58014,
+                "tradeCountSum": 195
+            },
+            "1755113220000": {
+                "notionalValueInCentsSum": 711763135,
+                "sizeSum": 12268,
+                "stockPriceInCents": 58017,
+                "tradeCountSum": 185
+            },
+            "1755113280000": {
+                "notionalValueInCentsSum": 728631995,
+                "sizeSum": 12558,
+                "stockPriceInCents": 58021,
+                "tradeCountSum": 219
+            },
+            "1755113340000": {
+                "notionalValueInCentsSum": 6908383485,
+                "sizeSum": 119075,
+                "stockPriceInCents": 58016,
+                "tradeCountSum": 197
+            },
+            "1755113400000": {
+                "notionalValueInCentsSum": 632375732,
+                "sizeSum": 10901,
+                "stockPriceInCents": 58007,
+                "tradeCountSum": 212
+            },
+            "1755113460000": {
+                "notionalValueInCentsSum": 1435870490,
+                "sizeSum": 24754,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 219
+            },
+            "1755113520000": {
+                "notionalValueInCentsSum": 899870522,
+                "sizeSum": 15515,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 242
+            },
+            "1755113580000": {
+                "notionalValueInCentsSum": 1157354602,
+                "sizeSum": 19955,
+                "stockPriceInCents": 57990,
+                "tradeCountSum": 231
+            },
+            "1755113640000": {
+                "notionalValueInCentsSum": 1843720482,
+                "sizeSum": 31792,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 267
+            },
+            "1755113700000": {
+                "notionalValueInCentsSum": 1619293044,
+                "sizeSum": 27920,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 259
+            },
+            "1755113760000": {
+                "notionalValueInCentsSum": 1738634947,
+                "sizeSum": 29978,
+                "stockPriceInCents": 57988,
+                "tradeCountSum": 271
+            },
+            "1755113820000": {
+                "notionalValueInCentsSum": 491536927,
+                "sizeSum": 8476,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 165
+            },
+            "1755113880000": {
+                "notionalValueInCentsSum": 1303325954,
+                "sizeSum": 22482,
+                "stockPriceInCents": 57969,
+                "tradeCountSum": 234
+            },
+            "1755113940000": {
+                "notionalValueInCentsSum": 992179756,
+                "sizeSum": 17115,
+                "stockPriceInCents": 57971,
+                "tradeCountSum": 216
+            },
+            "1755114000000": {
+                "notionalValueInCentsSum": 967421315,
+                "sizeSum": 16686,
+                "stockPriceInCents": 57982,
+                "tradeCountSum": 243
+            },
+            "1755114060000": {
+                "notionalValueInCentsSum": 2113892733,
+                "sizeSum": 36464,
+                "stockPriceInCents": 57982,
+                "tradeCountSum": 277
+            },
+            "1755114120000": {
+                "notionalValueInCentsSum": 862057732,
+                "sizeSum": 14870,
+                "stockPriceInCents": 57958,
+                "tradeCountSum": 195
+            },
+            "1755114180000": {
+                "notionalValueInCentsSum": 1139094902,
+                "sizeSum": 19650,
+                "stockPriceInCents": 57959,
+                "tradeCountSum": 283
+            },
+            "1755114240000": {
+                "notionalValueInCentsSum": 1174937458,
+                "sizeSum": 20271,
+                "stockPriceInCents": 57963,
+                "tradeCountSum": 234
+            },
+            "1755114300000": {
+                "notionalValueInCentsSum": 1055060201,
+                "sizeSum": 18199,
+                "stockPriceInCents": 57970,
+                "tradeCountSum": 295
+            },
+            "1755114360000": {
+                "notionalValueInCentsSum": 1135451436,
+                "sizeSum": 19589,
+                "stockPriceInCents": 57958,
+                "tradeCountSum": 236
+            },
+            "1755114420000": {
+                "notionalValueInCentsSum": 903745451,
+                "sizeSum": 15591,
+                "stockPriceInCents": 57974,
+                "tradeCountSum": 254
+            },
+            "1755114480000": {
+                "notionalValueInCentsSum": 912773478,
+                "sizeSum": 15744,
+                "stockPriceInCents": 57976,
+                "tradeCountSum": 256
+            },
+            "1755114540000": {
+                "notionalValueInCentsSum": 1326713643,
+                "sizeSum": 22882,
+                "stockPriceInCents": 57982,
+                "tradeCountSum": 290
+            },
+            "1755114600000": {
+                "notionalValueInCentsSum": 2722929135,
+                "sizeSum": 46941,
+                "stockPriceInCents": 58011,
+                "tradeCountSum": 578
+            },
+            "1755114660000": {
+                "notionalValueInCentsSum": 2620088996,
+                "sizeSum": 45161,
+                "stockPriceInCents": 58016,
+                "tradeCountSum": 515
+            },
+            "1755114720000": {
+                "notionalValueInCentsSum": 1792822880,
+                "sizeSum": 30895,
+                "stockPriceInCents": 58038,
+                "tradeCountSum": 585
+            },
+            "1755114780000": {
+                "notionalValueInCentsSum": 2818755642,
+                "sizeSum": 48571,
+                "stockPriceInCents": 58022,
+                "tradeCountSum": 460
+            },
+            "1755114840000": {
+                "notionalValueInCentsSum": 1361388387,
+                "sizeSum": 23459,
+                "stockPriceInCents": 58034,
+                "tradeCountSum": 357
+            },
+            "1755114900000": {
+                "notionalValueInCentsSum": 1431531183,
+                "sizeSum": 24664,
+                "stockPriceInCents": 58047,
+                "tradeCountSum": 426
+            },
+            "1755114960000": {
+                "notionalValueInCentsSum": 1582214588,
+                "sizeSum": 27260,
+                "stockPriceInCents": 58049,
+                "tradeCountSum": 331
+            },
+            "1755115020000": {
+                "notionalValueInCentsSum": 7563326449,
+                "sizeSum": 130347,
+                "stockPriceInCents": 58054,
+                "tradeCountSum": 400
+            },
+            "1755115080000": {
+                "notionalValueInCentsSum": 3188905655,
+                "sizeSum": 54928,
+                "stockPriceInCents": 58060,
+                "tradeCountSum": 541
+            },
+            "1755115140000": {
+                "notionalValueInCentsSum": 5286536743,
+                "sizeSum": 91073,
+                "stockPriceInCents": 58038,
+                "tradeCountSum": 849
+            },
+            "1755115200000": {
+                "notionalValueInCentsSum": 1463130842,
+                "sizeSum": 25211,
+                "stockPriceInCents": 58042,
+                "tradeCountSum": 43
+            },
+            "1755115260000": {
+                "notionalValueInCentsSum": 606523297,
+                "sizeSum": 10448,
+                "stockPriceInCents": 58053,
+                "tradeCountSum": 27
+            },
+            "1755115320000": {
+                "notionalValueInCentsSum": 108959016,
+                "sizeSum": 1877,
+                "stockPriceInCents": 58048,
+                "tradeCountSum": 22
+            },
+            "1755115380000": {
+                "notionalValueInCentsSum": 10333245,
+                "sizeSum": 178,
+                "stockPriceInCents": 58052,
+                "tradeCountSum": 9
+            },
+            "1755115440000": {
+                "notionalValueInCentsSum": 115404671,
+                "sizeSum": 1988,
+                "stockPriceInCents": 58049,
+                "tradeCountSum": 29
+            },
+            "1755115500000": {
+                "notionalValueInCentsSum": 208282125,
+                "sizeSum": 3589,
+                "stockPriceInCents": 58019,
+                "tradeCountSum": 19
+            },
+            "1755115560000": {
+                "notionalValueInCentsSum": 78901503,
+                "sizeSum": 1360,
+                "stockPriceInCents": 58011,
+                "tradeCountSum": 28
+            },
+            "1755115620000": {
+                "notionalValueInCentsSum": 132746180,
+                "sizeSum": 2288,
+                "stockPriceInCents": 58010,
+                "tradeCountSum": 13
+            },
+            "1755115680000": {
+                "notionalValueInCentsSum": 5736045650,
+                "sizeSum": 98841,
+                "stockPriceInCents": 58004,
+                "tradeCountSum": 19
+            },
+            "1755115740000": {
+                "notionalValueInCentsSum": 97737378,
+                "sizeSum": 1685,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 17
+            },
+            "1755115800000": {
+                "notionalValueInCentsSum": 141123046024,
+                "sizeSum": 2431403,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 63
+            },
+            "1755115860000": {
+                "notionalValueInCentsSum": 101683114,
+                "sizeSum": 1753,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 19
+            },
+            "1755115920000": {
+                "notionalValueInCentsSum": 52666053,
+                "sizeSum": 908,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 23
+            },
+            "1755115980000": {
+                "notionalValueInCentsSum": 28654023,
+                "sizeSum": 494,
+                "stockPriceInCents": 58004,
+                "tradeCountSum": 10
+            },
+            "1755116040000": {
+                "notionalValueInCentsSum": 59511098,
+                "sizeSum": 1026,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 10
+            },
+            "1755116100000": {
+                "notionalValueInCentsSum": 193793341,
+                "sizeSum": 3341,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 24
+            },
+            "1755116160000": {
+                "notionalValueInCentsSum": 73140710,
+                "sizeSum": 1261,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 16
+            },
+            "1755116220000": {
+                "notionalValueInCentsSum": 49475172,
+                "sizeSum": 853,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 14
+            },
+            "1755116280000": {
+                "notionalValueInCentsSum": 18095658,
+                "sizeSum": 312,
+                "stockPriceInCents": 57995,
+                "tradeCountSum": 10
+            },
+            "1755116340000": {
+                "notionalValueInCentsSum": 38566687,
+                "sizeSum": 665,
+                "stockPriceInCents": 57995,
+                "tradeCountSum": 10
+            },
+            "1755116400000": {
+                "notionalValueInCentsSum": 9395034,
+                "sizeSum": 162,
+                "stockPriceInCents": 57994,
+                "tradeCountSum": 6
+            },
+            "1755116460000": {
+                "notionalValueInCentsSum": 2841446,
+                "sizeSum": 49,
+                "stockPriceInCents": 57991,
+                "tradeCountSum": 15
+            },
+            "1755116520000": {
+                "notionalValueInCentsSum": 2261590,
+                "sizeSum": 39,
+                "stockPriceInCents": 57988,
+                "tradeCountSum": 8
+            },
+            "1755116580000": {
+                "notionalValueInCentsSum": 579887,
+                "sizeSum": 10,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 10
+            },
+            "1755116640000": {
+                "notionalValueInCentsSum": 14091048,
+                "sizeSum": 243,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 10
+            },
+            "1755116700000": {
+                "notionalValueInCentsSum": 3653317,
+                "sizeSum": 63,
+                "stockPriceInCents": 57986,
+                "tradeCountSum": 13
+            },
+            "1755116760000": {
+                "notionalValueInCentsSum": 8872330,
+                "sizeSum": 153,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 14
+            },
+            "1755116820000": {
+                "notionalValueInCentsSum": 18207303,
+                "sizeSum": 314,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 14
+            },
+            "1755116880000": {
+                "notionalValueInCentsSum": 6005797730,
+                "sizeSum": 103518,
+                "stockPriceInCents": 57988,
+                "tradeCountSum": 15
+            },
+            "1755116940000": {
+                "notionalValueInCentsSum": 2377586,
+                "sizeSum": 41,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 7
+            },
+            "1755117000000": {
+                "notionalValueInCentsSum": 10785799,
+                "sizeSum": 186,
+                "stockPriceInCents": 57991,
+                "tradeCountSum": 7
+            },
+            "1755117060000": {
+                "notionalValueInCentsSum": 289943,
+                "sizeSum": 5,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 4
+            },
+            "1755117120000": {
+                "notionalValueInCentsSum": 28168513,
+                "sizeSum": 487,
+                "stockPriceInCents": 47547,
+                "tradeCountSum": 15
+            },
+            "1755117180000": {
+                "notionalValueInCentsSum": 19020712,
+                "sizeSum": 328,
+                "stockPriceInCents": 57988,
+                "tradeCountSum": 19
+            },
+            "1755117240000": {
+                "notionalValueInCentsSum": 927776,
+                "sizeSum": 16,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 14
+            },
+            "1755117300000": {
+                "notionalValueInCentsSum": 6088435,
+                "sizeSum": 105,
+                "stockPriceInCents": 57985,
+                "tradeCountSum": 5
+            },
+            "1755117360000": {
+                "notionalValueInCentsSum": 12813878,
+                "sizeSum": 221,
+                "stockPriceInCents": 57986,
+                "tradeCountSum": 17
+            },
+            "1755117420000": {
+                "notionalValueInCentsSum": 7364574,
+                "sizeSum": 127,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 13
+            },
+            "1755117480000": {
+                "notionalValueInCentsSum": 2783488,
+                "sizeSum": 48,
+                "stockPriceInCents": 57994,
+                "tradeCountSum": 13
+            },
+            "1755117540000": {
+                "notionalValueInCentsSum": 18674060,
+                "sizeSum": 322,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 11
+            },
+            "1755117600000": {
+                "notionalValueInCentsSum": 12409865,
+                "sizeSum": 214,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 9
+            },
+            "1755117660000": {
+                "notionalValueInCentsSum": 3189421,
+                "sizeSum": 55,
+                "stockPriceInCents": 57990,
+                "tradeCountSum": 20
+            },
+            "1755117720000": {
+                "notionalValueInCentsSum": 4117189,
+                "sizeSum": 71,
+                "stockPriceInCents": 57988,
+                "tradeCountSum": 8
+            },
+            "1755117780000": {
+                "notionalValueInCentsSum": 1159680,
+                "sizeSum": 20,
+                "stockPriceInCents": 57983,
+                "tradeCountSum": 12
+            },
+            "1755117840000": {
+                "notionalValueInCentsSum": 109991857,
+                "sizeSum": 1897,
+                "stockPriceInCents": 57980,
+                "tradeCountSum": 13
+            },
+            "1755117900000": {
+                "notionalValueInCentsSum": 3835865,
+                "sizeSum": 70,
+                "stockPriceInCents": 57984,
+                "tradeCountSum": 13
+            },
+            "1755117960000": {
+                "notionalValueInCentsSum": 4406645,
+                "sizeSum": 76,
+                "stockPriceInCents": 57983,
+                "tradeCountSum": 10
+            },
+            "1755118020000": {
+                "notionalValueInCentsSum": 7317714,
+                "sizeSum": 130,
+                "stockPriceInCents": 57982,
+                "tradeCountSum": 10
+            },
+            "1755118080000": {
+                "notionalValueInCentsSum": 65225590,
+                "sizeSum": 1146,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 9
+            },
+            "1755118140000": {
+                "notionalValueInCentsSum": 17862751,
+                "sizeSum": 308,
+                "stockPriceInCents": 57996,
+                "tradeCountSum": 8
+            },
+            "1755118200000": {
+                "notionalValueInCentsSum": 284359901,
+                "sizeSum": 4903,
+                "stockPriceInCents": 57997,
+                "tradeCountSum": 20
+            },
+            "1755118260000": {
+                "notionalValueInCentsSum": 1565887,
+                "sizeSum": 27,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 13
+            },
+            "1755118320000": {
+                "notionalValueInCentsSum": 7771345,
+                "sizeSum": 134,
+                "stockPriceInCents": 57996,
+                "tradeCountSum": 13
+            },
+            "1755118380000": {
+                "notionalValueInCentsSum": 1275878,
+                "sizeSum": 22,
+                "stockPriceInCents": 57996,
+                "tradeCountSum": 11
+            },
+            "1755118440000": {
+                "notionalValueInCentsSum": 6205467,
+                "sizeSum": 107,
+                "stockPriceInCents": 57995,
+                "tradeCountSum": 8
+            },
+            "1755118500000": {
+                "notionalValueInCentsSum": 6677956,
+                "sizeSum": 119,
+                "stockPriceInCents": 57996,
+                "tradeCountSum": 15
+            },
+            "1755118560000": {
+                "notionalValueInCentsSum": 3175722,
+                "sizeSum": 55,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 13
+            },
+            "1755118620000": {
+                "notionalValueInCentsSum": 637930,
+                "sizeSum": 11,
+                "stockPriceInCents": 57994,
+                "tradeCountSum": 7
+            },
+            "1755118680000": {
+                "notionalValueInCentsSum": 24412702,
+                "sizeSum": 420,
+                "stockPriceInCents": 57989,
+                "tradeCountSum": 18
+            },
+            "1755118740000": {
+                "notionalValueInCentsSum": 1043889,
+                "sizeSum": 18,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 9
+            },
+            "1755118800000": {
+                "notionalValueInCentsSum": 2505045,
+                "sizeSum": 47,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 8
+            },
+            "1755118860000": {
+                "notionalValueInCentsSum": 115992,
+                "sizeSum": 2,
+                "stockPriceInCents": 57997,
+                "tradeCountSum": 2
+            },
+            "1755118920000": {
+                "notionalValueInCentsSum": 347979,
+                "sizeSum": 6,
+                "stockPriceInCents": 57997,
+                "tradeCountSum": 6
+            },
+            "1755118980000": {
+                "notionalValueInCentsSum": 289994,
+                "sizeSum": 5,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 5
+            },
+            "1755119040000": {
+                "notionalValueInCentsSum": 289994,
+                "sizeSum": 5,
+                "stockPriceInCents": 57998,
+                "tradeCountSum": 5
+            },
+            "1755119100000": {
+                "notionalValueInCentsSum": 173998,
+                "sizeSum": 3,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 3
+            },
+            "1755119160000": {
+                "notionalValueInCentsSum": 42687251,
+                "sizeSum": 736,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 14
+            },
+            "1755119220000": {
+                "notionalValueInCentsSum": 4749502384,
+                "sizeSum": 81840,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 6
+            },
+            "1755119280000": {
+                "notionalValueInCentsSum": 3422296,
+                "sizeSum": 59,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 7
+            },
+            "1755119340000": {
+                "notionalValueInCentsSum": 1101966,
+                "sizeSum": 19,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 10
+            },
+            "1755119400000": {
+                "notionalValueInCentsSum": 7945486,
+                "sizeSum": 137,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 10
+            },
+            "1755119460000": {
+                "notionalValueInCentsSum": 52141996,
+                "sizeSum": 899,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 7
+            },
+            "1755119520000": {
+                "notionalValueInCentsSum": 637975,
+                "sizeSum": 11,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 9
+            },
+            "1755119580000": {
+                "notionalValueInCentsSum": 13107580,
+                "sizeSum": 226,
+                "stockPriceInCents": 57998,
+                "tradeCountSum": 10
+            },
+            "1755119640000": {
+                "notionalValueInCentsSum": 7481375,
+                "sizeSum": 129,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 12
+            },
+            "1755119700000": {
+                "notionalValueInCentsSum": 695938,
+                "sizeSum": 12,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 8
+            },
+            "1755119760000": {
+                "notionalValueInCentsSum": 24123859,
+                "sizeSum": 416,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 10
+            },
+            "1755119820000": {
+                "notionalValueInCentsSum": 812001,
+                "sizeSum": 14,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 14
+            },
+            "1755119880000": {
+                "notionalValueInCentsSum": 3944137,
+                "sizeSum": 68,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 11
+            },
+            "1755119940000": {
+                "notionalValueInCentsSum": 406029,
+                "sizeSum": 7,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 7
+            },
+            "1755120000000": {
+                "notionalValueInCentsSum": 12006014,
+                "sizeSum": 207,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 8
+            },
+            "1755120060000": {
+                "notionalValueInCentsSum": 1623960,
+                "sizeSum": 28,
+                "stockPriceInCents": 57996,
+                "tradeCountSum": 9
+            },
+            "1755120120000": {
+                "notionalValueInCentsSum": 289977,
+                "sizeSum": 5,
+                "stockPriceInCents": 57993,
+                "tradeCountSum": 5
+            },
+            "1755120180000": {
+                "notionalValueInCentsSum": 521935,
+                "sizeSum": 9,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 9
+            },
+            "1755120240000": {
+                "notionalValueInCentsSum": 405970,
+                "sizeSum": 7,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 7
+            },
+            "1755120300000": {
+                "notionalValueInCentsSum": 2145864,
+                "sizeSum": 37,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 5
+            },
+            "1755120360000": {
+                "notionalValueInCentsSum": 522007,
+                "sizeSum": 9,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 4
+            },
+            "1755120420000": {
+                "notionalValueInCentsSum": 696039,
+                "sizeSum": 12,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 11
+            },
+            "1755120480000": {
+                "notionalValueInCentsSum": 15950281,
+                "sizeSum": 275,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 5
+            },
+            "1755120540000": {
+                "notionalValueInCentsSum": 48717950,
+                "sizeSum": 840,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 4
+            },
+            "1755120600000": {
+                "notionalValueInCentsSum": 174007,
+                "sizeSum": 3,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 3
+            },
+            "1755120660000": {
+                "notionalValueInCentsSum": 522033,
+                "sizeSum": 9,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 5
+            },
+            "1755120720000": {
+                "notionalValueInCentsSum": 5916302,
+                "sizeSum": 102,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 3
+            },
+            "1755120780000": {
+                "notionalValueInCentsSum": 4466131,
+                "sizeSum": 77,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 9
+            },
+            "1755120840000": {
+                "notionalValueInCentsSum": 579989,
+                "sizeSum": 10,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 7
+            },
+            "1755120900000": {
+                "notionalValueInCentsSum": 115998,
+                "sizeSum": 2,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 2
+            },
+            "1755120960000": {
+                "notionalValueInCentsSum": 290005,
+                "sizeSum": 5,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 4
+            },
+            "1755121020000": {
+                "notionalValueInCentsSum": 290009,
+                "sizeSum": 5,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 5
+            },
+            "1755121080000": {
+                "notionalValueInCentsSum": 16761167,
+                "sizeSum": 289,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 8
+            },
+            "1755121140000": {
+                "notionalValueInCentsSum": 290001,
+                "sizeSum": 5,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 5
+            },
+            "1755121200000": {
+                "notionalValueInCentsSum": 406013,
+                "sizeSum": 7,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 7
+            },
+            "1755121260000": {
+                "notionalValueInCentsSum": 1391992,
+                "sizeSum": 24,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 5
+            },
+            "1755121320000": {
+                "notionalValueInCentsSum": 522017,
+                "sizeSum": 9,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 7
+            },
+            "1755121380000": {
+                "notionalValueInCentsSum": 1334048,
+                "sizeSum": 23,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 8
+            },
+            "1755121440000": {
+                "notionalValueInCentsSum": 870010,
+                "sizeSum": 15,
+                "stockPriceInCents": 57998,
+                "tradeCountSum": 4
+            },
+            "1755121500000": {
+                "notionalValueInCentsSum": 2204121,
+                "sizeSum": 38,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 7
+            },
+            "1755121560000": {
+                "notionalValueInCentsSum": 30336606,
+                "sizeSum": 523,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 8
+            },
+            "1755121620000": {
+                "notionalValueInCentsSum": 11020718,
+                "sizeSum": 190,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 12
+            },
+            "1755121680000": {
+                "notionalValueInCentsSum": 1102077,
+                "sizeSum": 19,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 9
+            },
+            "1755121740000": {
+                "notionalValueInCentsSum": 928050,
+                "sizeSum": 16,
+                "stockPriceInCents": 58002,
+                "tradeCountSum": 6
+            },
+            "1755121800000": {
+                "notionalValueInCentsSum": 2609938,
+                "sizeSum": 45,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 6
+            },
+            "1755121860000": {
+                "notionalValueInCentsSum": 464016,
+                "sizeSum": 8,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 8
+            },
+            "1755121920000": {
+                "notionalValueInCentsSum": 986046,
+                "sizeSum": 17,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 9
+            },
+            "1755121980000": {
+                "notionalValueInCentsSum": 1739990,
+                "sizeSum": 30,
+                "stockPriceInCents": 57996,
+                "tradeCountSum": 11
+            },
+            "1755122040000": {
+                "notionalValueInCentsSum": 347955,
+                "sizeSum": 6,
+                "stockPriceInCents": 57996,
+                "tradeCountSum": 5
+            },
+            "1755122100000": {
+                "notionalValueInCentsSum": 115999,
+                "sizeSum": 2,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 2
+            },
+            "1755122160000": {
+                "notionalValueInCentsSum": 13340528,
+                "sizeSum": 230,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 8
+            },
+            "1755122220000": {
+                "notionalValueInCentsSum": 347997,
+                "sizeSum": 6,
+                "stockPriceInCents": 57999,
+                "tradeCountSum": 6
+            },
+            "1755122280000": {
+                "notionalValueInCentsSum": 522031,
+                "sizeSum": 9,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 5
+            },
+            "1755122340000": {
+                "notionalValueInCentsSum": 464013,
+                "sizeSum": 8,
+                "stockPriceInCents": 58001,
+                "tradeCountSum": 8
+            },
+            "1755122400000": {
+                "notionalValueInCentsSum": 2262168,
+                "sizeSum": 39,
+                "stockPriceInCents": 57985,
+                "tradeCountSum": 10
+            },
+            "1755122460000": {
+                "notionalValueInCentsSum": 173961,
+                "sizeSum": 3,
+                "stockPriceInCents": 57987,
+                "tradeCountSum": 3
+            },
+            "1755122520000": {
+                "notionalValueInCentsSum": 173955,
+                "sizeSum": 3,
+                "stockPriceInCents": 57984,
+                "tradeCountSum": 3
+            },
+            "1755122580000": {
+                "notionalValueInCentsSum": 13915991,
+                "sizeSum": 240,
+                "stockPriceInCents": 57986,
+                "tradeCountSum": 5
+            },
+            "1755122640000": {
+                "notionalValueInCentsSum": 6204657,
+                "sizeSum": 107,
+                "stockPriceInCents": 57979,
+                "tradeCountSum": 8
+            },
+            "1755122700000": {
+                "notionalValueInCentsSum": 463851,
+                "sizeSum": 8,
+                "stockPriceInCents": 57985,
+                "tradeCountSum": 8
+            },
+            "1755122760000": {
+                "notionalValueInCentsSum": 927718,
+                "sizeSum": 16,
+                "stockPriceInCents": 57979,
+                "tradeCountSum": 6
+            },
+            "1755122820000": {
+                "notionalValueInCentsSum": 927719,
+                "sizeSum": 16,
+                "stockPriceInCents": 57980,
+                "tradeCountSum": 6
+            },
+            "1755122880000": {
+                "notionalValueInCentsSum": 12001864,
+                "sizeSum": 207,
+                "stockPriceInCents": 57979,
+                "tradeCountSum": 8
+            },
+            "1755122940000": {
+                "notionalValueInCentsSum": 4811246,
+                "sizeSum": 83,
+                "stockPriceInCents": 57967,
+                "tradeCountSum": 13
+            },
+            "1755123000000": {
+                "notionalValueInCentsSum": 2028762,
+                "sizeSum": 35,
+                "stockPriceInCents": 57962,
+                "tradeCountSum": 8
+            },
+            "1755123060000": {
+                "notionalValueInCentsSum": 47295395,
+                "sizeSum": 816,
+                "stockPriceInCents": 57967,
+                "tradeCountSum": 10
+            },
+            "1755123120000": {
+                "notionalValueInCentsSum": 463797,
+                "sizeSum": 8,
+                "stockPriceInCents": 57978,
+                "tradeCountSum": 8
+            },
+            "1755123180000": {
+                "notionalValueInCentsSum": 16116766,
+                "sizeSum": 278,
+                "stockPriceInCents": 57969,
+                "tradeCountSum": 4
+            },
+            "1755123240000": {
+                "notionalValueInCentsSum": 2318804,
+                "sizeSum": 40,
+                "stockPriceInCents": 57969,
+                "tradeCountSum": 8
+            },
+            "1755123300000": {
+                "notionalValueInCentsSum": 405791,
+                "sizeSum": 7,
+                "stockPriceInCents": 57968,
+                "tradeCountSum": 7
+            },
+            "1755123360000": {
+                "notionalValueInCentsSum": 463763,
+                "sizeSum": 8,
+                "stockPriceInCents": 57969,
+                "tradeCountSum": 6
+            },
+            "1755123420000": {
+                "notionalValueInCentsSum": 6318948,
+                "sizeSum": 109,
+                "stockPriceInCents": 57973,
+                "tradeCountSum": 8
+            },
+            "1755123480000": {
+                "notionalValueInCentsSum": 115946,
+                "sizeSum": 2,
+                "stockPriceInCents": 57974,
+                "tradeCountSum": 2
+            },
+            "1755123540000": {
+                "notionalValueInCentsSum": 1971346,
+                "sizeSum": 34,
+                "stockPriceInCents": 57980,
+                "tradeCountSum": 9
+            },
+            "1755123600000": {
+                "notionalValueInCentsSum": 1275587,
+                "sizeSum": 22,
+                "stockPriceInCents": 57986,
+                "tradeCountSum": 3
+            },
+            "1755123660000": {
+                "notionalValueInCentsSum": 3363417,
+                "sizeSum": 58,
+                "stockPriceInCents": 57990,
+                "tradeCountSum": 8
+            },
+            "1755123720000": {
+                "notionalValueInCentsSum": 811887,
+                "sizeSum": 14,
+                "stockPriceInCents": 57991,
+                "tradeCountSum": 7
+            },
+            "1755123780000": {
+                "notionalValueInCentsSum": 58393937,
+                "sizeSum": 1007,
+                "stockPriceInCents": 57992,
+                "tradeCountSum": 9
+            },
+            "1755123840000": {
+                "notionalValueInCentsSum": 115982,
+                "sizeSum": 2,
+                "stockPriceInCents": 57991,
+                "tradeCountSum": 2
+            },
+            "1755123900000": {
+                "notionalValueInCentsSum": 16354243,
+                "sizeSum": 282,
+                "stockPriceInCents": 57994,
+                "tradeCountSum": 11
+            },
+            "1755123960000": {
+                "notionalValueInCentsSum": 15080826,
+                "sizeSum": 260,
+                "stockPriceInCents": 58000,
+                "tradeCountSum": 6
+            },
+            "1755124020000": {
+                "notionalValueInCentsSum": 2030157,
+                "sizeSum": 35,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 11
+            },
+            "1755124080000": {
+                "notionalValueInCentsSum": 10034931,
+                "sizeSum": 173,
+                "stockPriceInCents": 58004,
+                "tradeCountSum": 6
+            },
+            "1755124140000": {
+                "notionalValueInCentsSum": 8062509,
+                "sizeSum": 139,
+                "stockPriceInCents": 58011,
+                "tradeCountSum": 6
+            },
+            "1755124200000": {
+                "notionalValueInCentsSum": 928049,
+                "sizeSum": 16,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 6
+            },
+            "1755124260000": {
+                "notionalValueInCentsSum": 3016437,
+                "sizeSum": 52,
+                "stockPriceInCents": 58007,
+                "tradeCountSum": 14
+            },
+            "1755124320000": {
+                "notionalValueInCentsSum": 696068,
+                "sizeSum": 12,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 9
+            },
+            "1755124380000": {
+                "notionalValueInCentsSum": 116014,
+                "sizeSum": 2,
+                "stockPriceInCents": 58007,
+                "tradeCountSum": 2
+            },
+            "1755124440000": {
+                "notionalValueInCentsSum": 754111,
+                "sizeSum": 13,
+                "stockPriceInCents": 58009,
+                "tradeCountSum": 4
+            },
+            "1755124500000": {
+                "notionalValueInCentsSum": 1102027,
+                "sizeSum": 19,
+                "stockPriceInCents": 58005,
+                "tradeCountSum": 3
+            },
+            "1755124560000": {
+                "notionalValueInCentsSum": 522033,
+                "sizeSum": 9,
+                "stockPriceInCents": 58003,
+                "tradeCountSum": 3
+            },
+            "1755124620000": {
+                "notionalValueInCentsSum": 40894240,
+                "sizeSum": 705,
+                "stockPriceInCents": 58006,
+                "tradeCountSum": 6
+            },
+            "1755124680000": {
+                "notionalValueInCentsSum": 1740271,
+                "sizeSum": 30,
+                "stockPriceInCents": 58010,
+                "tradeCountSum": 5
+            },
+            "1755124740000": {
+                "notionalValueInCentsSum": 6787083,
+                "sizeSum": 117,
+                "stockPriceInCents": 58007,
+                "tradeCountSum": 8
+            },
+            "1755124800000": {
+                "notionalValueInCentsSum": 11949451,
+                "sizeSum": 206,
+                "stockPriceInCents": 58010,
+                "tradeCountSum": 8
+            },
+            "1755124860000": {
+                "notionalValueInCentsSum": 4524659,
+                "sizeSum": 78,
+                "stockPriceInCents": 58012,
+                "tradeCountSum": 8
+            },
+            "1755124920000": {
+                "notionalValueInCentsSum": 116029,
+                "sizeSum": 2,
+                "stockPriceInCents": 58018,
+                "tradeCountSum": 2
+            },
+            "1755124980000": {
+                "notionalValueInCentsSum": 7716593,
+                "sizeSum": 133,
+                "stockPriceInCents": 58017,
+                "tradeCountSum": 5
+            },
+            "1755125040000": {
+                "notionalValueInCentsSum": 12880741,
+                "sizeSum": 222,
+                "stockPriceInCents": 58023,
+                "tradeCountSum": 13
+            },
+            "1755125100000": {
+                "notionalValueInCentsSum": 3017146,
+                "sizeSum": 52,
+                "stockPriceInCents": 58024,
+                "tradeCountSum": 13
+            },
+            "1755125160000": {
+                "notionalValueInCentsSum": 13172352,
+                "sizeSum": 227,
+                "stockPriceInCents": 58031,
+                "tradeCountSum": 8
+            },
+            "1755125220000": {
+                "notionalValueInCentsSum": 7834834,
+                "sizeSum": 135,
+                "stockPriceInCents": 58032,
+                "tradeCountSum": 12
+            },
+            "1755125280000": {
+                "notionalValueInCentsSum": 18338627,
+                "sizeSum": 316,
+                "stockPriceInCents": 58036,
+                "tradeCountSum": 12
+            },
+            "1755125340000": {
+                "notionalValueInCentsSum": 5049265,
+                "sizeSum": 87,
+                "stockPriceInCents": 58036,
+                "tradeCountSum": 8
+            },
+            "1755125400000": {
+                "notionalValueInCentsSum": 17817862,
+                "sizeSum": 307,
+                "stockPriceInCents": 58040,
+                "tradeCountSum": 11
+            },
+            "1755125460000": {
+                "notionalValueInCentsSum": 19386890,
+                "sizeSum": 334,
+                "stockPriceInCents": 58044,
+                "tradeCountSum": 12
+            },
+            "1755125520000": {
+                "notionalValueInCentsSum": 1276942,
+                "sizeSum": 22,
+                "stockPriceInCents": 58042,
+                "tradeCountSum": 8
+            },
+            "1755125580000": {
+                "notionalValueInCentsSum": 54330288,
+                "sizeSum": 936,
+                "stockPriceInCents": 58044,
+                "tradeCountSum": 10
+            },
+            "1755125640000": {
+                "notionalValueInCentsSum": 3714481,
+                "sizeSum": 64,
+                "stockPriceInCents": 58042,
+                "tradeCountSum": 14
+            },
+            "1755125700000": {
+                "notionalValueInCentsSum": 348254,
+                "sizeSum": 6,
+                "stockPriceInCents": 58045,
+                "tradeCountSum": 4
+            },
+            "1755125760000": {
+                "notionalValueInCentsSum": 464317,
+                "sizeSum": 8,
+                "stockPriceInCents": 58039,
+                "tradeCountSum": 8
+            },
+            "1755125820000": {
+                "notionalValueInCentsSum": 31748441,
+                "sizeSum": 547,
+                "stockPriceInCents": 58040,
+                "tradeCountSum": 7
+            },
+            "1755125880000": {
+                "notionalValueInCentsSum": 11899065,
+                "sizeSum": 205,
+                "stockPriceInCents": 58042,
+                "tradeCountSum": 4
+            },
+            "1755125940000": {
+                "notionalValueInCentsSum": 6964911,
+                "sizeSum": 120,
+                "stockPriceInCents": 58045,
+                "tradeCountSum": 10
+            },
+            "1755126000000": {
+                "notionalValueInCentsSum": 348258,
+                "sizeSum": 6,
+                "stockPriceInCents": 58043,
+                "tradeCountSum": 6
+            },
+            "1755126060000": {
+                "notionalValueInCentsSum": 1683380,
+                "sizeSum": 29,
+                "stockPriceInCents": 58050,
+                "tradeCountSum": 8
+            },
+            "1755126120000": {
+                "notionalValueInCentsSum": 15616516,
+                "sizeSum": 269,
+                "stockPriceInCents": 58054,
+                "tradeCountSum": 6
+            },
+            "1755126180000": {
+                "notionalValueInCentsSum": 25078466,
+                "sizeSum": 432,
+                "stockPriceInCents": 58052,
+                "tradeCountSum": 6
+            },
+            "1755126240000": {
+                "notionalValueInCentsSum": 29780127,
+                "sizeSum": 513,
+                "stockPriceInCents": 58051,
+                "tradeCountSum": 5
+            },
+            "1755126300000": {
+                "notionalValueInCentsSum": 12074394,
+                "sizeSum": 208,
+                "stockPriceInCents": 58049,
+                "tradeCountSum": 10
+            },
+            "1755126360000": {
+                "notionalValueInCentsSum": 522379,
+                "sizeSum": 9,
+                "stockPriceInCents": 58039,
+                "tradeCountSum": 8
+            },
+            "1755126420000": {
+                "notionalValueInCentsSum": 6616592,
+                "sizeSum": 114,
+                "stockPriceInCents": 58043,
+                "tradeCountSum": 11
+            },
+            "1755126480000": {
+                "notionalValueInCentsSum": 290221,
+                "sizeSum": 5,
+                "stockPriceInCents": 58044,
+                "tradeCountSum": 4
+            },
+            "1755126540000": {
+                "notionalValueInCentsSum": 36916032,
+                "sizeSum": 636,
+                "stockPriceInCents": 58043,
+                "tradeCountSum": 9
+            },
+            "1755126600000": {
+                "notionalValueInCentsSum": 116087,
+                "sizeSum": 2,
+                "stockPriceInCents": 58045,
+                "tradeCountSum": 2
+            },
+            "1755126660000": {
+                "notionalValueInCentsSum": 6269273,
+                "sizeSum": 108,
+                "stockPriceInCents": 58047,
+                "tradeCountSum": 8
+            },
+            "1755126720000": {
+                "notionalValueInCentsSum": 1334971,
+                "sizeSum": 23,
+                "stockPriceInCents": 58042,
+                "tradeCountSum": 3
+            },
+            "1755126780000": {
+                "notionalValueInCentsSum": 17411791,
+                "sizeSum": 300,
+                "stockPriceInCents": 58039,
+                "tradeCountSum": 10
+            },
+            "1755126840000": {
+                "notionalValueInCentsSum": 7602758,
+                "sizeSum": 131,
+                "stockPriceInCents": 58032,
+                "tradeCountSum": 7
+            },
+            "1755126900000": {
+                "notionalValueInCentsSum": 6266607,
+                "sizeSum": 108,
+                "stockPriceInCents": 58030,
+                "tradeCountSum": 8
+            },
+            "1755126960000": {
+                "notionalValueInCentsSum": 464254,
+                "sizeSum": 8,
+                "stockPriceInCents": 58034,
+                "tradeCountSum": 8
+            },
+            "1755127020000": {
+                "notionalValueInCentsSum": 522306,
+                "sizeSum": 9,
+                "stockPriceInCents": 58037,
+                "tradeCountSum": 5
+            },
+            "1755127080000": {
+                "notionalValueInCentsSum": 696407,
+                "sizeSum": 12,
+                "stockPriceInCents": 58029,
+                "tradeCountSum": 9
+            },
+            "1755127140000": {
+                "notionalValueInCentsSum": 116062,
+                "sizeSum": 2,
+                "stockPriceInCents": 58030,
+                "tradeCountSum": 2
+            },
+            "1755127260000": {
+                "notionalValueInCentsSum": 7370696,
+                "sizeSum": 127,
+                "stockPriceInCents": 58036,
+                "tradeCountSum": 9
+            },
+            "1755127320000": {
+                "notionalValueInCentsSum": 1450897,
+                "sizeSum": 25,
+                "stockPriceInCents": 58039,
+                "tradeCountSum": 10
+            },
+            "1755127380000": {
+                "notionalValueInCentsSum": 1334877,
+                "sizeSum": 23,
+                "stockPriceInCents": 58040,
+                "tradeCountSum": 11
+            },
+            "1755127440000": {
+                "notionalValueInCentsSum": 1334893,
+                "sizeSum": 23,
+                "stockPriceInCents": 58035,
+                "tradeCountSum": 6
+            },
+            "1755127500000": {
+                "notionalValueInCentsSum": 754423,
+                "sizeSum": 13,
+                "stockPriceInCents": 58034,
+                "tradeCountSum": 4
+            },
+            "1755127560000": {
+                "notionalValueInCentsSum": 5977461,
+                "sizeSum": 103,
+                "stockPriceInCents": 58034,
+                "tradeCountSum": 11
+            },
+            "1755127620000": {
+                "notionalValueInCentsSum": 1218723,
+                "sizeSum": 21,
+                "stockPriceInCents": 58035,
+                "tradeCountSum": 9
+            },
+            "1755127680000": {
+                "notionalValueInCentsSum": 870515,
+                "sizeSum": 15,
+                "stockPriceInCents": 58035,
+                "tradeCountSum": 8
+            },
+            "1755127740000": {
+                "notionalValueInCentsSum": 29712936,
+                "sizeSum": 512,
+                "stockPriceInCents": 58036,
+                "tradeCountSum": 10
+            },
+            "1755127800000": {
+                "notionalValueInCentsSum": 11956821,
+                "sizeSum": 206,
+                "stockPriceInCents": 58043,
+                "tradeCountSum": 6
+            },
+            "1755127860000": {
+                "notionalValueInCentsSum": 464327,
+                "sizeSum": 8,
+                "stockPriceInCents": 58040,
+                "tradeCountSum": 8
+            },
+            "1755127920000": {
+                "notionalValueInCentsSum": 348242,
+                "sizeSum": 6,
+                "stockPriceInCents": 58040,
+                "tradeCountSum": 6
+            },
+            "1755127980000": {
+                "notionalValueInCentsSum": 1334959,
+                "sizeSum": 23,
+                "stockPriceInCents": 58043,
+                "tradeCountSum": 12
+            },
+            "1755128040000": {
+                "notionalValueInCentsSum": 1335024,
+                "sizeSum": 23,
+                "stockPriceInCents": 58048,
+                "tradeCountSum": 10
+            },
+            "1755128100000": {
+                "notionalValueInCentsSum": 522428,
+                "sizeSum": 9,
+                "stockPriceInCents": 58049,
+                "tradeCountSum": 4
+            },
+            "1755128160000": {
+                "notionalValueInCentsSum": 4585766,
+                "sizeSum": 79,
+                "stockPriceInCents": 58050,
+                "tradeCountSum": 10
+            },
+            "1755128220000": {
+                "notionalValueInCentsSum": 1915792,
+                "sizeSum": 33,
+                "stockPriceInCents": 58058,
+                "tradeCountSum": 9
+            },
+            "1755128280000": {
+                "notionalValueInCentsSum": 696651,
+                "sizeSum": 12,
+                "stockPriceInCents": 58051,
+                "tradeCountSum": 8
+            },
+            "1755128340000": {
+                "notionalValueInCentsSum": 116105,
+                "sizeSum": 2,
+                "stockPriceInCents": 58054,
+                "tradeCountSum": 2
+            },
+            "1755128400000": {
+                "notionalValueInCentsSum": 232246,
+                "sizeSum": 4,
+                "stockPriceInCents": 58065,
+                "tradeCountSum": 4
+            },
+            "1755128460000": {
+                "notionalValueInCentsSum": 871008,
+                "sizeSum": 15,
+                "stockPriceInCents": 58067,
+                "tradeCountSum": 5
+            },
+            "1755128520000": {
+                "notionalValueInCentsSum": 4587297,
+                "sizeSum": 79,
+                "stockPriceInCents": 58066,
+                "tradeCountSum": 7
+            },
+            "1755128580000": {
+                "notionalValueInCentsSum": 30312351,
+                "sizeSum": 522,
+                "stockPriceInCents": 58069,
+                "tradeCountSum": 16
+            },
+            "1755128640000": {
+                "notionalValueInCentsSum": 48263408,
+                "sizeSum": 831,
+                "stockPriceInCents": 58079,
+                "tradeCountSum": 5
+            },
+            "1755128700000": {
+                "notionalValueInCentsSum": 20327240,
+                "sizeSum": 350,
+                "stockPriceInCents": 58067,
+                "tradeCountSum": 13
+            },
+            "1755128760000": {
+                "notionalValueInCentsSum": 58873461,
+                "sizeSum": 1014,
+                "stockPriceInCents": 58061,
+                "tradeCountSum": 13
+            },
+            "1755128820000": {
+                "notionalValueInCentsSum": 7315433,
+                "sizeSum": 126,
+                "stockPriceInCents": 58055,
+                "tradeCountSum": 7
+            },
+            "1755128880000": {
+                "notionalValueInCentsSum": 2032084,
+                "sizeSum": 35,
+                "stockPriceInCents": 58060,
+                "tradeCountSum": 4
+            },
+            "1755128940000": {
+                "notionalValueInCentsSum": 3599691,
+                "sizeSum": 62,
+                "stockPriceInCents": 58058,
+                "tradeCountSum": 11
+            },
+            "1755129000000": {
+                "notionalValueInCentsSum": 348371,
+                "sizeSum": 6,
+                "stockPriceInCents": 58057,
+                "tradeCountSum": 5
+            },
+            "1755129060000": {
+                "notionalValueInCentsSum": 1509571,
+                "sizeSum": 26,
+                "stockPriceInCents": 58063,
+                "tradeCountSum": 8
+            },
+            "1755129120000": {
+                "notionalValueInCentsSum": 1800015,
+                "sizeSum": 31,
+                "stockPriceInCents": 58065,
+                "tradeCountSum": 2
+            },
+            "1755129180000": {
+                "notionalValueInCentsSum": 696671,
+                "sizeSum": 12,
+                "stockPriceInCents": 58053,
+                "tradeCountSum": 3
+            },
+            "1755129240000": {
+                "notionalValueInCentsSum": 4005672,
+                "sizeSum": 69,
+                "stockPriceInCents": 58053,
+                "tradeCountSum": 10
+            },
+            "1755129300000": {
+                "notionalValueInCentsSum": 15383707,
+                "sizeSum": 265,
+                "stockPriceInCents": 58050,
+                "tradeCountSum": 10
+            },
+            "1755129360000": {
+                "notionalValueInCentsSum": 1567481,
+                "sizeSum": 27,
+                "stockPriceInCents": 58053,
+                "tradeCountSum": 9
+            },
+            "1755129420000": {
+                "notionalValueInCentsSum": 80810497,
+                "sizeSum": 1392,
+                "stockPriceInCents": 58049,
+                "tradeCountSum": 13
+            },
+            "1755129480000": {
+                "notionalValueInCentsSum": 71048709,
+                "sizeSum": 1224,
+                "stockPriceInCents": 58046,
+                "tradeCountSum": 10
+            },
+            "1755129540000": {
+                "notionalValueInCentsSum": 41558081,
+                "sizeSum": 716,
+                "stockPriceInCents": 58042,
+                "tradeCountSum": 3
+            }
+        }
+    },
+    "errors": []
+}

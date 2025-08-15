@@ -1,0 +1,233 @@
+[
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 232.12,
+        "close": 229.96,
+        "high": 232.29,
+        "low": 228.48,
+        "volume": 5430381,
+        "symbol": "AAPL",
+        "1D": 0.7535,
+        "name": "Apple Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 59.1,
+        "close": 58.01,
+        "high": 59.41,
+        "low": 57.95,
+        "volume": 568971,
+        "symbol": "AFRM",
+        "1D": -0.0172,
+        "name": "Affirm Holdings, Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 767.91,
+        "close": 756.29,
+        "high": 769.2,
+        "low": 751.5,
+        "volume": 277328,
+        "symbol": "ASML",
+        "1D": 0.8064,
+        "name": "ASML Holding N.V."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 237.08,
+        "close": 237.33,
+        "high": 238.1,
+        "low": 232.66,
+        "volume": 3499535,
+        "symbol": "AVGO",
+        "1D": 3.5003,
+        "name": "Broadcom Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 46.61,
+        "close": 46.52,
+        "high": 46.88,
+        "low": 46.08,
+        "volume": 6167989,
+        "symbol": "BAC",
+        "1D": -0.2358,
+        "name": "Bank of America Corporation"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 106.83,
+        "close": 107.04,
+        "high": 107.74,
+        "low": 106.54,
+        "volume": 881215,
+        "symbol": "DIS",
+        "1D": 0.526,
+        "name": "The Walt Disney Company"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 40.06,
+        "close": 39.3,
+        "high": 40.35,
+        "low": 39.09,
+        "volume": 1045041,
+        "symbol": "DKNG",
+        "1D": -0.9829,
+        "name": "DraftKings Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 276.85,
+        "close": 275.01,
+        "high": 277.46,
+        "low": 274.7,
+        "volume": 371913,
+        "symbol": "FDX",
+        "1D": -0.8184,
+        "name": "FedEx Corporation"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 193.88,
+        "close": 192.93,
+        "high": 194,
+        "low": 190.57,
+        "volume": 252149,
+        "symbol": "FSLR",
+        "1D": 1.0425,
+        "name": "First Solar, Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 268.42,
+        "close": 266.65,
+        "high": 268.81,
+        "low": 266.13,
+        "volume": 202619,
+        "symbol": "GD",
+        "1D": -0.2767,
+        "name": "General Dynamics Corporation"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 81.41,
+        "close": 80.29,
+        "high": 81.81,
+        "low": 79.6,
+        "volume": 1658963,
+        "symbol": "LRCX",
+        "1D": 1.3633,
+        "name": "Lam Research Corporation"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 33.84,
+        "close": 34.06,
+        "high": 34.79,
+        "low": 33.6,
+        "volume": 982793,
+        "symbol": "MRNA",
+        "1D": 0.8886,
+        "name": "Moderna, Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 859.79,
+        "close": 858.22,
+        "high": 865,
+        "low": 852.13,
+        "volume": 454501,
+        "symbol": "NFLX",
+        "1D": 1.8674,
+        "name": "Netflix, Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 136.69,
+        "close": 137.75,
+        "high": 138.5,
+        "low": 135.46,
+        "volume": 15320824,
+        "symbol": "NVDA",
+        "1D": 3.0995,
+        "name": "NVIDIA Corporation"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 54.58,
+        "close": 54.64,
+        "high": 55.08,
+        "low": 54.37,
+        "volume": 1189736,
+        "symbol": "ON",
+        "1D": 2.0931,
+        "name": "ON Semiconductor Corporation"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 26.4,
+        "close": 26.3,
+        "high": 26.56,
+        "low": 26.22,
+        "volume": 3529807,
+        "symbol": "PFE",
+        "1D": -0.7173,
+        "name": "Pfizer Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 165.38,
+        "close": 164.57,
+        "high": 165.61,
+        "low": 163.1,
+        "volume": 966213,
+        "symbol": "QCOM",
+        "1D": 1.9389,
+        "name": "QUALCOMM Incorporated"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 66.28,
+        "close": 65.53,
+        "high": 66.45,
+        "low": 65.13,
+        "volume": 1120117,
+        "symbol": "RBLX",
+        "1D": 0.4137,
+        "name": "Roblox Corporation"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 192.54,
+        "close": 192.39,
+        "high": 192.93,
+        "low": 190.02,
+        "volume": 720953,
+        "symbol": "TXN",
+        "1D": 2.6952,
+        "name": "Texas Instruments Incorporated"
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 130.15,
+        "close": 129.72,
+        "high": 130.58,
+        "low": 129.43,
+        "volume": 679279,
+        "symbol": "UPS",
+        "1D": -0.1616,
+        "name": "United Parcel Service, Inc."
+    },
+    {
+        "date": "2025-01-17 15:30:00",
+        "open": 35.89,
+        "close": 36.01,
+        "high": 36.5,
+        "low": 35.75,
+        "volume": 672917,
+        "symbol": "X",
+        "1D": 0.6704,
+        "name": "United States Steel Corporation"
+    }
+]

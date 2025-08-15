@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Fetcher</title>
+    <script>
+        const urls = [
+    "http://testapi.webepex.com/ghostboard/dashboard/mag7/x_tickerPrices.php",
+    "http://testapi.webepex.com/ghostboard/dashboard/mag7/x_fetchStocksData.php"
+        ];
+
+        function fetchUrls() {
+            urls.forEach(url => {
+                fetch(url).then(response => {
+                    console.log(`Fetched: ${url}, Status: ${response.status}`);
+                }).catch(error => {
+                    console.error(`Error fetching ${url}:`, error);
+                });
+            });
+        }
+
+        fetchUrls()
+    </script>
+</head>
+<body>
+    <h1>Mag 7 Updated</h1>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Fetcher</title>
+    <script>
+        const urls = [
+    "http://testapi.webepex.com/ghostboard/scanners/x_intraday.php",
+    "http://testapi.webepex.com/ghostboard/scanners/x_hammerday.php",
+    "https://testapi.webepex.com/ghostboard/scanners/liveprice_x.php",
+    "https://testapi.webepex.com/ghostboard/scanners/x_hammerweek.php",
+    "https://testapi.webepex.com/ghostboard/scanners/intraweek_x.php",
+    "https://testapi.webepex.com/ghostboard/scanners/x_hammermonth.php",
+    "https://testapi.webepex.com/ghostboard/scanners/x_intramonth.php",
+    "https://testapi.webepex.com/ghostboard/scanners/stockname_x.php"
+        ];
+
+        function fetchUrls() {
+            urls.forEach(url => {
+                fetch(url).then(response => {
+                    console.log(`Fetched: ${url}, Status: ${response.status}`);
+                }).catch(error => {
+                    console.error(`Error fetching ${url}:`, error);
+                });
+            });
+        }
+
+        fetchUrls()
+    </script>
+</head>
+<body>
+    <h1>Scanner Updated</h1>
+</body>
+</html>

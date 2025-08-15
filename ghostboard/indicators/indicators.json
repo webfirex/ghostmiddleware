@@ -1,0 +1,21 @@
+{
+  "res": [
+    {
+		"id": "exhaustion",
+      "title": "Exhaustion",
+      "subHead": "GhostBoard Exhaustion utilizes advanced Candlestick Reading Pattern Recognition by detecting the candles breaking into a downtrend or uptrend move consecutively closing lower/higher to pinpoint exhaustion points on charts, empowering traders to anticipate market reversals and optimize decision-making.",
+      "body": "Unique Indicator <br /> Using mathematically calculated moves on candlestick readings for exhaustion.<br /><br />This indicator will show a 'Bullish Exhaustion' or a 'Bearish Exhaustion'. Edits can be made in settings.<br /><br />If you see an 'E' Label Pointing UP Print below the candle while price moving down, this indicates a 'Bullish Exhaustion', calculating price should reverse and move back up.<br /><br />If you see an 'E' Label Pointing DOWN Print Above the candle while price moving up, this indicates a 'Bearish Exhaustion', calculating price should reverse and move back down.",
+      "bTitle": "Install Exhaustion",
+      "bLink": "https://www.tradingview.com/script/OOLjhLcj-GhostBoard-Exhaustion/",
+      "img": "https://i.ibb.co/8DqFy2L/Screenshot-2024-11-05-at-1-16-59-AM.png"
+    },{
+		"id": "candletype",
+      "title": "Candle Type (The Strat)",
+      "subHead": "This script identifies the 3 different candle types for use in TheStrat",
+      "body": "Candle Type 1 - Inside Candle<br />Candle Type 2- Up or Down Candle<br />Candle Type 3 - Engulfing Candle<br /><br />Analysis of the candle types can help you define actionable trades<br /><br />TIP: TURN OFF CANDLE TYPE 2 IN SETTINGS AFTER ADDING",
+      "bTitle": "Install Candle Type",
+      "bLink": "https://www.tradingview.com/script/0WOo54ab-Candle-Type-The-Strat/",
+      "img": "https://i.ibb.co/rF8zz1d/imageweg.png"
+    }
+  ]
+}

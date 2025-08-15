@@ -1,0 +1,65 @@
+[
+    {
+        "timestamp": "2025-06-21 12:25:14",
+        "ip": "49.43.114.203",
+        "browser": "Safari",
+        "os": "Mac",
+        "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Safari\/605.1.15",
+        "referrer": "Direct",
+        "uri": "\/my-nasdaq\/"
+    },
+    {
+        "timestamp": "2025-06-21 12:25:51",
+        "ip": "49.43.114.203",
+        "browser": "Safari",
+        "os": "Mac",
+        "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Safari\/605.1.15",
+        "referrer": "Direct",
+        "uri": "\/my-nasdaq\/"
+    },
+    {
+        "timestamp": "2025-06-21 12:28:00",
+        "ip": "49.43.114.203",
+        "browser": "Safari",
+        "os": "Mac",
+        "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Safari\/605.1.15",
+        "referrer": "Direct",
+        "uri": "\/my-nyse\/"
+    },
+    {
+        "timestamp": "2025-06-21 12:28:22",
+        "ip": "35.237.4.214",
+        "browser": "Unknown",
+        "os": "Unknown",
+        "user_agent": "Mozilla\/5.0 (compatible; Discordbot\/2.0; +https:\/\/discordapp.com)",
+        "referrer": "Direct",
+        "uri": "\/my-nyse\/"
+    },
+    {
+        "timestamp": "2025-06-21 12:35:09",
+        "ip": "49.43.114.203",
+        "browser": "Chrome",
+        "os": "Linux",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "referrer": "Direct",
+        "uri": "\/my-nyse\/"
+    },
+    {
+        "timestamp": "2025-06-21 12:35:39",
+        "ip": "49.43.114.203",
+        "browser": "Safari",
+        "os": "Mac",
+        "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Safari\/605.1.15",
+        "referrer": "Direct",
+        "uri": "\/my-nyse\/"
+    },
+    {
+        "timestamp": "2025-06-21 20:21:23",
+        "ip": "35.237.4.214",
+        "browser": "Unknown",
+        "os": "Unknown",
+        "user_agent": "Mozilla\/5.0 (compatible; Discordbot\/2.0; +https:\/\/discordapp.com)",
+        "referrer": "Direct",
+        "uri": "\/my-nyse\/"
+    }
+]

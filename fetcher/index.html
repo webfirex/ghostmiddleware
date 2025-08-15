@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>URL Fetcher</title>
+  <script>
+    const urlsEvery30Sec = [
+      "https://testapi.webepex.com/ghostboard/netflowdatandx.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataspx.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataqqq.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataspy.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatasqqq.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatatsla.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatameta.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataaapl.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataamzn.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatababa.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatanvda.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataamd.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatamstr.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatacoin.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatanflx.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataspot.php",
+      "https://testapi.webepex.com/ghostboard/netflowdatapltr.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataavgo.php",
+      "https://testapi.webepex.com/ghostboard/netflowdataba.php",
+      "https://testapi.webepex.com/ghostboard/scanners/intraday.php",
+      "https://testapi.webepex.com/ghostboard/scanners/hammerday.php",
+      "https://testapi.webepex.com/ghostboard/scanners/liveprice.php",
+      "https://testapi.webepex.com/ghostboard/scanners/hammerweek.php",
+      "https://testapi.webepex.com/ghostboard/scanners/intraweek.php",
+      "https://testapi.webepex.com/ghostboard/scanners/hammermonth.php",
+      "https://testapi.webepex.com/ghostboard/scanners/intramonth.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/flowai/fetchflowai.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/flowai/repeatetf.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/flowai/hotflow.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/flow/fetchflow.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/news/fetchNews.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/gamma/exp/spx.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/gamma/exp/spy.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/darkpool/darkprints.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/darkpool/darklevels.php",
+      "https://testapi.webepex.com/ghostboard/dashboard/tickerTape/tickerPrices.php",
+      "https://testapi.webepex.com/ghostboard/scanners/stockname.php",
+      "https://testapi.webepex.com/ghostboard/ecocalendar/ecalendar.php",
+      "https://uw.chainbox.ai/mkt/set.php",
+      "https://uw.chainbox.ai/dte/set.php",
+      "https://uw.chainbox.ai/mkt/spynetflowfetch.php"
+    ];
+
+    const urlsEvery5Min = [
+    "http://testapi.webepex.com/ghostboard/dashboard/mag7/x_tickerPrices.php",
+    "http://testapi.webepex.com/ghostboard/dashboard/mag7/x_fetchStocksData.php",
+    "http://testapi.webepex.com/ghostboard/scanners/x_intraday.php",
+    "http://testapi.webepex.com/ghostboard/scanners/x_hammerday.php",
+    "https://testapi.webepex.com/ghostboard/scanners/liveprice_x.php",
+    "https://testapi.webepex.com/ghostboard/scanners/x_hammerweek.php",
+    "https://testapi.webepex.com/ghostboard/scanners/intraweek_x.php",
+    "https://testapi.webepex.com/ghostboard/scanners/x_hammermonth.php",
+    "https://testapi.webepex.com/ghostboard/scanners/x_intramonth.php",
+    "https://testapi.webepex.com/ghostboard/scanners/stockname_x.php",
+    "https://testapi.webepex.com/ghostboard/dashboard/intradayScreener/x_fetchStocksData.php"
+    ];
+    
+    const urlsEvery15Min = [
+    "https://testapi.webepex.com/ghostboard/dashboard/ghostNewsStocks/x_fetchStocksData.php"
+    ];
+
+    function fetchUrls(list) {
+      list.forEach(url => {
+        fetch(url)
+          .then(response => {
+            console.log(`Fetched: ${url}, Status: ${response.status}`);
+          })
+          .catch(error => {
+            console.error(`Error fetching ${url}:`, error);
+          });
+      });
+    }
+
+    // Initial fetch
+    fetchUrls(urlsEvery30Sec);
+    fetchUrls(urlsEvery5Min);
+    fetchUrls(urlsEvery15Min);
+
+    // Fetch every 30 seconds
+    setInterval(() => fetchUrls(urlsEvery30Sec), 30000);
+
+    // Fetch every 5 minutes
+    setInterval(() => fetchUrls(urlsEvery5Min), 300000);
+    
+    
+    setInterval(() => fetchUrls(urlsEvery15Min), 900000);
+  </script>
+</head>
+<body>
+  <h1>URL Fetcher Running</h1>
+  <p>This page fetches multiple URLs every 30 seconds, special URLs every 5 minutes & 15 minutes.</p>
+</body>
+</html>
