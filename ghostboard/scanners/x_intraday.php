@@ -154,6 +154,6 @@ if (empty($allData)) {
     logMessage("Data has been stored in intraday.json.");
 }
 echo "Writing to: " . realpath('intraday.json');
-echo json_encode(["success" => "Data has been stored in intraday.json."]);
+echo json_encode(["success" => "Data has been stored in intraday.json.", "message" => $allData ]);
 
 ?>
